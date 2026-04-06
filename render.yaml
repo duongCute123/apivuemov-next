@@ -1,7 +1,3 @@
-database:
-  name: vuemov-mongodb
-  plan: free
-
 services:
   - type: web
     name: vuemov-backend
@@ -11,14 +7,10 @@ services:
     plan: free
     envVars:
       - key: MONGODB_URI
-        sync: false
         value: mongodb+srv://duongvuive634_db_user:UZUHizjnhyYyIzCX@vuemov-next.nuewjtc.mongodb.net/?appName=vuemov-next
       - key: MONGODB_DATABASE
-        sync: false
         value: vuemov-next
       - key: JWT_SECRET
-        sync: false
         value: VuemovSecretKey2024ForJWTToken2024Secure123456789
       - key: JWT_EXPIRATION
-        sync: false
         value: "86400000"
