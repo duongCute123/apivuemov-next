@@ -1,22 +1,24 @@
 database:
-  name: vuemov-db
+  name: vuemov-mongodb
   plan: free
 
 services:
   - type: web
     name: vuemov-backend
-    env: java
-    buildCommand: mvn clean package -DskipTests
-    startCommand: java -jar target/vuemov-backend-1.0.0.jar
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    region: singapore
     plan: free
     envVars:
       - key: MONGODB_URI
-        fromDatabase:
-          name: vuemov-db
-          property: MONGODB_URI
+        sync: false
+        value: mongodb+srv://duongvuive634_db_user:UZUHizjnhyYyIzCX@vuemov-next.nuewjtc.mongodb.net/?appName=vuemov-next
       - key: MONGODB_DATABASE
-        value: vuemov
+        sync: false
+        value: vuemov-next
       - key: JWT_SECRET
-        value: VuemovSecretKey2024ForJWTTokenGenerationAndValidation123456789
+        sync: false
+        value: VuemovSecretKey2024ForJWTToken2024Secure123456789
       - key: JWT_EXPIRATION
+        sync: false
         value: "86400000"
