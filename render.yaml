@@ -7,10 +7,10 @@ services:
     plan: free
     envVars:
       - key: MONGODB_URI
-        value: mongodb+srv://duongvuive634_db_user:UZUHizjnhyYyIzCX@vuemov-next.nuewjtc.mongodb.net/?appName=vuemov-next
+        value: "mongodb+srv://duongvuive634_db_user:UZUHizjnhyYyIzCX@vuemov-next.nuewjtc.mongodb.net/?appName=vuemov-next"
       - key: MONGODB_DATABASE
-        value: vuemov-next
+        value: "vuemov-next"
       - key: JWT_SECRET
-        value: VuemovSecretKey2024ForJWTToken2024Secure123456789
+        value: "VuemovSecretKey2024ForJWTToken2024Secure123456789"
       - key: JWT_EXPIRATION
         value: "86400000"
