@@ -1,0 +1,48 @@
+simplifiedChinese,pinyin,englishMeaning,vietnameseMeaning,partOfSpeech,hskLevel,exampleSentence,exampleTranslation
+辩证,biànzhèng,dialectical,biện chứng,adjective,9,辩证思维。,Tư duy biện chứng.
+形而上学,xíngérshàngxué,metaphysics,siêu hình học,noun,9,形而上学思维。,Tư duy siêu hình học.
+唯物主义,wéiwùzhǔyì,materialism,duy vật chủ nghĩa,noun,9,唯物主义哲学。,Triết học duy vật.
+唯心主义,wéixīnzhǔyì,idealism,duy tâm chủ nghĩa,noun,9,唯心主义观点。,Quan điểm duy tâm.
+辩证法,biànzhèngfǎ,dialectics,phép biện chứng,noun,9,唯物辩证法。,Phép biện chứng duy vật.
+客观,kèguān,objective,khách quan,adjective,9,客观规律。,Quy luật khách quan.
+主观,zhǔguān,subjective,chủ quan,adjective,9,主观判断。,Phán đoán chủ quan.
+绝对,juéduì,absolute,tuyệt đối,adjective,9,绝对真理。,Chân lý tuyệt đối.
+相对,xiāngduì,relative,tương đối,adjective,9,相对真理。,Chân lý tương đối.
+普遍,pǔbiàn,universal,phổ biến,adjective,9,普遍规律。,Quy luật phổ biến.
+特殊,tèshū,special,đặc thù,adjective,9,特殊情况。,Trường hợp đặc thù.
+偶然,ǒurán,accidental,ngẫu nhiên,adjective,9,偶然事件。,Sự kiện ngẫu nhiên.
+必然,bìrán,inevitable,tất nhiên,adjective,9,必然规律。,Quy luật tất nhiên.
+因果,yīnguǒ,cause and effect,nhân quả,noun,9,因果关系。,Quan hệ nhân quả.
+关联,guānlián,relevance,liên quan,noun,9,关联性。,Tính liên quan.
+制约,zhìyuē,restriction,tương chế,verb,9,相互制约。,Tương hỗ tương chế.
+影响,yǐngxiǎng,influence,ảnh hưởng,verb,9,影响因素。,Yếu tố ảnh hưởng.
+作用,zuòyòng,function,tác dụng,noun,9,发挥作用。,Phát huy tác dụng.
+反馈,fǎnkuì,feedback,phản hồi,noun,9,正反馈。,Phản hồi tích cực.
+循环,xúnhuán,cycle,tuần hoàn,noun,9,良性循环。,Tuần hoàn lành tính.
+往复,wǎngfù,back and forth,qua lại,verb,9,循环往复。,Tuần hoàn qua lại.
+平衡,pínghéng,balance,cân bằng,noun,9,生态平衡。,Cân bằng sinh thái.
+失衡,shīhéng,imbalance,mất cân bằng,verb,9,生态失衡。,Mất cân bằng sinh thái.
+协调,xiétiáo,harmony,hiệp điều,adjective,9,协调发展。,Phát triển hiệp điều.
+可持续,kěchíxù,sustainable,bền vững,adjective,9,可持续发展。,Phát triển bền vững.
+包容性,bāoróngxìng,inclusivity,tính bao dung,noun,9,包容性增长。,Tăng trưởng bao trùm.
+韧性,rènxìng,resilience,sức bền,noun,9,经济韧性。,Sức bền kinh tế.
+灵活性,línghuóxìng,flexibility,tính linh hoạt,noun,9,政策灵活性。,Tính linh hoạt chính sách.
+适应力,shìyìnglì,adaptability,khả năng thích ứng,noun,9,环境适应力。,Khả năng thích ứng môi trường.
+竞争力,jìngzhēnglì,competitiveness,năng lực cạnh tranh,noun,9,核心竞争力。,Năng lực cạnh tranh cốt lõi.
+创造力,chuàngzàolì,creativity,năng lực sáng tạo,noun,9,民族创造力。,Năng lực sáng tạo dân tộc.
+驱动力,qūdònglì,driving force,động lực thúc đẩy,noun,9,创新驱动力。,Động lực thúc đẩy sáng tạo.
+助推,zhùtuī,boost,thúc đẩy,verb,9,科技创新助推发展。,Khoa học sáng tạo thúc đẩy phát triển.
+赋能,fùnéng,empowerment,trao quyền,noun,9,数字赋能。,Số hóa trao quyền.
+重塑,chóngsù,reshaping,tái tạo,verb,9,重塑格局。,Tái tạo cách cục.
+颠覆,diānfù,subversion,lật đổ,verb,9,颠覆性技术。,Công nghệ mang tính lật đổ.
+变革,biàngé,transformation,biến cách,verb,9,数字变革。,Biến cách số hóa.
+转型,zhuǎnxíng,transformation,chuyển đổi,verb,9,数字化转型。,Chuyển đổi số hóa.
+智能化,zhìnéng Huà,intelligent transformation,trí năng hóa,verb,9,智能化发展。,Phát triển trí năng hóa.
+自动化,zìdònghuà,automation,tự động hóa,noun,9,自动化生产。,Sản xuất tự động hóa.
+数字化,shùzìhuà,digitization,số hóa,noun,9,数字化经济。,Kinh tế số hóa.
+信息化,xìnxīhuà,informatization,tin học hóa,noun,9,信息化建设。,Xây dựng tin học hóa.
+网络化,wǎngluòhuà,networking,mạng lưới hóa,noun,9,网络化布局。,Bố trí mạng lưới hóa.
+协同化,xiétónghuà,collaboration,hiệp đồng hóa,noun,9,协同化发展。,Phát triển hiệp đồng hóa.
+融合,rónghé,integration,dung hợp,verb,9,融合发展。,Phát triển dung hợp.
+跨界,kuàjiè,cross-border,xuyên biên giới,adjective,9,跨界合作。,Hợp tác xuyên biên giới.
+赋能,fùnéng,empowerment,trao quyền,noun,9,科技赋能。,Khoa học kỹ thuật trao quyền.

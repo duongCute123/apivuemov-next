@@ -8,6 +8,7 @@ import com.vuemov.model.User;
 import com.vuemov.repository.UserRepository;
 import com.vuemov.security.JwtTokenProvider;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
@@ -21,6 +22,9 @@ public class AuthService {
     private final UserRepository userRepository;
     private final PasswordEncoder passwordEncoder;
     private final JwtTokenProvider jwtTokenProvider;
+    
+    @Autowired
+    private UserProgressService userProgressService;
     
     public AuthResponse register(RegisterRequest request) {
         if (userRepository.existsByEmail(request.getEmail())) {
@@ -42,9 +46,12 @@ public class AuthService {
         
         user = userRepository.save(user);
         
+        // Create user progress record
+        userProgressService.createUserProgress(user.getId());
+        
         String token = jwtTokenProvider.generateToken(user.getId(), user.getEmail());
         
-        return new AuthResponse(token, user.getId(), user.getEmail(), user.getUsername(), user.getAvatar());
+        return new AuthResponse(token, user.getId(), user.getEmail(), user.getUsername(), user.getAvatar(), user.getRole() != null ? user.getRole() : "user");
     }
     
     public AuthResponse login(LoginRequest request) {
@@ -57,7 +64,7 @@ public class AuthService {
         
         String token = jwtTokenProvider.generateToken(user.getId(), user.getEmail());
         
-        return new AuthResponse(token, user.getId(), user.getEmail(), user.getUsername(), user.getAvatar());
+        return new AuthResponse(token, user.getId(), user.getEmail(), user.getUsername(), user.getAvatar(), user.getRole() != null ? user.getRole() : "user");
     }
     
     public UserResponse getProfile(String userId) {

@@ -100,4 +100,12 @@ public class UserService {
         user.setUpdatedAt(LocalDateTime.now());
         userRepository.save(user);
     }
+
+    public void promoteToAdmin(String email) {
+        User user = userRepository.findByEmail(email)
+                .orElseThrow(() -> new RuntimeException("User not found with email: " + email));
+        user.setRole("admin");
+        user.setUpdatedAt(LocalDateTime.now());
+        userRepository.save(user);
+    }
 }

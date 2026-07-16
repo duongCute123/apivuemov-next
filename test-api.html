@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Test - Vuemov Backend</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1a1a2e;
+            color: #eee;
+        }
+        h1 { color: #00d4ff; }
+        .form-group {
+            margin: 15px 0;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            background: #16213e;
+            border: 1px solid #0f3460;
+            color: #fff;
+            border-radius: 5px;
+        }
+        button {
+            background: #00d4ff;
+            color: #000;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            margin: 10px 5px 10px 0;
+        }
+        button:hover { background: #00a8cc; }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            background: #16213e;
+            border-radius: 5px;
+            white-space: pre-wrap;
+            font-family: monospace;
+        }
+        .success { border-left: 4px solid #00ff00; }
+        .error { border-left: 4px solid #ff0000; }
+        .info { color: #00d4ff; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🎬 Vuemov Backend API Test</h1>
+    
+    <h2 class="info">1. Health Check</h2>
+    <button onclick="testHealth()">Test /api/health</button>
+    
+    <h2 class="info">2. Đăng ký</h2>
+    <div class="form-group">
+        <input type="email" id="regEmail" placeholder="Email" value="user@test.com">
+        <input type="text" id="regUsername" placeholder="Username" value="testuser">
+        <input type="password" id="regPassword" placeholder="Password" value="123456">
+    </div>
+    <button onclick="testRegister()">Đăng ký</button>
+    
+    <h2 class="info">3. Đăng nhập</h2>
+    <div class="form-group">
+        <input type="email" id="loginEmail" placeholder="Email" value="user@test.com">
+        <input type="password" id="loginPassword" placeholder="Password" value="123456">
+    </div>
+    <button onclick="testLogin()">Đăng nhập</button>
+    
+    <h2 class="info">4. Token đã lưu</h2>
+    <input type="text" id="token" placeholder="Token sẽ hiển thị ở đây sau khi đăng ký/đăng nhập" readonly>
+    
+    <h2 class="info">5. Lấy thông tin User</h2>
+    <button onclick="testProfile()">Xem Profile</button>
+    
+    <h2 class="info">6. Thêm phim yêu thích</h2>
+    <input type="text" id="movieSlug" placeholder="Movie Slug" value="tien-nghich">
+    <button onclick="testAddFavorite()">Thêm vào yêu thích</button>
+    
+    <h2 class="info">7. Lấy danh sách yêu thích</h2>
+    <button onclick="testGetFavorites()">Xem yêu thích</button>
+    
+    <div id="result"></div>
+
+    <script>
+        let baseUrl = 'http://localhost:8080';
+        let token = localStorage.getItem('vuemov_token') || '';
+        document.getElementById('token').value = token;
+        
+        function showResult(data, isSuccess = true) {
+            const result = document.getElementById('result');
+            result.className = isSuccess ? 'success' : 'error';
+            result.textContent = JSON.stringify(data, null, 2);
+        }
+        
+        async function testHealth() {
+            try {
+                const res = await fetch(baseUrl + '/api/health');
+                const data = await res.json();
+                showResult(data);
+            } catch (e) {
+                showResult({ error: 'Backend chưa chạy! Vui lòng mở Eclipse và chạy Spring Boot.' }, false);
+            }
+        }
+        
+        async function testRegister() {
+            const email = document.getElementById('regEmail').value;
+            const username = document.getElementById('regUsername').value;
+            const password = document.getElementById('regPassword').value;
+            
+            try {
+                const res = await fetch(baseUrl + '/api/auth/register', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email, username, password })
+                });
+                const data = await res.json();
+                if (data.success && data.data.token) {
+                    token = data.data.token;
+                    localStorage.setItem('vuemov_token', token);
+                    document.getElementById('token').value = token;
+                }
+                showResult(data, data.success);
+            } catch (e) {
+                showResult({ error: 'Backend chưa chạy!' }, false);
+            }
+        }
+        
+        async function testLogin() {
+            const email = document.getElementById('loginEmail').value;
+            const password = document.getElementById('loginPassword').value;
+            
+            try {
+                const res = await fetch(baseUrl + '/api/auth/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email, password })
+                });
+                const data = await res.json();
+                if (data.success && data.data.token) {
+                    token = data.data.token;
+                    localStorage.setItem('vuemov_token', token);
+                    document.getElementById('token').value = token;
+                }
+                showResult(data, data.success);
+            } catch (e) {
+                showResult({ error: 'Backend chưa chạy!' }, false);
+            }
+        }
+        
+        async function testProfile() {
+            if (!token) {
+                showResult({ error: 'Chưa đăng nhập!' }, false);
+                return;
+            }
+            try {
+                const res = await fetch(baseUrl + '/api/user/profile', {
+                    headers: { 'Authorization': 'Bearer ' + token }
+                });
+                const data = await res.json();
+                showResult(data, data.success);
+            } catch (e) {
+                showResult({ error: 'Lỗi!' }, false);
+            }
+        }
+        
+        async function testAddFavorite() {
+            if (!token) {
+                showResult({ error: 'Chưa đăng nhập!' }, false);
+                return;
+            }
+            const slug = document.getElementById('movieSlug').value;
+            try {
+                const res = await fetch(baseUrl + '/api/user/favorites/' + encodeURIComponent(slug), {
+                    method: 'POST',
+                    headers: { 'Authorization': 'Bearer ' + token }
+                });
+                const data = await res.json();
+                showResult(data, data.success);
+            } catch (e) {
+                showResult({ error: 'Lỗi!' }, false);
+            }
+        }
+        
+        async function testGetFavorites() {
+            if (!token) {
+                showResult({ error: 'Chưa đăng nhập!' }, false);
+                return;
+            }
+            try {
+                const res = await fetch(baseUrl + '/api/user/favorites', {
+                    headers: { 'Authorization': 'Bearer ' + token }
+                });
+                const data = await res.json();
+                showResult(data, data.success);
+            } catch (e) {
+                showResult({ error: 'Lỗi!' }, false);
+            }
+        }
+        
+        // Auto test health on load
+        testHealth();
+    </script>
+</body>
+</html>

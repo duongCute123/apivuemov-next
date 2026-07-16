@@ -1,0 +1,275 @@
+simplifiedChinese,pinyin,englishMeaning,vietnameseMeaning,partOfSpeech,hskLevel,exampleSentence,exampleTranslation
+你好,nǐhǎo,hello,xin chào,greeting,1,你好吗？,Bạn khỏe không?
+我,wǒ,I/me,tôi,pronoun,1,我是学生。,Tôi là học sinh.
+你,nǐ,you,bạn,pronoun,1,你好。,Xin chào bạn.
+他,tā,he/him,anh ấy,pronoun,1,他是老师。,Anh ấy là giáo viên.
+她,tā,she/her,cô ấy,pronoun,1,她是医生。,Cô ấy là bác sĩ.
+我们,wǒmen,we/us,chúng tôi,pronoun,1,我们去学校。,Chúng tôi đi học.
+你们,nǐmen,you guys,các bạn,pronoun,1,你们好！,Xin chào các bạn！
+他们,tāmen,they/them,họ,pronoun,1,他们是朋友。,Họ là bạn bè.
+好,hǎo,good,tốt,adjective,1,很好！,Rất tốt！
+大,dà,big,lớn,adjective,1,这个苹果很大。,Quả táo này rất to.
+小,xiǎo,small,nhỏ,adjective,1,小猫很小。,Mèo con rất nhỏ.
+多,duō,many,nhiều,adjective,1,很多学生。,Rất nhiều học sinh.
+少,shǎo,few,ít,adjective,1,很少人。,Rất ít người.
+长,cháng,long,dài,adjective,1,这条路很长。,Con đường này rất dài.
+高,gāo,tall,cao,adjective,1,他很高。,Anh ấy rất cao.
+矮,ǎi,short,thấp,adjective,1,她很矮。,Cô ấy rất thấp.
+新,xīn,new,mới,adjective,1,新书。,Sách mới.
+老,lǎo,old/always,cũ/già,adjective,1,老朋友。,Bạn cũ.
+冷,lěng,cold,lạnh,adjective,1,天气很冷。,Thời tiết rất lạnh.
+热,rè,hot,nóng,adjective,1,水很热。,Nước rất nóng.
+是,shì,to be,là,verb,1,我是中国人。,Tôi là người Trung Quốc.
+有,yǒu,to have,có,verb,1,我有一个哥哥。,Tôi có một anh trai.
+在,zài,to be at,ở,verb,1,我在家。,Tôi ở nhà.
+来,lái,to come,đến,verb,1,他来学校。,Anh ấy đến trường.
+去,qù,to go,đi,verb,1,我去超市。,Tôi đi siêu thị.
+看,kàn,to see,nhìn/xem,verb,1,我看电视。,Tôi xem TV.
+听,tīng,to listen,nghe,verb,1,我听音乐。,Tôi nghe nhạc.
+说,shuō,to speak,nói,verb,1,你说中文。,Bạn nói tiếng Trung.
+读,dú,to read,đọc,verb,1,我读书。,Tôi đọc sách.
+写,xiě,to write,viết,verb,1,我写信。,Tôi viết thư.
+买,mǎi,to buy,mua,verb,1,我买水果。,Tôi mua trái cây.
+吃,chī,to eat,ăn,verb,1,我吃饭。,Tôi ăn cơm.
+喝,hē,to drink,uống,verb,1,我喝水。,Tôi uống nước.
+做,zuò,to do,làm,verb,1,我做作业。,Tôi làm bài tập.
+学,xué,to learn,học,verb,1,我学中文。,Tôi học tiếng Trung.
+会,huì,can,biết/có thể,verb,1,我会说中文。,Tôi biết nói tiếng Trung.
+要,yào,to want/must,muốn/cần,verb,1,我要吃饭。,Tôi muốn ăn cơm.
+能,néng,can/capable,có thể,verb,1,我能来。,Tôi có thể đến.
+喜欢,xǐhuān,to like,thích,verb,1,我喜欢猫。,Tôi thích mèo.
+想,xiǎng,to think/miss,nhớ/muốn,verb,1,我想你。,Tôi nhớ bạn.
+知道,zhīdao,to know,biết,verb,1,我知道。,Tôi biết.
+爱,ài,to love,yêu,verb,1,我爱你。,Anh yêu em.
+帮助,bāngzhù,to help,giúp đỡ,verb,1,我帮助你。,Tôi giúp bạn.
+谢谢,xièxie,thank you,cảm ơn,greeting,1,谢谢！,Cảm ơn！
+不客气,búkèqi,you're welcome,không có gì,greeting,1,不客气！,Không có gì！
+对不起,duìbùqǐ,sorry,xin lỗi,greeting,1,对不起！,Xin lỗi！
+没关系,méiguānxi,it's okay,không sao,greeting,1,没关系！,Không sao！
+请,qǐng,please,mời,verb,1,请进！,Mời vào！
+再见,zàijiàn,goodbye,tạm biệt,greeting,1,明天见！,Hẹn gặp lại！
+一个,yīgè,one (piece),một cái,measure,1,一个苹果。,Một quả táo.
+两,liǎng,two (quantity),hai,number,1,两个朋友。,Hai người bạn.
+人,rén,person,người,noun,1,一个人。,Một người.
+名字,míngzì,name,tên,noun,1,你叫什么名字？,Bạn tên là gì?
+家,jiā,home,nhà,noun,1,回家。,Về nhà.
+学校,xuéxiào,school,trường học,noun,1,去学校。,Đi học.
+医院,yīyuàn,hospital,bệnh viện,noun,1,去医院。,Đi bệnh viện.
+图书馆,túshūguǎn,library,thư viện,noun,1,在图书馆。,Ở thư viện.
+饭馆,fànguǎn,restaurant,nhà hàng,noun,1,在饭馆吃饭。,Ăn ở nhà hàng.
+超市,chāoshì,supermarket,siêu thị,noun,1,去超市买东西。,Đi siêu thị mua đồ.
+公司,gōngsī,company,công ty,noun,1,在公司工作。,Làm việc ở công ty.
+爸爸,bàba,dad,bố,noun,1,我爸爸是医生。,Bố tôi là bác sĩ.
+妈妈,māma,mom,mẹ,noun,1,妈妈在家。,Mẹ ở nhà.
+哥哥,gēge,older brother,anh trai,noun,1,我有一个哥哥。,Tôi có một anh trai.
+姐姐,jiějie,older sister,chị gái,noun,1,姐姐是老师。,Chị gái là giáo viên.
+弟弟,dìdi,younger brother,em trai,noun,1,弟弟很小。,Em trai còn nhỏ.
+妹妹,mèimei,younger sister,em gái,noun,1,妹妹可爱。,Em gái dễ thương.
+孩子,háizi,child,đứa trẻ,noun,1,孩子们在玩。,Bọn trẻ đang chơi.
+朋友,péngyou,friend,bạn bè,noun,1,他是我的朋友。,Anh ấy là bạn tôi.
+老师,lǎoshī,teacher,giáo viên,noun,1,老师好！,Chào giáo viên！
+学生,xuésheng,student,học sinh,noun,1,我是学生。,Tôi là học sinh.
+医生,yīshēng,doctor,bác sĩ,noun,1,他是医生。,Anh ấy là bác sĩ.
+护士,hùshi,nurse,y tá,noun,1,护士很好。,Y tá rất tốt.
+工人,gōngrén,worker,công nhân,noun,1,他是工人。,Anh ấy là công nhân.
+司机,sījī,driver,tài xế,noun,1,爸爸是司机。,Bố là tài xế.
+水,shuǐ,water,nước,noun,1,喝水。,Uống nước.
+茶,chá,tea,trà,noun,1,喝茶。,Uống trà.
+牛奶,niúnǎi,milk,sữa,noun,1,喝牛奶。,Uống sữa.
+咖啡,kāfēi,coffee,cà phê,noun,1,喝咖啡。,Uống cà phê.
+水果,shuǐguǒ,fruit,trái cây,noun,1,吃水果。,Ăn trái cây.
+苹果,píngguǒ,apple,táo,noun,1,一个苹果。,Một quả táo.
+米饭,mǐfàn,rice,cơm,noun,1,吃米饭。,Ăn cơm.
+面条,miàntiáo,noodles,mì,noun,1,吃面条。,Ăn mì.
+鸡蛋,jīdàn,egg,trứng,noun,1,吃鸡蛋。,Ăn trứng.
+菜,cài,dish/vegetable,món ăn/rau,noun,1,做菜。,Nấu ăn.
+肉,ròu,meat,thịt,noun,1,吃肉。,Ăn thịt.
+鱼,yú,fish,cá,noun,1,吃鱼。,Ăn cá.
+面包,miànbāo,bread,bánh mì,noun,1,吃面包。,Ăn bánh mì.
+衣服,yīfu,clothes,quần áo,noun,1,穿衣服。,Mặc quần áo.
+鞋子,xiézi,shoes,giày,noun,1,新鞋子。,Giày mới.
+书,shū,book,sách,noun,1,看书。,Đọc sách.
+笔,bǐ,pen,bút,noun,1,一支笔。,Một cây bút.
+桌子,zhuōzi,table/bàn,bàn,noun,1,桌子上有书。,Trên bàn có sách.
+椅子,yǐzi,chair,ghế,noun,1,坐椅子。,Ngồi ghế.
+门,mén,door,cửa,noun,1,开门。,Mở cửa.
+窗,chuāng,window,cửa sổ,noun,1,开窗。,Mở cửa sổ.
+房间,fángjiān,room,phòng,noun,1,我的房间。,Phòng của tôi.
+厨房,chúfáng,kitchen,nhà bếp,noun,1,在厨房做饭。,Nấu ăn trong bếp.
+厕所,cèsuǒ,toilet,nhà vệ sinh,noun,1,去厕所。,Đi vệ sinh.
+车,chē,car/xe,xe,noun,1,开车。,Lái xe.
+飞机,fēijī,airplane,máy bay,noun,1,坐飞机。,Đi máy bay.
+火车,huǒchē,train,tàu hỏa,noun,1,坐火车。,Đi tàu hỏa.
+地铁,dìtiě,subway,tàu điện ngầm,noun,1,坐地铁。,Đi tàu điện ngầm.
+钱包,qiánbāo,wallet,ví,noun,1,我的钱包。,Ví của tôi.
+手机,shǒujī,cellphone,điện thoại,noun,1,打电话。,Gọi điện thoại.
+电脑,diànnǎo,computer,máy tính,noun,1,用电脑。,Dùng máy tính.
+电影,diànyǐng,film,phim,noun,1,看电影。,Xem phim.
+电视,diànshì,television,TV,noun,1,看电视。,Xem TV.
+音乐,yīnyuè,music,âm nhạc,noun,1,听音乐。,Nghe nhạc.
+时间,shíjiān,time,thời gian,noun,1,没有时间。,Không có thời gian.
+今天,jīntiān,today,hôm nay,noun,1,今天星期一。,Hôm nay thứ hai.
+明天,míngtiān,tomorrow,ngày mai,noun,1,明天见！,Hẹn ngày mai！
+昨天,zuótiān,yesterday,hôm qua,noun,1,昨天我去了学校。,Hôm qua tôi đã đi học.
+早上,zǎoshang,morning,sáng,noun,1,早上好！,Chào buổi sáng！
+中午,zhōngwǔ,noon,trưa,noun,1,中午吃饭。,Ăn trưa.
+下午,xiàwǔ,afternoon,chiều,noun,1,下午去上课。,Chiều đi học.
+晚上,wǎnshàng,evening,tối,noun,1,晚上好！,Chào buổi tối！
+现在,xiànzài,now,bây giờ,adverb,1,现在几点？,Bây giờ là mấy giờ?
+星期,xīngqī,week,tuần,noun,1,一个星期。,Một tuần.
+点,diǎn,o'clock,giờ,noun,1,一点钟。,Một giờ.
+分钟,fēnzhōng,minute,phút,noun,1,五分钟。,Năm phút.
+月,yuè,month,tháng,noun,1,一个月。,Một tháng.
+年,nián,year,năm,noun,1,一年。,Một năm.
+钱,qián,money,tiền,noun,1,没有钱。,Không có tiền.
+块,kuài,yuan (currency),đồng (tiền),measure,1,十块钱。,Mười đồng.
+天气,tiānqì,weather,thời tiết,noun,1,天气很好。,Thời tiết rất đẹp.
+花,huā,flower,hoa,noun,1,一朵花。,Một bông hoa.
+狗,gǒu,dog,chó,noun,1,一只狗。,Một con chó.
+猫,māo,cat,mèo,noun,1,一只猫。,Một con mèo.
+鸟,niǎo,bird,chim,noun,1,一只鸟。,Một con chim.
+红色,hóngsè,red,màu đỏ,noun,1,红色很漂亮。,Màu đỏ rất đẹp.
+蓝色,lánsè,blue,màu xanh,noun,1,蓝色的天。,Bầu trời xanh.
+绿色,lǜsè,green,màu xanh lá,noun,1,绿色的树。,Cây xanh.
+白色,báisè,white,màu trắng,noun,1,白色的雪。,Tuyết trắng.
+黑色,hēisè,black,màu đen,noun,1,黑色的猫。,Mèo đen.
+黄色,huángsè,yellow,màu vàng,noun,1,黄色的花。,Hoa vàng.
+高兴,gāoxìng,happy,vui vẻ,adjective,1,我很高兴。,Tôi rất vui.
+快乐,kuàilè,happy,hạnh phúc,adjective,1,生日快乐！,Chúc mừng sinh nhật！
+好看,hǎokàn,pretty,đẹp,adjective,1,她很好看。,Cô ấy rất đẹp.
+好吃,hǎochī,delicious,ngon,adjective,1,很好吃！,Rất ngon！
+好玩儿,hǎowánr,fun,vui,adjective,1,很好玩儿。,Rất vui.
+忙,máng,busy,bận,adjective,1,我很忙。,Tôi rất bận.
+累,lèi,tired,mệt,adjective,1,我很累。,Tôi rất mệt.
+早,zǎo,early,sớm,adjective,1,你来得早。,Bạn đến sớm.
+晚,wǎn,late,muộn,adjective,1,我来晚了。,Tôi đến muộn.
+快,kuài,fast,nhanh,adjective,1,很快！,Rất nhanh！
+慢,màn,slow,chậm,adjective,1,慢一点。,Chậm một chút.
+远,yuǎn,far,xa,adjective,1,很远。,Rất xa.
+近,jìn,near,gần,adjective,1,很近。,Rất gần.
+对,duì,correct,đúng,adjective,1,对了！,Đúng rồi！
+错,cuò,wrong,sai,adjective,1,错了。,Sai rồi.
+一样,yíyàng,same,giống nhau,adjective,1,我们一样大。,Chúng tôi bằng tuổi nhau.
+可能,kěnéng,possibly,có thể,adverb,1,可能来。,Có thể đến.
+一起,yìqǐ,together,cùng nhau,adverb,1,一起去。,Đi cùng nhau.
+都,dōu,all,đều,adverb,1,我们都去。,Chúng tôi đều đi.
+很,hěn,very,rất,adverb,1,很好。,Rất tốt.
+非常,fēicháng,extremely,cực kỳ,adverb,1,非常好！,Cực kỳ tốt！
+真,zhēn,really,thực sự,adverb,1,真漂亮！,Thực sự đẹp！
+太,tài,too,quá,adverb,1,太好了！,Tuyệt vời！
+最,zuì,most,nhất,adverb,1,最好。,Tốt nhất.
+已经,yǐjīng,already,đã,adverb,1,已经来了。,Đã đến rồi.
+还,hái,still,vẫn,adverb,1,还没来。,Vẫn chưa đến.
+也,yě,also,cũng,adverb,1,我也去。,Tôi cũng đi.
+再,zài,again,lại,adverb,1,再说一遍。,Nói lại một lần.
+就,jiù,then,thì,adverb,1,就来。,Sẽ đến ngay.
+和,hé,and,và,conjunction,1,我和你。,Tôi và bạn.
+因为,yīnwèi,because,vì,conjunction,1,因为天气不好。,Vì thời tiết không tốt.
+所以,suǒyǐ,therefore,vì vậy,conjunction,1,所以我不去。,Vì vậy tôi không đi.
+但是,dànshì,but,nhưng,conjunction,1,但是我很忙。,Nhưng tôi rất bận.
+如果,rúguǒ,if,nếu,conjunction,1,如果你来。,Nếu bạn đến.
+在,zài,at/on,in/tại,preposition,1,在学校。,Ở trường.
+从,cóng,from,từ,preposition,1,从中国来。,Đến từ Trung Quốc.
+对,duì,to/toward,với,preposition,1,对他说。,Nói với anh ấy.
+给,gěi,to give,cho,preposition,1,给我。,Cho tôi.
+把,bǎ,(object marker),đem,particle,1,把门打开。,Mở cửa ra.
+被,bèi,(passive marker),bị,particle,1,被打了。,Bị đánh.
+了,le,(past/change marker),rồi,particle,1,我吃了。,Tôi đã ăn rồi.
+着,zhe,(progressive marker),đang,particle,1,看着。,Đang nhìn.
+过,guò,(past experience marker),đã từng,particle,1,去过。,Đã từng đi.
+半,bàn,half,một nửa,number,1,半小时。,Nửa tiếng.
+零,líng,zero,không,number,1,零度。,Không độ.
+百,bǎi,hundred,trăm,number,1,一百元。,Một trăm đồng.
+千,qiān,thousand,nghìn,number,1,一千元。,Một nghìn đồng.
+第一,dì-yī,first,thứ nhất,ordinal,1,第一次。,Lần đầu.
+第二,dì-èr,second,thứ hai,ordinal,1,第二次。,Lần thứ hai.
+第三,dì-sān,third,thứ ba,ordinal,1,第三天。,Ngày thứ ba.
+一些,yīxiē,some,một ít,measure,1,一些朋友。,Một ít bạn.
+每,měi,every,mỗi,determiner,1,每天。,Mỗi ngày.
+很多,hěnduō,many,rất nhiều,adjective,1,很多人。,Rất nhiều người.
+好吃,hǎochī,delicious,ngon,adjective,1,很好吃。,Rất ngon.
+好听,hǎotīng,nice to hear,hay,adjective,1,很好听。,Rất hay.
+好看,hǎokàn,good looking,đẹp,adjective,1,她很好看。,Cô ấy rất đẹp.
+有意思,yǒuyìsi,interesting,thú vị,adjective,1,很有意思。,Rất thú vị.
+漂亮,piàoliang,beautiful,xinh đẹp,adjective,1,真漂亮。,Đẹp quá.
+干净,gānjìng,clean,sạch sẽ,adjective,1,很干净。,Rất sạch.
+便宜,piányi,cheap,rẻ,adjective,1,很便宜。,Rất rẻ.
+贵,guì,expensive,đắt,adjective,1,太贵了。,Đắt quá.
+饿,è,hungry,đói,adjective,1,我饿了。,Tôi đói.
+渴,kě,thirsty,khát,adjective,1,我渴了。,Tôi khát.
+饱,bǎo,full (stomach),no,adjective,1,吃饱了。,No rồi.
+甜,tián,sweet,ngọt,adjective,1,很甜。,Rất ngọt.
+酸,suān,sour,chua,adjective,1,很酸。,Rất chua.
+苦,kǔ,bitter,đắng,adjective,1,很苦。,Rất đắng.
+辣,là,spicy,cay,adjective,1,很辣。,Rất cay.
+咸,xián,salty,mặn,adjective,1,很咸。,Rất mặn.
+难过,nánguò,sad,buồn,adjective,1,别难过。,Đừng buồn.
+着急,zháojí,anxious,sốt ruột,adjective,1,别着急。,Đừng vội.
+热闹,rènao,lively,náo nhiệt,adjective,1,很热闹。,Rất náo nhiệt.
+安静,ānjìng,quiet,yên tĩnh,adjective,1,请安静。,Xin hãy yên lặng.
+努力,nǔlì,hardworking,chăm chỉ,adjective,1,努力学习。,Học chăm chỉ.
+认真,rènzhēn,serious,nghiêm túc,adjective,1,认真学习。,Học nghiêm túc.
+简单,jiǎndān,simple,đơn giản,adjective,1,很简单。,Rất đơn giản.
+难,nán,difficult,khó,adjective,1,很难。,Rất khó.
+容易,róngyì,easy,dễ,adjective,1,很容易。,Rất dễ.
+重要,zhòngyào,important,quan trọng,adjective,1,很重要。,Rất quan trọng.
+特别,tèbié,special,đặc biệt,adjective,1,特别好。,Đặc biệt tốt.
+一样,yíyàng,same,giống nhau,adjective,1,一样大。,Bằng nhau.
+一直,yìzhí,always,luôn,adverb,1,一直走。,Đi thẳng.
+一共,yígòng,in total,tổng cộng,adverb,1,一共十元。,Tổng cộng 10 đồng.
+一起,yìqǐ,together,cùng,adverb,1,一起去。,Cùng đi.
+已经,yǐjīng,already,đã,adverb,1,已经来了。,Đã đến rồi.
+正在,zhèngzài,in progress,đang,adverb,1,正在吃饭。,Đang ăn.
+刚刚,gānggāng,just now,vừa mới,adverb,1,刚刚走。,Vừa mới đi.
+马上,mǎshàng,immediately,ngay,adverb,1,马上来。,Đến ngay.
+又,yòu,again,lại,adverb,1,又来了。,Lại đến.
+才,cái,only then,mới,adverb,1,才来。,Mới đến.
+没,méi,not have,không,adverb,1,没来。,Không đến.
+别,bié,don't,đừng,adverb,1,别去。,Đừng đi.
+出生,chūshēng,to be born,sinh ra,verb,1,我出生在北京。,Tôi sinh ở Bắc Kinh.
+住,zhù,to live,ở,verb,1,住在河内。,Sống ở Hà Nội.
+上课,shàngkè,to attend class,lên lớp,verb,1,上课了。,Vào lớp.
+下课,xiàkè,class dismissed,tan học,verb,1,下课了。,Tan học.
+上班,shàngbān,go to work,đi làm,verb,1,去上班。,Đi làm.
+下班,xiàbān,get off work,tan làm,verb,1,下班了。,Tan làm.
+刷牙,shuāyá,brush teeth,đánh răng,verb,1,刷牙。,Đánh răng.
+洗脸,xǐliǎn,wash face,rửa mặt,verb,1,洗脸。,Rửa mặt.
+走路,zǒulù,walk,đi bộ,verb,1,走路去。,Đi bộ.
+认识,rènshi,to know,quen,verb,1,认识你很高兴。,Vui được quen bạn.
+明白,míngbai,to understand,hiểu,verb,1,明白了。,Hiểu rồi.
+祝,zhù,to wish,chúc,verb,1,祝你快乐。,Chúc bạn vui.
+帮,bāng,to help,giúp,verb,1,帮我。,Giúp tôi.
+介绍,jièshào,introduce,giới thiệu,verb,1,介绍一下。,Giới thiệu.
+告诉,gàosu,tell,nói cho,verb,1,告诉我。,Nói cho tôi.
+问,wèn,ask,hỏi,verb,1,问问题。,Hỏi câu hỏi.
+回答,huídá,answer,trả lời,verb,1,回答问题。,Trả lời câu hỏi.
+说话,shuōhuà,speak,nói chuyện,verb,1,说话。,Nói chuyện.
+聊天,liáotiān,chat,tán chuyện,verb,1,聊天。,Tán chuyện.
+打电话,dǎdiànhuà,call,gọi điện,verb,1,打电话。,Gọi điện.
+发烧,fāshāo,have fever,sốt,verb,1,发烧了。,Bị sốt.
+感冒,gǎnmào,catch cold,cảm,verb,1,感冒了。,Bị cảm.
+咳嗽,késou,cough,ho,verb,1,咳嗽。,Ho.
+看病,kànbìng,see a doctor,khám bệnh,verb,1,去医院看病。,Đi khám.
+吃药,chīyào,take medicine,uống thuốc,verb,1,吃药。,Uống thuốc.
+打针,dǎzhēn,injection,tiêm,verb,1,打针。,Tiêm.
+放心,fàngxīn,rest assured,yên tâm,verb,1,你放心。,Bạn yên tâm.
+小心,xiǎoxīn,be careful,cẩn thận,verb,1,小心！,Cẩn thận!
+加油,jiāyóu,come on,cố lên,verb,1,加油！,Cố lên!
+报纸,bàozhǐ,newspaper,báo,noun,1,看报纸。,Đọc báo.
+书包,shūbāo,schoolbag,cặp sách,noun,1,新书包。,Cặp mới.
+铅笔,qiānbǐ,pencil,bút chì,noun,1,一支铅笔。,Một cây bút.
+作业,zuòyè,homework,bài tập,noun,1,做作业。,Làm bài tập.
+考试,kǎoshì,exam,thi,noun,1,考试了。,Thi rồi.
+东西,dōngxi,thing,đồ,noun,1,买东西。,Mua đồ.
+礼物,lǐwù,gift,quà,noun,1,送礼物。,Tặng quà.
+生日,shēngrì,birthday,sinh nhật,noun,1,生日快乐。,Chúc mừng sinh nhật.
+颜色,yánsè,color,màu sắc,noun,1,什么颜色？,Màu gì?
+明天见,míngtiānjiàn,see you tomorrow,hẹn mai gặp,phrase,1,明天见！,Hẹn mai gặp！
+好久不见,hǎojiǔbújiàn,long time no see,lâu quá không gặp,phrase,1,好久不见！,Lâu quá không gặp！
+没问题,méiwèntí,no problem,không vấn đề,phrase,1,没问题！,Không vấn đề！
+太好了,tàihǎole,great,tuyệt vời,phrase,1,太好了！,Tuyệt vời！
+当然,dāngrán,of course,tất nhiên,adverb,1,当然可以。,Tất nhiên được。
+太阳,tàiyáng,sun,mặt trời,noun,1,晒太阳。,Tắm nắng.
+月亮,yuèliang,moon,mặt trăng,noun,1,月亮很美。,Trăng đẹp.
+星星,xīngxīng,star,ngôi sao,noun,1,看星星。,Ngắm sao.
+天空,tiānkōng,sky,bầu trời,noun,1,蓝色天空。,Bầu trời xanh.

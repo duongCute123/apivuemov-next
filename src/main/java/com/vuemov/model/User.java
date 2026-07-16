@@ -35,4 +35,6 @@ public class User {
     private List<String> favoriteSlugs = new ArrayList<>();
     
     private List<WatchHistoryItem> watchHistory = new ArrayList<>();
+    
+    private String role = "user";
 }

@@ -12,6 +12,7 @@ public class UserResponse {
     private String email;
     private String username;
     private String avatar;
+    private String role;
     private LocalDateTime createdAt;
     private int favoriteCount;
     private int historyCount;
@@ -22,6 +23,7 @@ public class UserResponse {
         response.setEmail(user.getEmail());
         response.setUsername(user.getUsername());
         response.setAvatar(user.getAvatar());
+        response.setRole(user.getRole() != null ? user.getRole() : "user");
         response.setCreatedAt(user.getCreatedAt());
         response.setFavoriteCount(user.getFavoriteSlugs() != null ? user.getFavoriteSlugs().size() : 0);
         response.setHistoryCount(user.getWatchHistory() != null ? user.getWatchHistory().size() : 0);

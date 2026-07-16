@@ -1,0 +1,242 @@
+simplifiedChinese,pinyin,englishMeaning,vietnameseMeaning,partOfSpeech,hskLevel,exampleSentence,exampleTranslation
+什么,shénme,what,cái gì,question,2,你叫什么名字？,Bạn tên là gì?
+谁,shéi,who,ai,question,2,他是谁？,Anh ấy là ai?
+哪儿,nǎr,where,đâu,question,2,你去哪儿？,Bạn đi đâu?
+怎么,zěnme,how,thế nào,question,2,你怎么去？,Bạn đi thế nào?
+为什么,wèishénme,why,tại sao,question,2,为什么不来？,Tại sao không đến?
+多少,duōshǎo,how many,bao nhiêu,question,2,多少钱？,Bao nhiêu tiền?
+怎么样,zěnmeyàng,how about,thế nào,question,2,你怎么样？,Bạn thế nào?
+可以,kěyǐ,can/may,có thể,verb,2,可以进来吗？,Có thể vào không?
+应该,yīnggāi,should,nên,verb,2,你应该学习。,Bạn nên học.
+需要,xūyào,need/cần,cần,verb,2,我需要帮助。,Tôi cần giúp đỡ.
+觉得,juéde,to feel,cảm thấy,verb,2,我觉得很好。,Tôi cảm thấy tốt.
+希望,xīwàng,to hope,hy vọng,verb,2,希望你成功。,Hy vọng bạn thành công.
+准备,zhǔnbèi,to prepare,chuẩn bị,verb,2,准备考试。,Chuẩn bị thi.
+开始,kāishǐ,to start,bắt đầu,verb,2,开始上课。,Bắt đầu học.
+找到,zhǎodào,to find,tìm thấy,verb,2,找到了！,Tìm thấy rồi！
+告诉,gàosu,to tell,nói cho,verb,2,告诉我。,Nói cho tôi.
+让,ràng,to let/allow,để/cho phép,verb,2,让我看看。,Để tôi xem.
+教,jiāo,to teach,dạy,verb,2,我教你中文。,Tôi dạy bạn tiếng Trung.
+学习,xuéxí,to study,học tập,verb,2,学习中文。,Học tiếng Trung.
+工作,gōngzuò,to work,làm việc,verb,2,在公司工作。,Làm việc ở công ty.
+生活,shēnghuó,to live,sống,verb,2,在中国生活。,Sống ở Trung Quốc.
+起床,qǐchuáng,to get up,thức dậy,verb,2,六点起床。,Thức dậy lúc 6 giờ.
+睡觉,shuìjiào,to sleep,ngủ,verb,2,早点睡觉。,Ngủ sớm.
+洗澡,xǐzǎo,to shower,tắm,verb,2,洗澡。,Tắm rửa.
+锻炼,duànliàn,to exercise,tập thể dục,verb,2,每天锻炼。,Tập thể dục hàng ngày.
+休息,xiūxi,to rest,nghỉ ngơi,verb,2,休息一下。,Nghỉ ngơi một chút.
+旅行,lǚxíng,to travel,du lịch,verb,2,去旅行。,Đi du lịch.
+游泳,yóuyǒng,to swim,bơi,verb,2,去游泳。,Đi bơi.
+唱歌,chànggē,to sing,hát,verb,2,唱歌很好听。,Hát rất hay.
+跳舞,tiàowǔ,to dance,nhảy,verb,2,跳舞。,Nhảy múa.
+玩,wán,to play,chơi,verb,2,一起玩。,Chơi cùng nhau.
+打,dǎ,to hit/play,đánh/chơi,verb,2,打篮球。,Chơi bóng rổ.
+拿,ná,to take,cầm,verb,2,拿书。,Cầm sách.
+放,fàng,to put,đặt,verb,2,放在桌子上。,Đặt trên bàn.
+用,yòng,to use,dùng,verb,2,用电脑。,Dùng máy tính.
+住,zhù,to live,ở,verb,2,住在北京。,Sống ở Bắc Kinh.
+开,kāi,to open/mở,mở,verb,2,开门。,Mở cửa.
+关,guān,to close,đóng,verb,2,关门。,Đóng cửa.
+走,zǒu,to walk,đi bộ,verb,2,走路去。,Đi bộ.
+站,zhàn,to stand,đứng,verb,2,站起来！,Đứng dậy！
+坐,zuò,to sit,ngồi,verb,2,请坐。,Mời ngồi.
+穿,chuān,to wear,mặc,verb,2,穿衣服。,Mặc quần áo.
+打扫,dǎsǎo,to clean,dọn dẹp,verb,2,打扫房间。,Dọn dẹp phòng.
+洗,xǐ,to wash,giặt/rửa,verb,2,洗手。,Rửa tay.
+做饭,zuòfàn,to cook,nấu ăn,verb,2,妈妈做饭。,Mẹ nấu ăn.
+送,sòng,to give/send,tặng/tiễn,verb,2,送礼物。,Tặng quà.
+换,huàn,to exchange,đổi,verb,2,换衣服。,Thay quần áo.
+找,zhǎo,to look for,tìm,verb,2,找东西。,Tìm đồ.
+等,děng,to wait,chờ,verb,2,等一下。,Chờ một chút.
+笑,xiào,to laugh,cười,verb,2,他笑了。,Anh ấy cười.
+哭,kū,to cry,khóc,verb,2,别哭了！,Đừng khóc！
+生气,shēngqì,to get angry,tức giận,verb,2,他生气了。,Anh ấy tức giận.
+担心,dānxīn,to worry,lo lắng,verb,2,别担心。,Đừng lo lắng.
+害怕,hàipà,to be afraid,sợ,verb,2,害怕狗。,Sợ chó.
+相信,xiāngxìn,to believe,tin,verb,2,我相信你。,Tôi tin bạn.
+忘记,wàngjì,to forget,quên,verb,2,忘记带书。,Quên mang sách.
+记得,jìde,to remember,nhớ,verb,2,记得带伞。,Nhớ mang ô.
+同意,tóngyì,to agree,đồng ý,verb,2,我同意。,Tôi đồng ý.
+决定,juédìng,to decide,quyết định,verb,2,决定了。,Quyết định rồi.
+了解,liǎojiě,to understand,hiểu rõ,verb,2,了解情况。,Hiểu tình hình.
+注意,zhùyì,to pay attention,chú ý,verb,2,注意安全。,Chú ý an toàn.
+关心,guānxīn,to care about,quan tâm,verb,2,关心别人。,Quan tâm người khác.
+满意,mǎnyì,to satisfy,hài lòng,verb,2,很满意。,Rất hài lòng.
+发现,fāxiàn,to discover,phát hiện,verb,2,发现了问题。,Phát hiện vấn đề.
+感到,gǎndào,to feel,cảm thấy,verb,2,感到高兴。,Cảm thấy vui.
+表示,biǎoshì,to express,biểu thị,verb,2,表示同意。,Biểu thị đồng ý.
+离开,líkāi,to leave,rời khỏi,verb,2,离开家。,Rời khỏi nhà.
+回来,huílái,to come back,quay lại,verb,2,回来了。,Quay lại rồi.
+回去,huíqù,to go back,trở về,verb,2,回去学校。,Trở về trường.
+进来,jìnlái,to come in,vào,verb,2,请进来。,Mời vào.
+出去,chūqù,to go out,đi ra,verb,2,出去一下。,Đi ra ngoài một chút.
+起来,qǐlái,to get up,đứng dậy,verb,2,站起来！,Đứng dậy！
+完成,wánchéng,to complete,hoàn thành,verb,2,完成任务。,Hoàn thành nhiệm vụ.
+成功,chénggōng,to succeed,thành công,verb,2,成功了！,Thành công rồi！
+努力,nǔlì,to strive,cố gắng,verb,2,努力学习。,Cố gắng học.
+进步,jìnbù,to progress,tiến bộ,verb,2,进步很大。,Tiến bộ rất nhiều.
+变成,biànchéng,to become,trở thành,verb,2,变成大人。,Trở thành người lớn.
+出现,chūxiàn,to appear,xuất hiện,verb,2,出现了问题。,Xuất hiện vấn đề.
+增加,zēngjiā,to increase,tăng,verb,2,增加了。,Đã tăng.
+减少,jiǎnshǎo,to reduce,giảm,verb,2,减少了。,Đã giảm.
+改善,gǎishàn,to improve,cải thiện,verb,2,改善生活。,Cải thiện cuộc sống.
+保持,bǎochí,to maintain,giữ,verb,2,保持安静。,Giữ yên lặng.
+保护,bǎohù,to protect,bảo vệ,verb,2,保护环境。,Bảo vệ môi trường.
+产生,chǎnshēng,to produce,sản sinh,verb,2,产生问题。,Sinh ra vấn đề.
+发生,fāshēng,to happen,xảy ra,verb,2,发生了什么？,Đã xảy ra chuyện gì?
+改变,gǎibiàn,to change,thay đổi,verb,2,改变计划。,Thay đổi kế hoạch.
+发展,fāzhǎn,to develop,phát triển,verb,2,发展经济。,Phát triển kinh tế.
+提高,tígāo,to improve,nâng cao,verb,2,提高水平。,Nâng cao trình độ.
+加强,jiāqiáng,to strengthen,tăng cường,verb,2,加强管理。,Tăng cường quản lý.
+集中,jízhōng,to concentrate,tập trung,verb,2,集中注意力。,Tập trung chú ý.
+包括,bāokuò,to include,bao gồm,verb,2,包括你。,Bao gồm bạn.
+代表,dàibiǎo,to represent,đại diện,verb,2,代表学校。,Đại diện trường.
+继续,jìxù,to continue,tiếp tục,verb,2,继续学习。,Tiếp tục học.
+坚持,jiānchí,to persist,kiên trì,verb,2,坚持锻炼。,Kiên trì tập thể dục.
+好像,hǎoxiàng,it seems,hình như,adverb,2,好像要下雨。,Hình như sắp mưa.
+一直,yìzhí,always,luôn,adverb,2,一直在等。,Luôn đợi.
+马上,mǎshàng,immediately,ngay,adverb,2,马上来。,Đến ngay.
+刚刚,gānggāng,just now,vừa mới,adverb,2,刚刚走。,Vừa mới đi.
+正在,zhèngzài,in progress,đang,adverb,2,正在吃饭。,Đang ăn cơm.
+总是,zǒngshì,always,lúc nào cũng,adverb,2,总是迟到。,Lúc nào cũng muộn.
+常常,chángcháng,often,thường xuyên,adverb,2,常常去。,Thường xuyên đi.
+突然,tūrán,suddenly,đột nhiên,adverb,2,突然下雨。,Đột nhiên mưa.
+其实,qíshí,actually,thực ra,adverb,2,其实我不懂。,Thực ra tôi không hiểu.
+当然,dāngrán,of course,tất nhiên,adverb,2,当然可以。,Tất nhiên là được.
+必须,bìxū,must,phải,adverb,2,必须去。,Phải đi.
+大概,dàgài,probably,khoảng,adverb,2,大概十点。,Khoảng 10 giờ.
+一共,yígòng,in total,tổng cộng,adverb,2,一共多少钱？,Tổng cộng bao nhiêu?
+互相,hùxiāng,each other,lẫn nhau,adverb,2,互相帮助。,Giúp đỡ lẫn nhau.
+特别,tèbié,especially,đặc biệt,adverb,2,特别好。,Đặc biệt tốt.
+比较,bǐjiào,comparatively,tương đối,adverb,2,比较好。,Tương đối tốt.
+十分,shífēn,extremely,vô cùng,adverb,2,十分满意。,Vô cùng hài lòng.
+越来越,yuèláiyuè,more and more,ngày càng,adverb,2,越来越好。,Ngày càng tốt.
+虽然但是,suīrándànshì,although but,mặc dù nhưng,conjunction,2,虽然累但是开心。,Mặc dù mệt nhưng vui.
+因为所以,yīnwèisuǒyǐ,because so,vì nên,conjunction,2,因为下雨所以不去。,Vì mưa nên không đi.
+如果就,rúguǒjiù,if then,nếu thì,conjunction,2,如果你来我就去。,Nếu bạn đến thì tôi đi.
+除了,chúle,except,ngoại trừ,preposition,2,除了你以外还有谁？,Ngoài bạn ra còn ai?
+一些,yìxiē,some,một ít,measure,2,一些水果。,Một ít trái cây.
+一点,yìdiǎn,a little,một chút,measure,2,一点盐。,Một chút muối.
+次,cì,time (frequency),lần,measure,2,一次。,Một lần.
+下,xià,a little,một chút,measure,2,等一下。,Chờ một chút.
+种,zhǒng,kind,loại,measure,2,这种。,Loại này.
+件,jiàn,piece (clothing),chiếc,measure,2,一件衣服。,Một chiếc áo.
+条,tiáo,strip (long objects),cái (vật dài),measure,2,一条鱼。,Một con cá.
+双,shuāng,pair,đôi,measure,2,一双鞋。,Một đôi giày.
+只,zhī,one of a pair,con (vật),measure,2,一只猫。,Một con mèo.
+把,bǎ,handle (measure),cái (vật có cán),measure,2,一把伞。,Một cái ô.
+张,zhāng,flat objects,tờ,measure,2,一张纸。,Một tờ giấy.
+本,běn,volume (book),cuốn,measure,2,一本书。,Một cuốn sách.
+辆,liàng,vehicle,chiếc (xe),measure,2,一辆车。,Một chiếc xe.
+上午,shàngwǔ,morning,buổi sáng,noun,2,上午九点。,9 giờ sáng.
+下午,xiàwǔ,afternoon,buổi chiều,noun,2,下午两点。,2 giờ chiều.
+周末,zhōumò,weekend,cuối tuần,noun,2,周末快乐！,Cuối tuần vui vẻ！
+生日,shēngrì,birthday,sinh nhật,noun,2,生日快乐！,Chúc mừng sinh nhật！
+礼物,lǐwù,gift,quà tặng,noun,2,谢谢礼物！,Cảm ơn món quà！
+颜色,yánsè,color,màu sắc,noun,2,你喜欢的颜色？,Màu sắc bạn thích？
+动物,dòngwù,animal,động vật,noun,2,我喜欢动物。,Tôi thích động vật.
+城市,chéngshì,city,thành phố,noun,2,大城市。,Thành phố lớn.
+国家,guójiā,country,quốc gia,noun,2,哪个国家？,Nước nào?
+语言,yǔyán,language,ngôn ngữ,noun,2,学语言。,Học ngôn ngữ.
+意思,yìsi,meaning,ý nghĩa,noun,2,什么意思？,Ý nghĩa gì?
+问题,wèntí,question/problem,vấn đề,noun,2,没问题！,Không vấn đề！
+事情,shìqing,thing/matter,việc,noun,2,有事情吗？,Có việc gì không?
+地方,dìfang,place,nơi chốn,noun,2,好地方。,Nơi tốt.
+路,lù,road,đường,noun,2,走路。,Đi bộ.
+号码,hàomǎ,number,số,noun,2,电话号码。,Số điện thoại.
+价格,jiàgé,price,giá cả,noun,2,价格多少？,Giá bao nhiêu?
+考试,kǎoshì,exam,bài thi,noun,2,考试很难。,Bài thi rất khó.
+公园,gōngyuán,park,công viên,noun,2,去公园。,Đi công viên.
+商店,shāngdiàn,shop,cửa hàng,noun,2,商店开门。,Cửa hàng mở cửa.
+医院,yīyuàn,hospital,bệnh viện,noun,2,去医院。,Đi bệnh viện.
+银行,yínháng,bank,ngân hàng,noun,2,去银行。,Đi ngân hàng.
+邮局,yóujú,post office,bưu điện,noun,2,去邮局。,Đi bưu điện.
+酒店,jiǔdiàn,hotel,khách sạn,noun,2,住酒店。,Ở khách sạn.
+飞机场,fēijīchǎng,airport,sân bay,noun,2,去飞机场。,Đi sân bay.
+火车站,huǒchēzhàn,train station,ga tàu,noun,2,去火车站。,Đi ga tàu.
+办公室,bàngōngshì,office,văn phòng,noun,2,在办公室。,Ở văn phòng.
+教室,jiàoshì,classroom,phòng học,noun,2,在教室上课。,Học trong phòng học.
+黑板,hēibǎn,blackboard,bảng đen,noun,2,看黑板。,Nhìn bảng đen.
+书包,shūbāo,schoolbag,cặp sách,noun,2,新书包。,Cặp sách mới.
+铅笔,qiānbǐ,pencil,bút chì,noun,2,一支铅笔。,Một cây bút chì.
+词典,cídiǎn,dictionary,từ điển,noun,2,查词典。,Tra từ điển.
+地图,dìtú,map,bản đồ,noun,2,看地图。,Xem bản đồ.
+报纸,bàozhǐ,newspaper,báo,noun,2,看报纸。,Đọc báo.
+杂志,zázhì,magazine,tạp chí,noun,2,看杂志。,Đọc tạp chí.
+电话,diànhuà,telephone,điện thoại,noun,2,打电话。,Gọi điện thoại.
+空调,kōngtiáo,air conditioner,máy lạnh,noun,2,开空调。,Mở máy lạnh.
+冰箱,bīngxiāng,fridge,tủ lạnh,noun,2,冰箱里有牛奶。,Trong tủ lạnh có sữa.
+洗衣机,xǐyījī,washing machine,máy giặt,noun,2,用洗衣机。,Dùng máy giặt.
+沙发,shāfā,sofa,ghế sô pha,noun,2,坐沙发。,Ngồi ghế sô pha.
+筷子,kuàizi,chopsticks,đũa,noun,2,用筷子吃饭。,Ăn cơm bằng đũa.
+碗,wǎn,bowl,bát,noun,2,一个碗。,Một cái bát.
+杯子,bēizi,cup,cốc,noun,2,一个杯子。,Một cái cốc.
+盘子,pánzi,plate,đĩa,noun,2,一个盘子。,Một cái đĩa.
+窗户,chuānghù,window,cửa sổ,noun,2,开窗户。,Mở cửa sổ.
+护照,hùzhào,passport,hộ chiếu,noun,2,办护照。,Làm hộ chiếu.
+签证,qiānzhèng,visa,thị thực,noun,2,办签证。,Làm visa.
+地址,dìzhǐ,address,địa chỉ,noun,2,你的地址？,Địa chỉ của bạn?
+邮件,yóujiàn,mail,thư,noun,2,发邮件。,Gửi thư.
+快递,kuàidì,express delivery,chuyển phát,noun,2,寄快递。,Gửi chuyển phát.
+故事,gùshì,story,câu chuyện,noun,2,讲故事。,Kể chuyện.
+笑话,xiàohua,joke,chuyện cười,noun,2,说笑话。,Nói chuyện cười.
+区别,qūbié,difference,sự khác biệt,noun,2,有区别。,Có sự khác biệt.
+变化,biànhuà,change,thay đổi,noun,2,有变化。,Có thay đổi.
+世界,shìjiè,world,thế giới,noun,2,全世界。,Toàn thế giới.
+山,shān,mountain,núi,noun,2,爬山。,Leo núi.
+河,hé,river,sông,noun,2,过河。,Qua sông.
+海,hǎi,sea,biển,noun,2,看海。,Ngắm biển.
+树,shù,tree,cây,noun,2,一棵树。,Một cái cây.
+花,huā,flower,hoa,noun,2,一朵花。,Một bông hoa.
+鸟,niǎo,bird,chim,noun,2,一只鸟。,Một con chim.
+鱼,yú,fish,cá,noun,2,一条鱼。,Một con cá.
+狗,gǒu,dog,chó,noun,2,一只狗。,Một con chó.
+猫,māo,cat,mèo,noun,2,一只猫。,Một con mèo.
+春天,chūntiān,spring,mùa xuân,noun,2,春天来了。,Mùa xuân đến.
+夏天,xiàtiān,summer,mùa hè,noun,2,夏天很热。,Mùa hè nóng.
+秋天,qiūtiān,autumn,mùa thu,noun,2,秋天凉快。,Mùa thu mát.
+冬天,dōngtiān,winter,mùa đông,noun,2,冬天很冷。,Mùa đông lạnh.
+季节,jìjié,season,mùa,noun,2,四个季节。,Bốn mùa.
+刮风,guāfēng,windy,có gió,verb,2,刮风了。,Có gió rồi.
+下雨,xiàyǔ,rain,mưa,verb,2,下雨了。,Mưa rồi.
+下雪,xiàxuě,snow,tuyết,verb,2,下雪了。,Tuyết rơi.
+晴天,qíngtiān,sunny,trời nắng,noun,2,今天是晴天。,Hôm nay nắng.
+阴天,yīntiān,cloudy,trời âm u,noun,2,明天阴天。,Ngày mai âm u.
+暖和,nuǎnhuo,warm,ấm áp,adjective,2,天气暖和。,Thời tiết ấm.
+凉快,liángkuai,cool,mát mẻ,adjective,2,凉快了。,Mát rồi.
+中国,zhōngguó,China,Trung Quốc,noun,2,去中国。,Đi Trung Quốc.
+美国,měiguó,America,Mỹ,noun,2,去美国。,Đi Mỹ.
+英国,yīngguó,UK,Anh,noun,2,去英国。,Đi Anh.
+法国,fǎguó,France,Pháp,noun,2,去法国。,Đi Pháp.
+日本,rìběn,Japan,Nhật,noun,2,去日本。,Đi Nhật.
+韩国,hánguó,Korea,Hàn Quốc,noun,2,去韩国。,Đi Hàn.
+越南,yuènán,Vietnam,Việt Nam,noun,2,越南人。,Người Việt Nam.
+中文,zhōngwén,Chinese,tiếng Trung,noun,2,学中文。,Học tiếng Trung.
+英文,yīngwén,English,tiếng Anh,noun,2,学英文。,Học tiếng Anh.
+包子,bāozi,steamed bun,bánh bao,noun,2,吃肉包子。,Bánh bao nhân thịt.
+饺子,jiǎozi,dumplings,sủi cảo,noun,2,吃饺子。,Ăn sủi cảo.
+面条,miàntiáo,noodles,mì,noun,2,吃面条。,Ăn mì.
+蛋糕,dàngāo,cake,bánh ngọt,noun,2,生日蛋糕。,Bánh sinh nhật.
+汤,tāng,soup,canh,noun,2,喝汤。,Uống canh.
+糖,táng,candy,kẹo,noun,2,吃糖。,Ăn kẹo.
+油,yóu,oil,dầu,noun,2,炒菜用油。,Xào dùng dầu.
+盐,yán,salt,muối,noun,2,放盐。,Bỏ muối.
+旁边,pángbiān,side,bên cạnh,noun,2,坐在旁边。,Ngồi bên cạnh.
+中间,zhōngjiān,middle,ở giữa,noun,2,在中间。,Ở giữa.
+外面,wàimiàn,outside,bên ngoài,noun,2,在外面。,Bên ngoài.
+里面,lǐmiàn,inside,bên trong,noun,2,在里面。,Bên trong.
+前面,qiánmiàn,front,phía trước,noun,2,在前面。,Phía trước.
+后面,hòumiàn,back,phía sau,noun,2,在后面。,Phía sau.
+上面,shàngmiàn,on top,phía trên,noun,2,在桌子上。,Trên bàn.
+下面,xiàmiàn,below,phía dưới,noun,2,在下面。,Phía dưới.
+左边,zuǒbiān,left,bên trái,noun,2,在左边。,Bên trái.
+右边,yòubiān,right,bên phải,noun,2,在右边。,Bên phải.
+南方,nánfāng,south,miền nam,noun,2,南方。,Miền nam.
+北方,běifāng,north,miền bắc,noun,2,北方。,Miền bắc.
+钥匙,yàoshi,key,chìa khóa,noun,2,一把钥匙。,Một chìa khóa.
+电梯,diàntī,elevator,thang máy,noun,2,坐电梯。,Đi thang máy.
+楼梯,lóutī,stairs,cầu thang,noun,2,走楼梯。,Đi cầu thang.
+冰箱,bīngxiāng,fridge,tủ lạnh,noun,2,冰箱里有牛奶。,Tủ lạnh có sữa.
+洗衣机,xǐyījī,washing machine,máy giặt,noun,2,洗衣机。,Máy giặt.
+空调,kōngtiáo,AC,máy lạnh,noun,2,开空调。,Mở máy lạnh.
+沙发,shāfā,sofa,ghế,noun,2,坐沙发。,Ngồi ghế.

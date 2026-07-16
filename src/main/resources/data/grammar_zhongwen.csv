@@ -1,0 +1,353 @@
+﻿hanzi,pinyin,vietnamese,description,hskLevel,structureCount,tag
+语素,yǔ sù,Ngữ tố,Ngữ tố là đơn vị nhỏ nhất có nghĩa trong ngôn ngữ, không thể chia nhỏ hơn mà vẫn giữ được nghĩa.,1,3,hsk1
+词类,cí lèi,Danh từ chỉ phương hướng (方位名词),Đây là các danh từ dùng để chỉ vị trí hoặc phương hướng tương đối của một vật thể so với vật thể khác.,1,1,hsk1
+动词,néng yuàn dòng cí,Động từ năng nguyện,Động từ năng nguyện là những từ bổ sung ý nghĩa về khả năng, mong muốn, ý định hoặc sự cần thiết cho hành động chính.,1,2,hsk1
+可以,kěyǐ,Có thể, Được phép,\"可以\" là một động từ năng nguyện (modal verb) dùng để diễn tả sự cho phép, sự đồng ý hoặc sự chấp nhận một hành động nào đó.,1,1,hsk1
+离合词,Líhé cí,Từ ly hợp,Từ ly hợp là những động từ đặc biệt trong tiếng Trung, có thể tách rời thành hai phần (thường là động từ + tân ngữ) để chèn thêm các thành phần khác vào giữa.,1,1,hsk1
+疑问代词,yí wèn dài cí,Đại từ nghi vấn,Đại từ nghi vấn là những từ dùng để hỏi về người, vật, số lượng, địa điểm, cách thức hoặc tính chất trong câu.,1,3,hsk1
+人称代词,Rénchēng Dàicí,Đại từ nhân xưng,Đại từ nhân xưng dùng để chỉ người, vật hoặc nhóm người, vật trong câu, giúp tránh lặp lại danh từ và làm cho câu văn mạch lạc hơn.,1,1,hsk1
+指示代词,zhǐshì dàicí,Đại từ chỉ định,Đại từ chỉ định dùng để chỉ người, vật, địa điểm hoặc số lượng, phân biệt chúng với những thứ khác dựa trên vị trí hoặc sự xác định.,1,3,hsk1
+数词,Shùcí,Số từ,Số từ là những từ dùng để biểu thị số lượng hoặc thứ tự của sự vật, hiện tượng trong tiếng Trung.,1,1,hsk1
+名量词,míng liàng cí,Danh lượng từ,Danh lượng từ là những từ dùng để chỉ đơn vị của danh từ, thường đứng giữa số đếm và danh từ trong tiếng Trung.,1,1,hsk1
+副词,fùcí,Phó từ,Phó từ là loại từ dùng để bổ nghĩa cho động từ, tính từ hoặc phó từ khác, thường biểu thị mức độ, thời gian, phương thức. Trong HSK 1, chúng ta sẽ học các phó từ chỉ mức độ như 非常, 很, 太, 真, 有（一）点儿.,1,3,hsk1
+范围副词,fànwéi fùcí,Phó từ chỉ phạm vi,Phó từ chỉ phạm vi là những từ dùng để biểu thị giới hạn, mức độ hoặc phạm vi của một hành động, trạng thái hoặc tính chất trong câu.,1,2,hsk1
+都,dōu,Phó từ \"đều\", \"tất cả\",\"都\" là một phó từ trong tiếng Trung, dùng để chỉ \"tất cả\", \"đều\", hoặc \"cả hai\" khi nói về một nhóm người hoặc vật.,1,2,hsk1
+频率副词,pín lǜ fù cí,Phó từ chỉ tần suất,Các phó từ dùng để diễn tả mức độ thường xuyên của một hành động hoặc sự việc, trả lời cho câu hỏi 'bao lâu một lần'.,1,1,hsk1
+再,zài,Trợ từ \"再\",\"再\" là một trợ từ biểu thị sự lặp lại của hành động trong tương lai hoặc một hành động xảy ra sau một hành động khác, thường mang nghĩa \"lại\", \"nữa\", \"rồi mới\".,1,1,hsk1
+关联副词,guānlián fùcí,Phó từ liên kết,Phó từ liên kết là những phó từ dùng theo cặp để nối các vế câu, thể hiện mối quan hệ logic giữa chúng.,1,1,hsk1
+还,hái,Phó từ \"还\",Diễn tả một hành động hoặc trạng thái tiếp diễn (\"vẫn\"), bổ sung thêm thông tin (\"còn/thêm nữa\"), hoặc so sánh mức độ (\"khá/tạm được\").,1,1,hsk1
+介词,jiè cí,Giới từ,Giới từ dùng để chỉ thời gian hoặc địa điểm diễn ra hành động, đặc biệt là giới từ “在” (zài) ở cấp độ HSK 1.,1,1,hsk1
+引出对象,yǐn chū duì xiàng,Giới thiệu đối tượng của hành động,Cấu trúc này dùng để chỉ ra hoặc giới thiệu đối tượng (người hoặc vật) mà hành động trong câu được thực hiện cùng, hướng tới hoặc tác động lên.,1,2,hsk1
+连词连接词语或短语,liáncí liánjiē cíyǔ huò duǎnyǔ,Liên từ nối từ hoặc cụm từ,Điểm ngữ pháp này giới thiệu cách sử dụng liên từ trong tiếng Trung để nối các từ đơn lẻ hoặc các cụm từ, tạo thành câu phức tạp hơn.,1,1,hsk1
+和,hé,Và, với,Từ 和 (hé) được dùng để nối hai danh từ, cụm danh từ hoặc đại từ, mang nghĩa 'và' hoặc 'với'.,1,1,hsk1
+结构助词,jiégòu zhùcí,Trợ từ kết cấu,Trợ từ kết cấu là những từ không có nghĩa độc lập, được dùng để liên kết các thành phần trong câu, biểu thị mối quan hệ ngữ pháp giữa chúng.,1,1,hsk1
+的,de,Trợ từ \"de\" (của),\"的\" là một trợ từ cấu trúc dùng để biểu thị quan hệ sở hữu, thuộc tính, hoặc dùng để nối định ngữ với danh từ trung tâm.,1,2,hsk1
+动态助词,dòngtài zhùcí,Trợ từ động thái,Các trợ từ động thái biểu thị sự hoàn thành của một hành động, sự thay đổi trạng thái hoặc sự tiếp diễn của một hành động, với 了 (le) là trợ từ chính ở cấp độ HSK 1.,1,1,hsk1
+了,le,Trợ từ 了 (le),Trợ từ 了 (le) thường được dùng để biểu thị một hành động đã hoàn thành hoặc một sự thay đổi về tình huống, trạng thái mới.,1,2,hsk1
+语气助词,Yǔqì zhùcí,Trợ từ ngữ khí,Các trợ từ ngữ khí được đặt ở cuối câu để biểu thị thái độ, cảm xúc hoặc mục đích của người nói, như nghi vấn, xác nhận, đề nghị, cảm thán.,1,1,hsk1
+吧,ba,Trợ từ ngữ khí \"吧\",\"吧\" là một trợ từ ngữ khí được đặt ở cuối câu, dùng để biểu thị sự đề xuất, yêu cầu nhẹ nhàng, đồng ý, hoặc suy đoán mang tính thăm dò.,1,2,hsk1
+叹词喂,tàncí wèi,Thán từ \"喂\",\"喂\" là một thán từ tiếng Trung dùng để gọi sự chú ý của người khác, đặc biệt khi nghe điện thoại, hoặc để thể hiện sự ngạc nhiên, bất mãn nhẹ.,1,1,hsk1
+短语结构类型,duǎnyǔ jiégòu lèixíng,Các loại cấu trúc ngữ đoạn,Giải thích về cách các từ kết hợp với nhau để tạo thành các ngữ đoạn (cụm từ) có ý nghĩa, là nền tảng xây dựng câu trong tiếng Trung.,1,1,hsk1
+基本结构类型,jīběn jiégòu lèixíng,Các Loại Cấu Trúc Cơ Bản,Đây là cách phân loại các cụm từ trong tiếng Trung dựa trên mối quan hệ ngữ pháp giữa các thành phần cấu tạo nên chúng, giúp người học hiểu rõ hơn về cấu trúc câu.,1,3,hsk1
+其他结构类型,Qítā jiégòu lèixíng,Các Loại Cấu Trúc Khác,Đây là phần giới thiệu về một số loại cấu trúc ngữ pháp cơ bản khác trong tiếng Trung, bao gồm cụm từ số lượng, cụm giới tân và cụm từ chỉ phương hướng.,1,3,hsk1
+句子成分,jùzi chéngfèn,Chủ ngữ trong câu,Chủ ngữ là thành phần chính trong câu tiếng Trung, chỉ người hoặc vật thực hiện hành động hoặc được miêu tả, thường là danh từ, đại từ hoặc cụm danh từ.,1,1,hsk1
+谓语,wèiyǔ,Vị ngữ,Vị ngữ là thành phần chính trong câu, dùng để miêu tả hành động, trạng thái hoặc đặc điểm của chủ ngữ.,1,2,hsk1
+状语,zhuàngyǔ,Trạng ngữ,Trạng ngữ là thành phần bổ nghĩa cho động từ, tính từ hoặc cả câu, thường đứng trước vị ngữ để biểu thị thời gian, địa điểm, cách thức, mức độ, v.v.,1,3,hsk1
+句型单句,jùxíng dānjù,Các Kiểu Câu Đơn: Câu Chủ-Vị,Giới thiệu về các loại câu đơn cơ bản trong tiếng Trung, tập trung vào cấu trúc chủ-vị với vị ngữ là động từ, tính từ hoặc danh từ.,1,3,hsk1
+非主谓句,Fēi zhǔwèi jù,Câu phi chủ vị (Câu không có chủ ngữ và vị ngữ),Câu phi chủ vị là những câu không tuân theo cấu trúc chủ ngữ + vị ngữ thông thường, thường dùng để biểu đạt cảm thán, chào hỏi, mệnh lệnh hoặc miêu tả hiện tượng tự nhiên.,1,1,hsk1
+陈述句,Chénshùjù,Câu trần thuật,Câu trần thuật là loại câu dùng để kể, tả, thông báo một sự việc, hiện tượng hoặc đưa ra một nhận định, thường kết thúc bằng dấu chấm.,1,1,hsk1
+疑问句,yíwènjù,Câu hỏi / Câu nghi vấn,Câu hỏi là loại câu dùng để hỏi thông tin, xác nhận sự việc hoặc biểu đạt sự nghi vấn, thường kết thúc bằng dấu hỏi.,1,3,hsk1
+祈使句,qí shǐ jù,Câu cầu khiến,Câu cầu khiến dùng để diễn đạt mệnh lệnh, yêu cầu, đề nghị, hoặc cấm đoán một hành động nào đó.,1,3,hsk1
+感叹句,Gǎntànjù,Câu cảm thán,Câu cảm thán dùng để biểu lộ cảm xúc mạnh mẽ như ngạc nhiên, vui mừng, tức giận, hoặc buồn bã, thường kết thúc bằng dấu chấm than.,1,1,hsk1
+特殊句型,Tèshū jùxíng,Mẫu câu đặc biệt,Câu chữ “是” (shì) dùng để diễn tả sự tương đồng, đồng nhất hoặc phân loại, cho biết một sự vật, người này là một sự vật, người khác hoặc thuộc một loại nào đó.,1,1,hsk1
+“有”字句1表示领有,\"Yǒu\" zì jù yī biǎo shì lǐng yǒu,Câu chữ \"有\" (1) biểu thị sự sở hữu,Giải thích cách sử dụng động từ \"有\" để diễn tả sự sở hữu một vật, người hoặc thuộc tính ở cấp độ cơ bản nhất.,1,1,hsk1
+存现句1,Cún xiàn jù 1,Câu tồn hiện (kiểu 1),Câu tồn hiện dùng để diễn tả sự tồn tại, xuất hiện hoặc biến mất của người hoặc vật tại một địa điểm nào đó.,1,2,hsk1
+连动句1,Liándòngjù 1,Câu liên động (loại 1),Câu liên động loại 1 diễn tả hai hành động xảy ra liên tiếp, trong đó hành động thứ hai là mục đích hoặc kết quả của hành động thứ nhất.,1,1,hsk1
+作的目的,zuò de mùdì,Mục đích của hành động,Diễn đạt lý do hoặc mục tiêu của một hành động, thường được thể hiện bằng cách đặt hai động từ liền kề.,1,1,hsk1
+不用关联词语的复句,bùyòng guānlián cíyǔ de fùjù,Câu phức không dùng từ nối,Đây là loại câu phức mà các mệnh đề được kết nối với nhau mà không cần dùng đến các từ nối hoặc liên từ rõ ràng, mối quan hệ giữa chúng được ngụ ý.,1,1,hsk1
+并列复句,Píngliè fùjù,Câu phức đẳng lập,Câu phức đẳng lập dùng để nối hai hoặc nhiều mệnh đề có quan hệ bình đẳng, bổ sung hoặc liệt kê các sự việc, hành động, trạng thái.,1,2,hsk1
+用动态助词“了,Yòng dòngtài zhùcí “le”,Sử dụng trợ từ động thái “了”,Trợ từ động thái “了” được dùng đặt sau động từ để biểu thị một hành động đã hoàn thành hoặc một sự việc đã xảy ra.,1,2,hsk1
+”表示,biǎo shì,表示 (biểu thị, thể hiện),表示 là một động từ dùng để diễn tả, thể hiện, biểu thị một ý nghĩa, thái độ, cảm xúc, hoặc trạng thái nào đó.,1,1,hsk1
+用动态助词“了,Yòng dòngtài zhùcí “le”,Sử dụng trợ từ động thái “了”,Trợ từ động thái “了” được đặt sau động từ để biểu thị một hành động đã hoàn thành hoặc đã xảy ra.,1,1,hsk1
+”表示,biǎo shì,Biểu thị, thể hiện,\"表示\" là một động từ, dùng để diễn đạt ý nghĩa \"biểu thị\", \"thể hiện\", \"cho thấy\" một điều gì đó, thường là thái độ, ý kiến, hoặc cảm xúc.,1,1,hsk1
+进行态,Jìnxíngtài,Thể tiếp diễn,Thể tiếp diễn dùng để diễn tả một hành động đang diễn ra tại thời điểm nói hoặc trong một khoảng thời gian nhất định.,1,3,hsk1
+钱数表示法,xù shù biǎo dá fǎ,Cách biểu đạt số thứ tự,Cấu trúc \"第 + số từ\" được dùng để biểu thị thứ tự của sự vật, sự việc hoặc người, tương đương với \"thứ nhất, thứ hai, thứ ba...\" trong tiếng Việt.,1,1,hsk1
+时间表示法,Shíjiān Biǎoshì Fǎ,Cách Biểu Thị Thời Gian,Đây là cách diễn đạt các đơn vị thời gian như năm, tháng, ngày, thứ và giờ trong tiếng Trung.,1,2,hsk1
+语素后缀面,yǔsù hòuzhuì miàn,Hậu tố ngữ tố \"面\",\"面\" là một hậu tố ngữ tố trong tiếng Trung, thường được dùng để chỉ phương hướng, vị trí, hoặc một khía cạnh cụ thể.,2,1,hsk2
+词类,cí lèi,Danh từ và Danh từ phương vị (左, 右),Giải thích cách sử dụng danh từ và danh từ phương vị như 左 (zuǒ), 右 (yòu) để chỉ vị trí hoặc phương hướng của sự vật trong tiếng Trung.,2,1,hsk2
+动词,dòng cí chóng dié,Lặp lại động từ,Lặp lại động từ là một hiện tượng ngữ pháp trong tiếng Trung, dùng để biểu thị hành động diễn ra trong thời gian ngắn, thử nghiệm, hoặc mang sắc thái nhẹ nhàng, thư giãn.,2,4,hsk2
+疑问代词为什么,yíwèn dàicí wèishénme,Đại từ nghi vấn 为什么 (tại sao),疑问代词 为什么 được dùng để hỏi về lý do hoặc nguyên nhân của một sự việc, hành động, tương đương với \"tại sao\" trong tiếng Việt.,2,1,hsk2
+人称代词自己,rénchēng dàicí zìjǐ,Đại từ nhân xưng 自己 (tự mình/chính mình),自己 (zìjǐ) là một đại từ nhân xưng phản thân, dùng để nhấn mạnh chủ ngữ tự thực hiện hành động hoặc sở hữu một thứ gì đó.,2,2,hsk2
+名量词,Míngliàngcí,Lượng từ danh từ,Lượng từ danh từ là những từ dùng để chỉ đơn vị hoặc số lượng của danh từ, thường đứng giữa số từ và danh từ.,2,2,hsk2
+动量词次,dòng liàng cí cì,Lượng từ động tác \"次\",\"次\" là một lượng từ động tác dùng để chỉ số lần một hành động được thực hiện, có nghĩa là \"lần\" hoặc \"lượt\".,2,1,hsk2
+副词,fùcí,Phó từ chỉ mức độ,Các phó từ chỉ mức độ 多 (duō), 好 (hǎo), 最 (zuì) dùng để diễn tả mức độ, cường độ của hành động, trạng thái hoặc tính chất, từ hỏi về mức độ đến mức độ cao và cao nhất.,2,3,hsk2
+范围副词一起,fàn wéi fù cí yī qǐ,Trạng từ phạm vi \"一起\",\"一起\" là một trạng từ dùng để diễn tả một hành động hoặc trạng thái được thực hiện \"cùng nhau\", \"chung với nhau\" bởi hai hoặc nhiều người hoặc vật.,2,1,hsk2
+时间副词,shí jiān fù cí,Trạng ngữ chỉ thời gian,Trạng ngữ chỉ thời gian là những từ hoặc cụm từ dùng để chỉ thời điểm diễn ra hành động hoặc sự việc trong câu tiếng Trung.,2,1,hsk2
+还,hái,Còn, Vẫn còn, Thêm nữa,\"还\" là một phó từ đa nghĩa, chủ yếu dùng để diễn tả sự tiếp diễn của hành động, trạng thái, hoặc bổ sung thêm thông tin, ý nghĩa.,2,2,hsk2
+否定副词别,fǒudìng fùcí bié,Trạng từ phủ định \"别\",\"别\" là một trạng từ phủ định dùng để ra lệnh hoặc cấm đoán, mang ý nghĩa \"đừng\", \"chớ\" hoặc \"không được làm gì đó\".,2,2,hsk2
+关联副词,guān lián fù cí,Trạng từ liên kết,Trạng từ liên kết dùng để nối các mệnh đề hoặc câu, thể hiện mối quan hệ nguyên nhân-kết quả, nhượng bộ, điều kiện, v.v., giúp câu văn mạch lạc và rõ ràng hơn.,2,1,hsk2
+再,zài,再 (lại, nữa),再 được dùng để diễn tả một hành động sẽ lặp lại hoặc tiếp tục trong tương lai, thường mang ý nghĩa \"lại\", \"nữa\" hoặc \"thêm nữa\".,2,2,hsk2
+语气副词,yǔqì fùcí,Trạng từ ngữ khí,Trạng từ ngữ khí là những từ dùng để biểu thị thái độ, cảm xúc, hoặc mức độ chắc chắn của người nói đối với hành động hay sự việc được đề cập.,2,3,hsk2
+都,dōu,Đều / Tất cả,都 là một phó từ trong tiếng Trung, thường được dùng để chỉ \"tất cả\", \"đều\" hoặc \"cả hai\", nhấn mạnh sự bao quát toàn bộ một nhóm người hoặc vật.,2,2,hsk2
+介词,jiècí,Giới từ,Giới từ trong tiếng Trung dùng để giới thiệu thời gian hoặc địa điểm diễn ra hành động, thường đứng trước động từ.,2,3,hsk2
+往,wǎng,Giới từ 往 (hướng về),往 là một giới từ chỉ phương hướng, có nghĩa là \"hướng về\", \"đi về phía\", thường đứng trước danh từ chỉ địa điểm để chỉ phương hướng của hành động.,2,2,hsk2
+从,cóng,Từ,“从” là một giới từ dùng để chỉ điểm xuất phát về thời gian, địa điểm, hoặc nguồn gốc của một hành động, tương đương với “từ” trong tiếng Việt.,2,2,hsk2
+引出对象,yǐn chū duì xiàng,Giới thiệu đối tượng hành động,Cấu trúc ngữ pháp dùng để giới thiệu hoặc làm rõ đối tượng (người hoặc vật) mà hành động trong câu hướng tới hoặc có liên quan.,2,1,hsk2
+给,gěi,给 (gěi) – Cho, Tặng, Dành cho,“给” (gěi) là động từ nghĩa “cho, tặng” hoặc giới từ chỉ người nhận hành động, người được hưởng lợi hoặc mục đích của hành động.,2,2,hsk2
+比,bǐ,Trợ từ so sánh 比,Dùng để so sánh hai đối tượng, chỉ ra rằng một đối tượng có mức độ tính chất nào đó hơn hoặc kém đối tượng kia.,2,3,hsk2
+跟,gēn,Giới từ \"跟\",\"跟\" là một giới từ hoặc liên từ dùng để chỉ sự đồng hành, mối quan hệ, hoặc sự liên kết giữa hai hoặc nhiều đối tượng, thường mang nghĩa \"với\", \"và\", hoặc \"cùng\".,2,3,hsk2
+引出原因,yǐnchū yuányīn,Trình bày nguyên nhân/lý do,Đây là cách diễn đạt nguyên nhân hoặc lý do dẫn đến một sự việc, hành động cụ thể.,2,2,hsk2
+因为,yīn wéi,Bởi vì, Vì,Từ nối biểu thị nguyên nhân hoặc lý do của một sự việc, thường đứng trước mệnh đề nguyên nhân.,2,2,hsk2
+连接词或短语,liánjiē cí huò duǎnyǔ,Từ nối hoặc cụm từ nối,Từ nối hoặc cụm từ nối là những từ dùng để liên kết các từ, cụm từ, hoặc câu lại với nhau, giúp câu văn mạch lạc và rõ ràng hơn.,2,2,hsk2
+跟,gēn,Giới từ '跟',Từ '跟' được dùng để chỉ sự đồng hành, mối quan hệ giữa các đối tượng, hoặc để so sánh hai sự vật/hiện tượng.,2,2,hsk2
+连接分句或者句子,Liánjiē fēnjù huòzhě jùzi,Liên kết các mệnh đề hoặc câu,Các từ dùng để nối các mệnh đề hoặc câu lại với nhau, thể hiện mối quan hệ ngữ pháp và ý nghĩa giữa chúng như nguyên nhân – kết quả, đối lập, nhượng bộ.,2,3,hsk2
+助词,zhùcí,Trợ từ,得 (de) và 地 (de) là các trợ từ cấu trúc dùng để liên kết các thành phần trong câu, biểu thị cách thức hoặc mức độ của hành động/trạng thái.,2,2,hsk2
+动态助词过,dòngtài zhùcí guò,Trợ từ động thái \"过\",Trợ từ động thái \"过\" (guo) dùng để biểu thị một hành động hoặc kinh nghiệm đã xảy ra trong quá khứ và đã kết thúc, thường nhấn mạnh trải nghiệm đó.,2,2,hsk2
+动态助词着,dòngtài zhùcí zhe,Trợ từ động thái 着 (zhe),Trợ từ động thái 着 (zhe) được đặt sau động từ để biểu thị một hành động đang tiếp diễn hoặc một trạng thái đang được duy trì.,2,1,hsk2
+语气助词,yǔqì zhùcí,Trợ từ ngữ khí,Trợ từ ngữ khí là những từ nhỏ đặt ở cuối câu trong tiếng Trung để biểu thị ngữ khí, thái độ hoặc mục đích giao tiếp của người nói.,2,3,hsk2
+呢,ne,Trợ từ ngữ khí \"呢\",\"呢\" là một trợ từ ngữ khí thường dùng ở cuối câu để tạo câu hỏi tỉnh lược (\"còn... thì sao?\") hoặc diễn tả sự tiếp diễn của hành động.,2,2,hsk2
+结构类型,jiégòu lèixíng,Loại Hình Cấu Trúc: Cụm Động Bổ,Cụm động bổ là một cấu trúc trong tiếng Trung, trong đó bổ ngữ đứng sau động từ để bổ sung ý nghĩa về kết quả, mức độ, hoặc hướng của hành động.,2,1,hsk2
+其他结构类型,Qítā jiégòu lèixíng,Các Kiểu Cấu Trúc Khác,Điểm ngữ pháp này giới thiệu ba kiểu cấu trúc câu phổ biến và quan trọng trong tiếng Trung: cụm từ \"de\", cụm động từ liên tiếp và cụm từ kiêm ngữ.,2,3,hsk2
+功能类型,Gōngnéng lèixíng,Loại hình chức năng của cụm từ,Định nghĩa ngắn gọn về các loại cụm từ trong tiếng Trung dựa trên chức năng ngữ pháp của chúng, bao gồm cụm danh từ, cụm động từ và cụm tính từ.,2,3,hsk2
+固定短语其他什么的,gù dìng duǎn yǔ qí tā shén me de,Cụm từ cố định \"其他什么的\",Cụm từ này được dùng sau khi liệt kê một hoặc vài thứ, mang ý nghĩa \"và những thứ khác nữa\", \"vân vân\", để chỉ sự tiếp nối của các mục tương tự.,2,1,hsk2
+固定格式,gù dìng gé shì,Cấu trúc cố định,Các cấu trúc ngữ pháp cố định dùng để diễn đạt sự lựa chọn, hành động sắp xảy ra hoặc nhấn mạnh một trạng thái đã đạt đến.,2,3,hsk2
+句子成分,Jùzi Chéngfèn,Thành phần câu,Các thành phần cơ bản cấu tạo nên một câu trong tiếng Trung, bao gồm chủ ngữ, vị ngữ và định ngữ, với các dạng thức và chức năng khác nhau.,2,3,hsk2
+补语,Jiéguǒ bǔyǔ,Bổ ngữ kết quả,Bổ ngữ kết quả là thành phần đứng sau động từ, bổ sung ý nghĩa về kết quả của hành động, thường dùng với các từ như 错, 懂, 好, 会, 完.,2,1,hsk2
+趋向补语1,Qūxiàng Bǔyǔ 1,Bổ ngữ xu hướng 1,Bổ ngữ xu hướng dùng sau động từ để chỉ rõ phương hướng của hành động, cho biết hành động diễn ra theo hướng nào.,2,3,hsk2
+数量补语2,Shùliàng Bǔyǔ 2,Bổ ngữ chỉ lượng 2,Bổ ngữ chỉ lượng 2 dùng để diễn tả thời gian hành động kéo dài hoặc mức độ thay đổi/so sánh của tính từ.,2,2,hsk2
+句子的类型,jùzi de lèixíng: zhǔwèi wèiyǔjù,Loại câu: Câu vị ngữ chủ-vị,Là loại câu mà vị ngữ chính không phải là một từ đơn mà là một cụm chủ-vị (gồm chủ ngữ nhỏ và vị ngữ nhỏ), dùng để miêu tả chủ ngữ chính.,2,1,hsk2
+句类,Jùlèi,Loại câu,Điểm ngữ pháp này giới thiệu hai loại câu cơ bản trong tiếng Trung: câu hỏi lựa chọn dùng '还是' và câu mệnh lệnh phủ định dùng '别'.,2,2,hsk2
+特殊句式,Tèshū jùshì: “Shì” zì jù 2 biǎoshì shuōmíng huò tèzhēng,Cấu trúc câu đặc biệt: Câu chữ “是” (loại 2) dùng để diễn tả sự giải thích hoặc đặc điểm,Câu chữ “是” loại 2 được dùng để giới thiệu, giải thích, hoặc mô tả đặc điểm của người, sự vật hoặc tình huống.,2,1,hsk2
+“有”字句2表示达到,Yǒu zì jù èr biǎoshì dá dào,Câu chữ 有 (loại 2) biểu thị sự đạt đến trạng thái,Cấu trúc này dùng để diễn tả sự tồn tại hoặc xuất hiện của một vật/người ở một địa điểm nào đó, thường là kết quả của một hành động và trạng thái đó đang tiếp diễn.,2,1,hsk2
+比较句1,bǐ jiào jù 1,Câu so sánh 1,Các cấu trúc dùng để so sánh sự khác biệt hoặc tương đồng về tính chất, trạng thái, hoặc mức độ hành động giữa hai đối tượng A và B.,2,5,hsk2
+兼语句1,jiān yǔ jù yī,Câu kiêm ngữ 1,Cấu trúc này dùng để diễn tả việc chủ ngữ sai khiến, yêu cầu hoặc cho phép một người khác thực hiện một hành động nào đó.,2,1,hsk2
+语2,Shuāng bīn yǔ jù 2,Cấu trúc tân ngữ kép với 给 (gěi),Cấu trúc này dùng để diễn tả hành động chủ ngữ cho/tặng một vật gì đó cho một người nào đó, sử dụng giới từ \"给\".,2,1,hsk2
+复句,Fùjù,Câu phức,Câu phức là câu có ít nhất hai phân câu trở lên, biểu thị mối quan hệ ý nghĩa khác nhau giữa chúng.,2,4,hsk2
+持续态,chí xù tài,Trạng thái tiếp diễn,Động từ + 着 (zhe) dùng để diễn tả một hành động hoặc trạng thái đang tiếp diễn tại một thời điểm nhất định.,2,1,hsk2
+特殊表达法数的表达法,Tèshū biǎodá fǎ shù de biǎodá fǎ,Cách diễn đạt số lượng đặc biệt,Mô tả các cách đặc biệt để biểu thị số thứ tự (trong cụm từ cố định) và số lượng xấp xỉ trong tiếng Trung.,2,3,hsk2
+前缀老—,qiánzhuì lǎo—,Tiền tố 老— và các hậu tố —家, —子, —员,Giới thiệu cách dùng tiền tố 老— để gọi người thân mật hoặc có kinh nghiệm, và các hậu tố —家, —子, —员 để tạo danh từ chỉ người hoặc vật.,3,3,hsk3
+词类,Cí lèi,Loại từ: Danh từ phương vị,Danh từ phương vị là những danh từ chỉ phương hướng hoặc vị trí tương đối của sự vật, giúp xác định địa điểm trong không gian.,3,2,hsk3
+中间,zhōng jiān,Giữa, ở giữa,Từ chỉ vị trí, dùng để diễn tả một vật hoặc một người nằm ở khoảng không gian giữa hai vật hoặc hai người khác.,3,3,hsk3
+动词,néng yuàn dòng cí,Động từ năng nguyện,Động từ năng nguyện là những động từ đứng trước động từ chính để biểu thị khả năng, ý muốn, sự cần thiết, nghĩa vụ hoặc sự cho phép của chủ ngữ đối với một hành động.,3,2,hsk3
+离合词,Líhécí,Từ ly hợp,Từ ly hợp là những từ có thể tách rời thành hai phần (thường là động từ và tân ngữ/bổ ngữ) để chèn các thành phần khác vào giữa.,3,2,hsk3
+疑问代词,yíwèn dàicí,Đại từ nghi vấn,Đại từ nghi vấn là những từ dùng để hỏi về người, vật, thời gian, địa điểm, cách thức, số lượng, v.v., và chúng thường đứng ở vị trí của thành phần được hỏi trong câu.,3,3,hsk3
+怎样,zěnyàng,怎样 (Dùng trong câu không hỏi),“怎样” có thể được dùng trong câu không hỏi để diễn tả ý nghĩa “dù thế nào đi nữa”, “bằng cách nào đi nữa”, hoặc “bất cứ cách nào”.,3,1,hsk3
+名量词,míng liàng cí,Danh lượng từ,Danh lượng từ là những từ dùng để chỉ đơn vị của người, vật, sự việc trong tiếng Trung, thường đứng giữa số từ/đại từ chỉ thị và danh từ.,3,3,hsk3
+程度副词,Chéngdù fùcí,Trạng từ chỉ mức độ,Các trạng từ dùng để biểu thị mức độ, cường độ của hành động, tính chất hoặc trạng thái, thường đứng trước tính từ hoặc động từ.,3,3,hsk3
+范围副词,fànwéi fùcí,Phó từ chỉ phạm vi,Phó từ chỉ phạm vi là những từ dùng để giới hạn hoặc mở rộng phạm vi của hành động, trạng thái hoặc đối tượng được nhắc đến trong câu.,3,2,hsk3
+就,jiù,Trợ từ \"就\",\"就\" là một trợ từ đa nghĩa, thường dùng để biểu thị sự sớm, nhanh chóng, kết quả, sự nhấn mạnh hoặc số lượng ít, thường đứng trước động từ hoặc tính từ.,3,3,hsk3
+时间副词,shí jiān fù cí,Trạng từ chỉ thời gian,Trạng từ chỉ thời gian là những từ dùng để biểu thị thời điểm, tần suất hoặc trạng thái liên quan đến thời gian của một hành động, sự việc.,3,2,hsk3
+才,cái,Phó từ \"才\",\"才\" là một phó từ dùng để diễn tả hành động xảy ra muộn hơn dự kiến, chỉ sau khi một điều kiện nhất định được đáp ứng, hoặc vừa mới xảy ra.,3,3,hsk3
+关联副词一边,guānlián fùcí yībiān,Phó từ liên kết \"一边...一边...\",Dùng để diễn tả hai hành động hoặc trạng thái diễn ra đồng thời bởi cùng một chủ thể.,3,1,hsk3
+语气副词,yǔqì fùcí,Trạng từ ngữ khí,Các trạng từ ngữ khí được dùng để biểu thị thái độ, cảm xúc, hoặc sự nhấn mạnh của người nói đối với nội dung câu, làm cho câu văn thêm sinh động.,3,6,hsk3
+引出对象,yǐn chū duì xiàng,Giới thiệu đối tượng,Cấu trúc này dùng để giới thiệu hoặc làm rõ đối tượng (người hoặc vật) mà hành động, thái độ hoặc mối quan hệ được hướng tới hoặc liên quan đến.,3,2,hsk3
+为,wèi,Giới từ '为' (wèi) - Vì, cho,Giới từ '为' (wèi) được dùng để chỉ mục đích, đối tượng, hoặc nguyên nhân của một hành động, mang ý nghĩa 'vì', 'cho', hoặc 'vì lợi ích của'.,3,1,hsk3
+向,xiàng,Giới từ \"向\",Giới từ \"向\" dùng để chỉ phương hướng của hành động hoặc đối tượng mà hành động đó hướng tới, thường mang nghĩa \"về phía\", \"đối với\", hoặc \"từ\" (trong ngữ cảnh học hỏi, vay mượn).,3,1,hsk3
+连词,lián cí,Liên từ,Liên từ dùng để nối các từ, cụm từ hoặc mệnh đề, biểu thị sự lựa chọn hoặc khả năng thay thế.,3,2,hsk3
+连接分句或句子,Liánjiē fēnjù huò jùzi,Liên kết các mệnh đề hoặc câu,Các từ nối dùng để kết nối hai mệnh đề hoặc hai câu, thể hiện mối quan hệ điều kiện, tăng tiến, tương phản hoặc trình tự thời gian.,3,3,hsk3
+助词其他助词的话,de huà,Trợ từ 的话 (de huà),“的话” là một trợ từ dùng để giới thiệu mệnh đề điều kiện hoặc giả định, thường được dịch là “nếu... thì...” hoặc “trong trường hợp...”.,3,2,hsk3
+结构类型其他结构类型,Jiégòu lèixíng qítā jiégòu lèixíng,Các Loại Cấu Trúc Khác,Giới thiệu một số loại cấu trúc ngữ pháp tiếng Trung phổ biến nhưng không thuộc các phân loại chính, giúp diễn đạt ý nghĩa đa dạng hơn.,3,2,hsk3
+同位短语,Tóngwèi duǎnyǔ,Cụm từ đồng vị,Cụm từ đồng vị là một cụm từ hoặc mệnh đề bổ sung thông tin, giải thích rõ hơn cho một danh từ hoặc cụm danh từ đứng trước nó.,3,1,hsk3
+动补短语2,Dòngbǔ duǎnyǔ 2,Cụm bổ ngữ động từ 2: Lặp lại số lượng,Cấu trúc lặp lại số lượng (số từ + lượng từ + số từ + lượng từ) dùng để diễn tả ý nghĩa \"mỗi\", \"từng\" hoặc hành động diễn ra từ từ, từng chút một.,3,1,hsk3
+四字格,sì zì gé,Cấu trúc bốn chữ \"不A 不B\",Cấu trúc \"不A 不B\" dùng để diễn tả một trạng thái không phải A cũng không phải B, thường mang ý nghĩa trung lập, mơ hồ hoặc không đạt yêu cầu.,3,1,hsk3
+其 他,qítā,Khác, Những cái khác,“其他” là một từ dùng để chỉ những người, vật, hoặc sự việc còn lại, không bao gồm những gì đã được đề cập hoặc đang được nói đến.,3,2,hsk3
+不一会儿,Bù yīhuìr,Chẳng mấy chốc / Không lâu sau,\"不一会儿\" là một trạng từ chỉ thời gian, dùng để diễn tả một sự việc sẽ xảy ra hoặc đã xảy ra trong một khoảng thời gian rất ngắn sau một sự việc khác.,3,1,hsk3
+看来,kàn lái,Xem ra / Trong mắt ai đó,Dùng để biểu thị sự đánh giá, nhận định hoặc kết luận dựa trên những gì đã thấy hoặc biết được.,3,2,hsk3
+越来越,yuè lái yuè,Càng ngày càng,“越来越” dùng để diễn tả một sự thay đổi liên tục, tiến triển của một trạng thái, tính chất hoặc mức độ theo thời gian, mang ý nghĩa \"càng ngày càng\".,3,2,hsk3
+看起来,kàn qǐlái,Trông có vẻ, Dường như,Dùng để diễn tả một sự suy đoán hoặc ấn tượng dựa trên những gì nhìn thấy hoặc cảm nhận được, mang ý nghĩa 'có vẻ như', 'dường như'.,3,2,hsk3
+看上去,kàn shàng qù,Trông có vẻ, Nhìn qua thì,Diễn tả một sự phán đoán hoặc nhận định về điều gì đó dựa trên vẻ bề ngoài hoặc ấn tượng ban đầu.,3,1,hsk3
+一般来说,yī bān lái shuō,Nói chung là / Thông thường mà nói,Dùng để giới thiệu một nhận định, quan điểm hoặc tình huống mang tính tổng quát, không phải là tuyệt đối.,3,1,hsk3
+不怎么样,bù zěnmeyàng,Không được tốt lắm / Không ra gì,Cụm từ này dùng để diễn tả một sự vật, sự việc, hoặc người nào đó không đạt được kỳ vọng, không tốt lắm, hoặc chỉ ở mức tầm thường.,3,1,hsk3
+固定格式,Gùdìng Géshì,Các Cấu Trúc Cố Định,Các cấu trúc cố định là những mẫu câu ngữ pháp có hình thức và cách dùng nhất định, thường gặp trong tiếng Trung, giúp biểu đạt ý nghĩa rõ ràng và chính xác.,3,4,hsk3
+一点儿也不,yī diǎnr yě bù,Một chút cũng không...,Cấu trúc này dùng để nhấn mạnh sự phủ định hoàn toàn, biểu thị \"một chút cũng không\", \"hoàn toàn không\".,3,1,hsk3
+X什么（啊）,X shénme (a),X gì (à) / X cái gì (à),Cấu trúc dùng để đặt câu hỏi tu từ, thể hiện sự ngạc nhiên, khó chịu, không đồng tình, hoặc thái độ khuyến khích/trấn an.,3,3,hsk3
+主语,zhǔyǔ (zhǔwèi duǎnyǔ zuò zhǔyǔ),Cụm Chủ-Vị làm Chủ ngữ,Cụm chủ-vị là một cụm từ có cấu trúc chủ ngữ và vị ngữ, có thể đóng vai trò làm chủ ngữ cho một câu lớn hơn, thường dùng để nêu một sự việc hay tình huống.,3,1,hsk3
+定语多项定语,Dìngyǔ duōxiàng dìngyǔ,Định ngữ đa tầng / Nhiều định ngữ,Giải thích cách sắp xếp nhiều định ngữ khi chúng cùng bổ nghĩa cho một danh từ trong tiếng Trung theo một trật tự cố định.,3,1,hsk3
+补语,bǔyǔ,Bổ ngữ kết quả (结果补语),Bổ ngữ kết quả là thành phần theo sau động từ, chỉ ra kết quả đạt được của hành động, thường dùng với các bổ ngữ cụ thể như 到, 住, 走, 上.,3,1,hsk3
+趋向补语2,qū xiàng bǔ yǔ 2,Bổ ngữ xu hướng 2 (Nghĩa mở rộng),Bổ ngữ xu hướng 2 dùng để diễn tả các ý nghĩa mở rộng ngoài hướng đi vật lý, bao gồm kết quả, sự bắt đầu hoặc sự tiếp diễn của hành động.,3,3,hsk3
+可能补语1,kě néng bǔ yǔ 1,Bổ ngữ khả năng 1,Cấu trúc này dùng để diễn tả khả năng thực hiện hoặc không thực hiện được một hành động nào đó, thường do điều kiện khách quan hoặc năng lực chủ quan.,3,2,hsk3
+程度补语1,Chéngdù bǔyǔ 1,Bổ ngữ trình độ 1,Bổ ngữ trình độ 1 được dùng để diễn tả mức độ cao của một tính từ hoặc động từ, thường mang nghĩa \"rất\", \"cực kỳ\".,3,3,hsk3
+句类,jùlèi,Các loại câu,Điểm ngữ pháp này giới thiệu về câu hỏi đặc biệt dùng \"怎样 + động từ\" để hỏi về cách thức và câu hỏi tu từ \"不是...吗?\" để nhấn mạnh.,3,2,hsk3
+“把”字句1,bǎ zì jù yī,Câu chữ “把” (loại 1),Cấu trúc câu chữ “把” dùng để diễn tả chủ ngữ xử lý hoặc tác động đến tân ngữ, dẫn đến sự thay đổi về trạng thái hoặc vị trí của tân ngữ.,3,3,hsk3
+被动句1,Bèi dòng jù yī,Câu bị động với \"被\" (Thể bị động 1),Cấu trúc dùng để diễn tả một hành động mà chủ ngữ là đối tượng chịu tác động, thường mang ý nghĩa không mong muốn hoặc tiêu cực.,3,2,hsk3
+比较句2,bǐjiàojù 2,Câu so sánh (Phần 2),Các cấu trúc so sánh này dùng để diễn tả sự khác biệt về mức độ, sự tương đồng hoặc khác biệt về số lượng/thời gian giữa hai đối tượng A và B.,3,3,hsk3
+存现句3,Cúnxiànjù sān,Câu tồn hiện (loại 3),Câu tồn hiện dùng để diễn tả sự xuất hiện, tồn tại hoặc biến mất của người/vật tại một địa điểm cụ thể.,3,2,hsk3
+复句,Fùjù,Câu phức,Câu phức là câu có hai hoặc nhiều phân câu, mỗi phân câu có một chủ ngữ và vị ngữ riêng, thể hiện các mối quan hệ khác nhau giữa các hành động hoặc tình huống.,3,2,hsk3
+并列复句,Bìngliè fùjù,Câu phức đẳng lập,Diễn tả các mối quan hệ song song, đồng thời, tăng tiến hoặc chuyển ngoặt giữa các mệnh đề trong một câu.,3,5,hsk3
+假设复句,jiǎshè fùjù,Câu Phức Giả Định,Dùng để diễn tả một giả định hoặc điều kiện và kết quả tương ứng của nó.,3,2,hsk3
+条件复句,Tiáojiàn fùjù,Câu phức điều kiện,Câu phức điều kiện dùng để diễn tả mối quan hệ điều kiện và kết quả giữa hai vế câu, hoặc các mối quan hệ tương tự như mục đích và sự tiếp nối hành động.,3,4,hsk3
+特殊表达法数的表达法,Gàishù biǎodá fǎ,Cách diễn đạt số lượng ước chừng,Đây là cách diễn đạt số lượng không chính xác mà chỉ mang tính ước chừng, thường dùng khi người nói không cần hoặc không biết con số cụ thể.,3,2,hsk3
+词类,cí lèi,Từ loại,“Từ loại” là cách phân loại các từ dựa trên chức năng ngữ pháp và ý nghĩa, bao gồm động từ năng nguyện như “敢” và đại từ chỉ thị như “各”, “各位”, “各种”, “任何”, “此”.,4,3,hsk4
+名量词,Míngliàngcí,Lượng từ danh từ,Lượng từ danh từ là từ dùng để chỉ số lượng của danh từ, thường đứng sau số từ và trước danh từ trong tiếng Trung.,4,1,hsk4
+副词,fùcí,Phó từ,Phó từ là những từ dùng để bổ nghĩa cho động từ, tính từ hoặc phó từ khác, biểu thị mức độ, phạm vi, thời gian, phương thức, v.v.,4,2,hsk4
+时间副词,shí jiān fù cí,Trạng từ thời gian,Trạng từ thời gian là những từ dùng để chỉ thời điểm, khoảng thời gian, hoặc tần suất xảy ra của hành động, trạng thái trong tiếng Trung.,4,3,hsk4
+关联副词却,què,Phó từ liên kết 却 (què),\"却\" là một phó từ liên kết biểu thị sự chuyển đổi hoặc tương phản, thường mang ý nghĩa \"nhưng\", \"tuy nhiên\", \"ngược lại\" hoặc \"không ngờ\".,4,3,hsk4
+语气副词,yǔqì fùcí,Phó từ ngữ khí,Phó từ ngữ khí là những phó từ dùng để biểu thị thái độ, cảm xúc, hoặc mức độ chắc chắn của người nói đối với một sự việc hay hành động.,4,1,hsk4
+才,cái,Phó từ \"才\",\"才\" là một phó từ biểu thị hành động xảy ra muộn hơn dự kiến, hoàn thành với khó khăn, hoặc chỉ khi có điều kiện nhất định mới xảy ra, thường mang ý nhấn mạnh.,4,3,hsk4
+介词,jiècí,Giới từ,Giới từ là từ loại dùng để dẫn dắt các thành phần khác trong câu, biểu thị mối quan hệ về thời gian, địa điểm, phương thức, đối tượng, nguyên nhân, v.v.,4,2,hsk4
+引出原因,yǐnchū yuányīn,Diễn đạt nguyên nhân,Điểm ngữ pháp này dùng để giới thiệu hoặc trình bày lý do, nguyên nhân dẫn đến một sự việc, hành động hoặc kết quả nào đó.,4,2,hsk4
+由于,yóu yú,Do, Bởi vì,Từ nối biểu thị nguyên nhân, lý do dẫn đến một kết quả hoặc tình huống nào đó, thường dùng trong văn viết hoặc ngữ cảnh trang trọng.,4,2,hsk4
+引出对象,yǐn chū duì xiàng,Dẫn dắt đối tượng hoặc căn cứ,Điểm ngữ pháp này dùng để giới thiệu đối tượng mà hành động hoặc sự việc hướng tới, hoặc giới thiệu căn cứ, cơ sở cho một hành động, nhận định.,4,2,hsk4
+连接词或词组,liánjiēcí huò cízǔ,Liên từ hoặc Cụm từ nối,Liên từ và cụm từ nối là những từ hoặc cụm từ dùng để liên kết các từ, cụm từ, câu hoặc mệnh đề, tạo sự mạch lạc và logic cho câu.,4,3,hsk4
+并,bìng,并 (bìng),并 là một liên từ hoặc phó từ, dùng để nối các hành động, trạng thái, hoặc nhấn mạnh sự phủ định.,4,2,hsk4
+连接分句或句子,Liánjiē fēnjù huò jùzi,Liên kết các mệnh đề hoặc câu,Cung cấp các từ nối và liên từ dùng để liên kết các mệnh đề hoặc câu, biểu thị mối quan hệ bổ sung, tương phản, nguyên nhân-kết quả, điều kiện hoặc nhấn mạnh.,4,3,hsk4
+加上,jiā shàng,Thêm vào, cộng thêm; Hơn nữa, vả lại,\"加上\" được dùng để diễn tả hành động thêm một sự vật, số lượng hoặc tình huống vào một cái đã có, hoặc dùng để bổ sung ý nghĩa cho câu, mang nghĩa \"thêm vào\", \"hơn nữa\".,4,2,hsk4
+助词其他助词,zhù cí qí tā zhù cí,Các trợ từ khác,Các trợ từ khác là những từ không mang ý nghĩa thực tế nhưng bổ sung sắc thái, ngữ khí hoặc chức năng ngữ pháp cho câu, thường đứng ở cuối câu.,4,3,hsk4
+等,děng,等 (và vân vân; chờ đợi),“等” có hai nghĩa chính: “vân vân, và những thứ tương tự” khi liệt kê các mục, hoặc “chờ đợi” một ai đó/điều gì đó.,4,2,hsk4
+短语,duǎnyǔ,Cụm từ,Cụm từ này dùng để diễn tả số lượng của một vật thể hoặc phần của vật thể, trong đó tính từ mô tả trực tiếp đặc điểm (thường là kích thước) của lượng từ.,4,1,hsk4
+四字格,sì zì gé,Cụm từ bốn chữ,Đây là các cấu trúc cụm từ cố định gồm bốn chữ Hán, thường được dùng để miêu tả trạng thái, tính chất hoặc mối quan hệ một cách ngắn gọn và trang trọng.,4,3,hsk4
+其他,láidejí / láibùjí,Kịp / Không kịp (thời gian),Cụm từ bổ ngữ tiềm năng dùng để diễn tả việc có đủ hoặc không đủ thời gian để thực hiện một hành động nào đó.,4,2,hsk4
+有的是,yǒu de shì,Có rất nhiều / Không thiếu gì,Cấu trúc này dùng để diễn tả rằng có một thứ gì đó rất nhiều, dồi dào, không cần phải lo lắng về sự thiếu hụt.,4,1,hsk4
+说不定,shuō bu dìng,Biết đâu chừng, Không chừng,Diễn tả khả năng một điều gì đó có thể xảy ra, thường là một điều bất ngờ hoặc không chắc chắn, mang ý nghĩa \"có lẽ\", \"biết đâu đấy\".,4,1,hsk4
+不怎么,bù zěn me,Không mấy / Không lắm,\"不怎么\" dùng để diễn tả mức độ không cao, không nhiều, hoặc không thường xuyên của một hành động hay trạng thái.,4,1,hsk4
+固定格式,Gùdìng géshì,Các cấu trúc cố định,Định nghĩa ngắn gọn về các cấu trúc hoặc mẫu câu cố định trong tiếng Trung, thường dùng để diễn đạt ý nghĩa cụ thể hoặc tạo sắc thái nhất định, không thể thay đổi.,4,3,hsk4
+X是X，Y是Y,X shì X, Y shì Y,X là X, Y là Y,Cấu trúc này dùng để nhấn mạnh rằng hai sự vật, sự việc (X và Y) là khác biệt, không thể lẫn lộn hoặc thay thế cho nhau, thường mang ý nghĩa \"cái gì ra cái đó\".,4,1,hsk4
+X也得X，不X也得X,X yě děi X, bù X yě děi X,Dù có X hay không X, cũng đều phải X,Cấu trúc này dùng để diễn tả rằng một hành động hoặc tình huống là không thể tránh khỏi, bất kể điều kiện có xảy ra hay không.,4,1,hsk4
+X就是了,jiù shì le,Chỉ cần... là được rồi / Cứ... là xong,Cấu trúc \"X就是了\" dùng để diễn đạt rằng một hành động hoặc điều kiện nào đó là đơn giản, dễ dàng, hoặc là giải pháp duy nhất và đủ để đạt được mục đích.,4,1,hsk4
+还X呢,hái X ne,Vẫn X đó/ư!,Cấu trúc này dùng để diễn tả sự ngạc nhiên, không hài lòng, hoặc một câu hỏi tu từ về một tình huống hoặc hành động vẫn đang tiếp diễn, thường mang ý nghĩa tiêu cực hoặc không mong muốn.,4,1,hsk4
+你X你的吧,nǐ X nǐ de ba,Bạn cứ X việc của bạn đi / Cứ X đi,Cấu trúc này dùng để biểu thị sự cho phép, chấp nhận, hoặc đôi khi là sự bất lực khi yêu cầu ai đó cứ làm việc của họ, hoặc nhấn mạnh một hành động cần phải làm.,4,3,hsk4
+X就X（点儿）吧,X jiù X (diǎnr) ba,Cứ X (một chút) đi/thôi,Cấu trúc này dùng để diễn đạt một quyết định, đề nghị hoặc sự thỏa hiệp, thường mang ý nghĩa \"cứ làm X đi\" hoặc \"thôi thì X vậy\".,4,1,hsk4
+X是X,X shì X,Cấu trúc X是X (X thì là X),Dùng để xác nhận một sự thật nhưng đồng thời ngụ ý có điều gì đó khác cần được xem xét hoặc có một sự hạn chế nhất định.,4,1,hsk4
+程度补语2,Chéngdù bǔyǔ 2,Bổ ngữ trình độ 2,Đây là nhóm bổ ngữ dùng để diễn tả mức độ cực điểm của một trạng thái, cảm xúc (dùng 死了/厉害) hoặc khả năng/không khả năng thực hiện hành động (dùng 得/不+了).,4,2,hsk4
+句类反问句2,Jùlèi fǎnwènjù 2,Câu hỏi phản vấn loại câu 2,Cấu trúc 难道...吗? dùng để tạo câu hỏi tu từ, thể hiện sự ngạc nhiên, nghi ngờ hoặc nhấn mạnh mạnh mẽ, ngụ ý câu trả lời đã rõ ràng.,4,1,hsk4
+“把”字句2,bǎ zì jù èr,Cấu trúc chữ “把” (Phần 2),Cấu trúc chữ '把' (Phần 2) mở rộng các cách dùng để diễn tả hành động tác động lên tân ngữ, nhấn mạnh sự hoàn thành, thời lượng, tần suất hoặc cách thức của hành động.,4,3,hsk4
+兼语句2,Jiān yǔ jù èr,Câu kiêm ngữ 2,Câu kiêm ngữ là một loại câu phức tạp trong tiếng Trung, trong đó tân ngữ của động từ thứ nhất đồng thời là chủ ngữ của động từ thứ hai.,4,3,hsk4
+语气助词,Yǔqì zhùcí,Ngữ khí (Trợ từ ngữ khí),Là các từ hoặc yếu tố ngữ pháp dùng để biểu thị thái độ, cảm xúc, hoặc mục đích của người nói trong câu, thường đặt ở cuối câu.,4,4,hsk4
+比较句3,bǐjiàojù 3,Cấu trúc so sánh 3,Giới thiệu các cấu trúc so sánh biểu thị sự thua kém hoặc dùng để đối chiếu, cùng với cách dùng câu phủ định kép để nhấn mạnh.,4,2,hsk4
+并列复句,bìng liè fù jù,Câu phức đẳng lập,Cấu trúc câu nối hai hoặc nhiều mệnh đề có vị trí ngữ pháp ngang nhau, biểu thị mối quan hệ song song, đối lập hoặc bổ sung.,4,3,hsk4
+承接复句,chéngjiē fùjù,Câu phức biểu thị quan hệ nối tiếp,Dùng để diễn tả một chuỗi các hành động hoặc sự kiện xảy ra theo trình tự thời gian hoặc logic, thể hiện sự tiếp nối giữa các vế câu.,4,3,hsk4
+递进复句,Dìjìn fùjù,Câu phức tăng tiến,Câu phức tăng tiến dùng để diễn đạt ý nghĩa các phân câu có mối quan hệ bổ sung, tiến triển hoặc nhấn mạnh mức độ cao hơn của sự việc, hành động.,4,3,hsk4
+转折复句,zhuǎnzhé fùjù,Câu phức chuyển ngoặt (hoặc nhượng bộ),Đây là loại câu phức dùng để biểu thị mối quan hệ chuyển ngoặt hoặc nhượng bộ giữa hai vế câu, trong đó vế sau thường thể hiện một ý nghĩa trái ngược hoặc bổ sung cho vế trước.,4,3,hsk4
+假设复句,jiǎshè fùjù,Câu phức giả thiết,Dùng để diễn tả một giả định hoặc điều kiện, và kết quả hoặc hậu quả sẽ xảy ra nếu giả định đó đúng hoặc không đúng.,4,3,hsk4
+条件复句,tiáo jiàn fù jù,Câu phức điều kiện (Bất kể... đều/cũng...),Cấu trúc này dùng để diễn tả một điều kiện, bất kể là gì, thì kết quả vẫn không thay đổi.,4,2,hsk4
+因果复句,Yīnguǒ fùjù,Câu phức biểu thị quan hệ nhân quả,Câu phức biểu thị quan hệ nhân quả dùng để diễn tả nguyên nhân và kết quả của một sự việc, hành động, làm rõ mối liên hệ logic giữa các mệnh đề.,4,2,hsk4
+让步复句,ràng bù fù jù,Câu phức nhượng bộ,Cấu trúc \"即使......，也......\" và \"就是......，也......\" dùng để biểu thị một sự nhượng bộ, tức là dù cho có một điều kiện hoặc tình huống nhất định xảy ra, kết quả vẫn không thay đổi.,4,2,hsk4
+紧缩复句,jǐn suō fù jù,Câu phức rút gọn,Câu phức rút gọn là loại câu phức mà các mệnh đề có mối quan hệ chặt chẽ, thường biểu thị sự liên kết nhân quả, điều kiện hoặc mục đích một cách cô đọng.,4,1,hsk4
+无标记,wú biāojì,Cấu trúc không có dấu hiệu đặc biệt,Cấu trúc \"不......也......\" dùng để diễn tả ý nghĩa \"cho dù không... thì cũng/vẫn...\", thể hiện một sự nhượng bộ hoặc kết quả không thay đổi bất chấp điều kiện phủ định.,4,1,hsk4
+特殊表达法数的表示法,tèshū biǎodáfǎ shù de biǎoshìfǎ,Các cách biểu thị số đặc biệt,Ngữ pháp này trình bày các cách biểu thị số lượng ước chừng, số thập phân, phân số, phần trăm và số bội trong tiếng Trung.,4,3,hsk4
+语素后缀—头,yǔ sù hòu zhuì — tou,Hậu tố ngữ tố \"头\",Hậu tố ngữ tố \"头\" được thêm vào sau một số danh từ, động từ hoặc tính từ để tạo thành danh từ mới, thường chỉ người, vật, địa điểm hoặc mang ý nghĩa trừu tượng.,5,1,hsk5
+代词 （彼此, 如此, 本）,Dàicí (bǐcǐ, rúcǐ, běn),Đại từ (Đại từ chỉ thị và các đại từ đặc biệt: 彼此, 如此, 本),Giải thích cách dùng và ý nghĩa của các đại từ chỉ thị và đại từ đặc biệt 彼此, 如此, 本 trong tiếng Trung, giúp người học HSK 5 nắm vững cách sử dụng chúng.,5,3,hsk5
+名量词,Míngliàngcí,Lượng từ danh từ,Lượng từ danh từ là những từ dùng để chỉ đơn vị số lượng của danh từ, thường đứng giữa số từ và danh từ trong tiếng Trung.,5,1,hsk5
+动量词眼,dòng liàng cí,Động lượng từ,Lượng từ động tác là những từ dùng để biểu thị số lần hoặc tần suất của một hành động, thường đặt sau động từ trong câu tiếng Trung.,5,3,hsk5
+程度副词,Chéngdù fùcí,Phó từ chỉ mức độ,Các phó từ dùng để biểu thị mức độ, cường độ của hành động, trạng thái hoặc tính chất, làm rõ mức độ của tính từ hoặc động từ.,5,3,hsk5
+时间副词,Shíjiān Fùcí,Trạng từ thời gian,Trạng từ thời gian là những từ dùng để bổ nghĩa cho động từ hoặc tính từ, chỉ rõ thời điểm, tần suất, hoặc khoảng thời gian diễn ra hành động, trạng thái.,5,3,hsk5
+语气副词,yǔqì fùcí,Phó từ ngữ khí,Các phó từ này dùng để biểu thị ngữ khí, thái độ, hoặc sự đánh giá của người nói đối với một hành động hoặc tình huống.,5,3,hsk5
+介词,jiècí,Giới từ,Giới từ dùng để chỉ ra mối quan hệ về thời gian, địa điểm, phương hướng hoặc cách thức giữa động từ/tính từ và các thành phần khác trong câu.,5,3,hsk5
+引出对象,yǐnchū duìxiàng,Giới thiệu đối tượng, cơ sở hoặc sự so sánh,Ngữ pháp này sử dụng 替, 同, và 较 để giới thiệu đối tượng của hành động, cơ sở thực hiện hành động, hoặc đối tượng dùng để so sánh.,5,3,hsk5
+凭,píng,Dựa vào, Căn cứ vào (凭),\"凭\" là một giới từ biểu thị cơ sở, căn cứ, phương tiện hoặc bằng chứng để thực hiện một hành động hoặc đưa ra một kết luận.,5,2,hsk5
+据,jù,Theo, Dựa vào,“据” là một giới từ hoặc liên từ, dùng để giới thiệu nguồn gốc của thông tin, dữ liệu hoặc căn cứ cho một nhận định, kết luận.,5,2,hsk5
+依据,yījù,Dựa vào, Căn cứ vào,\"依据\" là một từ dùng để chỉ sự dựa dẫm, căn cứ vào một sự vật, sự việc, hoặc thông tin nào đó để thực hiện hành động hoặc đưa ra kết luận.,5,3,hsk5
+连接词或词组,Liánjiēcí huò cízǔ,Liên từ hoặc cụm liên từ,Các liên từ và cụm liên từ dùng để nối các từ, cụm từ, mệnh đề hoặc câu, thể hiện các mối quan hệ ngữ pháp khác nhau.,5,2,hsk5
+似的,sìde,Trợ từ \"似的\" (sìde),\"似的\" là một trợ từ biểu thị sự so sánh, tương tự hoặc phỏng đoán, thường đặt sau danh từ, cụm từ, động từ hoặc tính từ để diễn tả \"giống như\", \"dường như\".,5,3,hsk5
+短语固定短语,duǎnyǔ gùdìng duǎnyǔ,Cụm từ cố định,Cụm từ cố định là những tổ hợp từ có cấu trúc và ý nghĩa đã được định sẵn, không thể thay đổi hoặc phân tích theo nghĩa đen của từng từ, thường mang sắc thái biểu cảm đặc biệt.,5,3,hsk5
+四字格,Sìzìgé,Cấu trúc bốn chữ,Cấu trúc bốn chữ (四字格) là những cụm từ cố định gồm bốn chữ Hán, thường dùng để diễn tả sự lặp lại, trạng thái liên tục, phủ định hoặc hành động tức thì, mang sắc thái biểu cảm mạnh mẽ.,5,4,hsk5
+其他,qítā,Khác, Những cái khác,“其他” là một đại từ hoặc định ngữ, có nghĩa là “cái khác”, “những cái còn lại”, hoặc “những người khác”, dùng để chỉ các đối tượng không được nhắc đến hoặc nằm ngoài phạm vi đã nói.,5,2,hsk5
+不得了,bù dé liǎo,Vô cùng, Cực kỳ, Không thể chịu nổi,\"不得了\" dùng để nhấn mạnh mức độ cao của một sự việc, tình huống, hoặc cảm xúc, thường mang sắc thái tiêu cực, nghiêm trọng hoặc bất ngờ.,5,2,hsk5
+用不着,yòng bù zháo,Không cần thiết / Không đáng để làm,Dùng để diễn tả ý không cần thiết phải làm gì đó, không đáng để làm, hoặc không cần dùng đến cái gì đó.,5,1,hsk5
+固定格式,Gùdìng Géshì,Các Cấu Trúc Cố Định,Đây là những cấu trúc ngữ pháp có hình thức cố định, thường dùng để diễn đạt các ý nghĩa cụ thể và giúp câu văn tự nhiên hơn trong tiếng Trung.,5,4,hsk5
+X也不是，Y也不是,X yě bù shì, Y yě bù shì,Cũng không phải X, cũng không phải Y,Diễn tả tình huống tiến thoái lưỡng nan, không thể chọn lựa hoặc thực hiện được cả hai phương án X và Y.,5,2,hsk5
+X是它，Y也是它,X shì tā, Y yě shì tā,Dù là X hay Y, bản chất vẫn là một,Cấu trúc này dùng để nhấn mạnh rằng dù có những cách diễn đạt hay góc nhìn khác nhau (X và Y), thì bản chất, danh tính hoặc kết quả cuối cùng vẫn là một.,5,1,hsk5
+X着也是X着,X zhe yě shì X zhe,X thì cũng X thôi / Đằng nào cũng X,Cấu trúc này diễn tả rằng một trạng thái hoặc hành động X đã và đang diễn ra, hoặc sẽ tiếp tục diễn ra, nên người nói quyết định làm gì đó liên quan hoặc chấp nhận nó.,5,1,hsk5
+真有你/他,zhēn yǒu nǐ/tā/tā/de,Thật là [bạn/anh ấy/cô ấy]!,Một cách diễn đạt cảm thán trong khẩu ngữ, dùng để bày tỏ sự ngạc nhiên, bất ngờ, hoặc đôi khi là sự ngưỡng mộ hoặc bực bội trước hành động hay tính cách đặc trưng của một người.,5,1,hsk5
+X什么X,X shénme X,Cấu trúc X gì X,Cấu trúc này dùng để đặt câu hỏi tu từ, thể hiện sự không đồng tình, thiếu kiên nhẫn hoặc bác bỏ một hành động/trạng thái, ngụ ý rằng không cần thiết hoặc vô ích khi làm/là X.,5,2,hsk5
+什么X不X（的）,shénme X bù X (de),Cấu trúc \"什么X不X（的）\",Dùng để phủ nhận mạnh mẽ, bác bỏ hoặc thể hiện sự không hài lòng, coi thường một điều gì đó, thường mang ý nghĩa 'có gì mà X chứ?' hoặc 'X thì có gì mà X?'.,5,1,hsk5
+不X白不X,Bù X bái bù X,Không X thì phí/uổng công X,Diễn tả ý nghĩa rằng nếu có cơ hội làm một việc gì đó (X) mà không làm, thì sẽ rất lãng phí hoặc đáng tiếc.,5,3,hsk5
+状语多项状语,zhuàngyǔ duōxiàng zhuàngyǔ,Trạng ngữ đa thành phần,Quy tắc sắp xếp thứ tự của nhiều trạng ngữ khác nhau khi chúng cùng xuất hiện trong một câu tiếng Trung.,5,1,hsk5
+补语,bǔyǔ,Bổ ngữ,Bổ ngữ là thành phần bổ sung ý nghĩa cho động từ hoặc tính từ, thường dùng để diễn tả khả năng hoặc mức độ cực đoan của hành động/trạng thái.,5,2,hsk5
+趋向补语3,Qūxiàng bǔyǔ 3,Bổ ngữ xu hướng mở rộng (biểu thị trạng thái),Diễn tả trạng thái hoặc sự thay đổi trạng thái của sự vật, hành động thông qua việc sử dụng bổ ngữ xu hướng đơn giản sau động từ hoặc tính từ.,5,1,hsk5
+状态补语2,Zhuàngtài bǔyǔ 2,Bổ ngữ trạng thái 2,Bổ ngữ trạng thái 2 dùng để miêu tả trạng thái, kết quả hoặc mức độ của một hành động hay tính chất, thường đứng sau động từ hoặc tính từ và được nối bằng trợ từ \"得\".,5,2,hsk5
+“有”字句3,yǒu zì jù 3,Câu chữ '有' (Phần 3),Hai cấu trúc này dùng '有' để diễn tả sự tồn tại, sở hữu liên tục hoặc sự gắn liền của một sự vật, hiện tượng.,5,2,hsk5
+“把”字句3,bǎ zì jù sān,Cấu trúc chữ \"把\" (Phần 3),Cấu trúc \"把\" (Phần 3) dùng để nhấn mạnh việc chủ ngữ tác động lên tân ngữ, khiến tân ngữ thay đổi trạng thái, hoàn thành một hành động cụ thể hoặc tạo ra một kết quả nào đó.,5,2,hsk5
+连动句3,liándòngjù sān,Câu liên động loại 3,Loại câu liên động này biểu thị mối quan hệ nhân quả, điều kiện hoặc chuyển ngoặt giữa hai hành động hoặc trạng thái liên tiếp do cùng một chủ thể thực hiện.,5,1,hsk5
+系,xì,Động từ \"系\" (là, thuộc về),\"系\" là một động từ mang nghĩa \"là\" hoặc \"thuộc về\", thường dùng trong văn viết trang trọng, báo cáo, hoặc các ngữ cảnh chính thức để thể hiện mối quan hệ đẳng thức hoặc nguyên nhân.,5,2,hsk5
+比较句4,bǐ jiào jù sì,Câu so sánh (dạng 4) và Cấu trúc bị động đặc biệt,Cấu trúc này dùng để so sánh sự khác biệt định lượng giữa hai đối tượng A và B, hoặc diễn tả hành động bị động với tác nhân và kết quả.,5,2,hsk5
+假设复句,Jiǎshè fùjù,Câu phức giả định,Dùng để diễn tả một giả thiết hoặc điều kiện, và kết quả hoặc hậu quả sẽ xảy ra nếu giả thiết đó thành sự thật hoặc không thành sự thật.,5,3,hsk5
+因果复句,Yīnguǒ fùjù,Câu phức biểu thị quan hệ nhân quả,Câu phức nhân quả dùng để diễn tả mối quan hệ nguyên nhân và kết quả giữa hai vế câu, hoặc một kết luận được rút ra từ một sự thật.,5,2,hsk5
+递进复句,dì jìn fù jù,Câu phức tăng tiến,Là loại câu phức mà vế sau không chỉ bổ sung mà còn làm tăng thêm mức độ hoặc ý nghĩa so với vế trước.,5,2,hsk5
+复句,mù dì fù jù,Câu phức chỉ mục đích,Cấu trúc này dùng để diễn tả mục đích của hành động được nêu ở vế trước, nhấn mạnh ý nghĩa 'là để...' một cách trang trọng.,5,1,hsk5
+紧缩复句,jǐn suō fù jù,Câu phức rút gọn,Dùng để diễn tả các mối quan hệ điều kiện, phủ định hoặc nhượng bộ giữa các mệnh đề một cách cô đọng, chặt chẽ và nhấn mạnh.,5,3,hsk5
+语素,yǔsù,Ngữ tố,Ngữ tố là đơn vị ngôn ngữ nhỏ nhất có nghĩa, không thể chia nhỏ hơn mà vẫn giữ nguyên nghĩa ban đầu.,6,2,hsk6
+代词人称代词人家,Dàicí rénchēng dàicí rénjiā,Đại từ nhân xưng \"人家\",\"人家\" là một đại từ nhân xưng có nhiều cách dùng, có thể chỉ \"người khác\" hoặc tự xưng \"tôi/mình\" với sắc thái tình cảm đặc biệt, thường mang tính thân mật hoặc biểu cảm.,6,3,hsk6
+名量词,míng liàng cí,Danh lượng từ,Các danh lượng từ chuyên dụng như 串, 滴, 枝, 扇, 卷 dùng để chỉ số lượng của các danh từ cụ thể mà chúng thường đi kèm, không thể thay thế bằng lượng từ thông thường.,6,1,hsk6
+动量词番,dòng liàng cí fān,Lượng từ động thái 番 (fān),\"番\" là một lượng từ động thái dùng để chỉ số lần hoặc lượt của một hành động, thường mang ý nghĩa tuần tự, lặp lại hoặc một nỗ lực cụ thể.,6,1,hsk6
+副词,fù cí,Phó từ (Trạng từ),Phó từ là loại từ bổ nghĩa cho động từ, tính từ hoặc phó từ khác, biểu thị mức độ, phạm vi, thời gian, tần suất hoặc cách thức của hành động, trạng thái.,6,3,hsk6
+否定副词未必,fǒudìng fùcí wèibì,Phó từ phủ định \"未必\" (Chưa chắc đã/Không hẳn),\"未必\" là một phó từ phủ định dùng để biểu thị rằng một điều gì đó không nhất thiết phải đúng hoặc không chắc chắn sẽ xảy ra, mang sắc thái phủ định không tuyệt đối.,6,1,hsk6
+介词,jiècí,Giới từ,Giới từ là từ loại dùng để dẫn dắt các cụm từ chỉ thời gian hoặc địa điểm, làm rõ bối cảnh xảy ra hành động hoặc sự việc.,6,2,hsk6
+引出对象至于,yǐnchū duìxiàng zhìyú,Giới thiệu đối tượng/chủ đề với \"至于\",\"至于\" dùng để giới thiệu một đối tượng, chủ đề, khía cạnh mới hoặc một kết quả, mức độ liên quan đến nội dung đã nói trước đó.,6,2,hsk6
+表示排除除,Biǎoshì páichú chú,Diễn tả sự loại trừ, ngoại trừ,Dùng để diễn tả ý nghĩa loại trừ, ngoại trừ một đối tượng, sự việc hoặc tình huống nào đó.,6,2,hsk6
+结构助词所,jiégòu zhùcí suǒ, yǔqì zhùcí la, ma,Trợ từ kết cấu 所 và trợ từ ngữ khí 啦, 嘛,Các trợ từ này bao gồm trợ từ kết cấu 所 dùng để tạo cụm danh từ hoặc trong cấu trúc bị động, và các trợ từ ngữ khí 啦, 嘛 thể hiện sắc thái cảm xúc, sự hiển nhiên hoặc lời khuyên.,6,3,hsk6
+其他助词也好,qítā zhùcí yěhǎo,Trợ từ \"也好\" (cũng được, cũng tốt),Dùng để liệt kê các lựa chọn hoặc tình huống khác nhau, biểu thị rằng bất kể lựa chọn nào cũng đều chấp nhận được hoặc có cùng kết quả.,6,1,hsk6
+短语固定短语,Duǎnyǔ gùdìng duǎnyǔ,Cụm từ cố định,Cụm từ cố định là những tổ hợp từ có cấu trúc và ý nghĩa đã được định hình sẵn, thường không thể thay đổi hoặc phân tích theo nghĩa đen của từng từ.,6,2,hsk6
+四字格,Sìzìgé,Cấu trúc bốn chữ,Cấu trúc bốn chữ là một dạng ngữ pháp đặc trưng trong tiếng Trung, thường dùng để diễn tả hành động, trạng thái hoặc tính chất một cách cô đọng và sinh động.,6,2,hsk6
+其他,qítā,Khác, Cái khác, Những cái khác,其他 (qítā) là một từ dùng để chỉ những người, vật, sự việc còn lại, không phải cái đã được nhắc đến hoặc đang được tập trung.,6,2,hsk6
+好（不）容易,hǎo (bù) róngyì,Thật không dễ dàng gì / Cuối cùng thì cũng...,Cụm từ này dùng để diễn tả rằng một việc gì đó đã được hoàn thành hoặc xảy ra sau rất nhiều khó khăn, nỗ lực, hoặc chờ đợi.,6,1,hsk6
+那倒（也）是,nà dào (yě) shì,Cũng phải thôi / Điều đó cũng đúng là như vậy,Dùng để biểu thị sự đồng ý, thừa nhận một điểm hợp lý hoặc một sự thật trong lời nói của người khác, thường sau khi đã cân nhắc hoặc có chút bất đồng ban đầu.,6,1,hsk6
+算了,suàn le,Thôi đi / Kệ đi,\"算了\" dùng để biểu thị sự từ bỏ, chấp nhận một điều gì đó, hoặc quyết định không tiếp tục làm/nói về một việc nữa, thường mang sắc thái buông xuôi hoặc thiếu kiên nhẫn.,6,2,hsk6
+得了,dé le,Được rồi / Thôi đi,“得 (dé) 了 (le)” là một trợ từ ngữ khí dùng để biểu thị sự đủ rồi, dừng lại, hoặc một việc gì đó đã hoàn thành, thường mang sắc thái ra lệnh, thúc giục hoặc cam chịu.,6,2,hsk6
+固定格式,gùdìng géshì,Các cấu trúc cố định,Các cấu trúc này dùng để diễn tả sự luân phiên, phân tán của hành động hoặc trạng thái, hoặc để chỉ một giới hạn thời gian/điểm dừng.,6,3,hsk6
+X到Y头上来了,X dào Y tóu shàng lái le,X rơi/đổ lên đầu Y,Cấu trúc này dùng để diễn tả một vấn đề, trách nhiệm, hoặc hậu quả (X) bất ngờ rơi vào hoặc được chuyển giao cho ai đó (Y), thường mang ý nghĩa tiêu cực.,6,2,hsk6
+好你个X,hǎo nǐ ge X,Cái đồ X của anh/chị/mày!,Cấu trúc này dùng để biểu thị sự ngạc nhiên, tức giận, trách móc, hoặc đôi khi là sự ngưỡng mộ mạnh mẽ đối với một người hoặc sự việc nào đó.,6,3,hsk6
+放着X不Y,fàng zhe X bù Y,Bỏ sẵn X mà không Y,Cấu trúc này dùng để bày tỏ sự tiếc nuối, khó hiểu hoặc phê phán khi một người có sẵn một điều kiện thuận lợi (X) nhưng lại không làm một việc đáng lẽ phải làm (Y).,6,2,hsk6
+X归X，Y归Y,X guī X, Y guī Y,X thì X, Y thì Y (Phân định rõ ràng),Cấu trúc này dùng để nhấn mạnh sự tách bạch, độc lập của hai sự vật, sự việc, hoặc ý kiến khác nhau, mỗi thứ có vị trí riêng.,6,3,hsk6
+特殊句型“把”字句4,Tèshū jùxíng “bǎ” zì jù 4,Cấu trúc câu chữ “把” đặc biệt (4),Cấu trúc câu chữ “把” này được dùng khi chủ ngữ là một đối tượng phi sinh vật, tác động lên tân ngữ và gây ra sự thay đổi hoặc xử lý tân ngữ đó.,6,1,hsk6
+成分,Chéngfèn,Thành phần (ngữ pháp),Giải thích vai trò của “các thành phần khác” (其他成分) sau động từ trong câu chữ “bǎ” (把), đặc biệt khi tân ngữ là đối tượng chịu tác động nhưng cũng là chủ thể của hành động tiếp theo.,6,1,hsk6
+复句,fùjù,Câu phức,Câu phức là câu được tạo thành từ hai hoặc nhiều mệnh đề đơn giản, biểu thị các mối quan hệ ngữ pháp và ý nghĩa khác nhau như song song, lựa chọn hoặc tương phản.,6,3,hsk6
+条件复句,tiáojiàn fùjù,Câu phức điều kiện,Câu phức điều kiện dùng để diễn tả một điều kiện hoặc giả định, với vế sau là kết quả hoặc hành động xảy ra khi điều kiện đó được đáp ứng.,6,5,hsk6
+语素,yǔsù,Ngữ tố,Ngữ tố là đơn vị ngôn ngữ nhỏ nhất có nghĩa, không thể chia nhỏ hơn mà vẫn giữ được nghĩa ban đầu.,7,2,hsk7-9
+动词,dòng cí,Động từ (Đặc biệt),Đây là tập hợp các động từ và cụm động từ đặc biệt ở cấp độ HSK 7, thường mang sắc thái ngữ nghĩa riêng biệt và cách dùng cố định.,7,3,hsk7-9
+人称代词我,Rénchēng dàicí wǒ,Đại từ nhân xưng \"我\",Đại từ nhân xưng \"我\" là đại từ ngôi thứ nhất số ít, dùng để chỉ người nói, tương đương với \"tôi\", \"mình\" trong tiếng Việt, và là một trong những từ cơ bản nhất.,7,3,hsk7-9
+数量代词若干,shùliàng dàicí ruògān,Đại từ số lượng \"若干\",\"若干\" là một đại từ số lượng dùng để chỉ một số lượng không xác định, thường là nhỏ hoặc vừa phải, tương đương với \"một vài\", \"một số\" trong tiếng Việt, mang sắc thái trang trọng hơn.,7,1,hsk7-9
+量词,liàngcí,Lượng từ,Lượng từ là một phần quan trọng trong ngữ pháp tiếng Trung, dùng để chỉ số lượng hoặc đơn vị của danh từ, và các lượng từ như 重, 截, 缕, 码, 枚, 摊, 丸, 则, 幢, 宗 là những lượng từ đặc thù thường gặp ở trình độ cao.,7,1,hsk7-9
+动量词通,dòng liàng cí tōng,Lượng từ động tác,Lượng từ động tác là các từ dùng để chỉ số lần, tần suất hoặc quãng thời gian của một hành động, thường đứng sau động từ.,7,1,hsk7-9
+复合量词人次,fùhé liàngcí réncì,Lượng từ phức hợp 人次,人次 là một lượng từ phức hợp dùng để chỉ tổng số lượt người tham gia vào một hoạt động hoặc ghé thăm một địa điểm, tính theo số lần xuất hiện của mỗi người.,7,1,hsk7-9
+程度副词,Chéngdù fùcí,Phó từ chỉ mức độ,Các phó từ chỉ mức độ dùng để bổ nghĩa cho động từ, tính từ hoặc phó từ khác, thể hiện mức độ hoặc cường độ của hành động, trạng thái, hoặc đặc điểm.,7,3,hsk7-9
+范围副词,Fànwéi fùcí,Phó từ phạm vi,Phó từ phạm vi là những từ dùng để chỉ rõ phạm vi hoặc mức độ của một hành động, trạng thái hoặc đối tượng, thường diễn tả sự phổ quát, độc quyền hoặc khái quát.,7,3,hsk7-9
+时间副词,Shíjiān fùcí,Trạng từ thời gian,Các trạng từ thời gian dùng để chỉ thời điểm, tần suất hoặc khoảng thời gian diễn ra hành động, sự việc, bổ nghĩa cho động từ hoặc tính từ.,7,2,hsk7-9
+频率副词,pín lǜ fù cí,Trạng từ chỉ tần suất,Trạng từ chỉ tần suất là những từ dùng để biểu thị mức độ thường xuyên hoặc số lần lặp lại của một hành động, trạng thái hay sự việc.,7,3,hsk7-9
+方式副词,fāngshì fùcí,Trạng từ chỉ cách thức/phương thức,Trạng từ chỉ cách thức/phương thức là những từ bổ nghĩa cho động từ hoặc tính từ, diễn tả cách thức hoặc thái độ thực hiện hành động, thường đứng trước động từ hoặc tính từ.,7,2,hsk7-9
+语气副词,yǔ qì fù cí,Trạng từ ngữ khí,Trạng từ ngữ khí là những từ dùng để biểu đạt thái độ, cảm xúc, hoặc nhận định chủ quan của người nói đối với hành động, sự việc hoặc trạng thái.,7,2,hsk7-9
+判断副词乃,pàn duàn fù cí nǎi,Trợ từ phán đoán \"乃\",Trợ từ \"乃\" là một phó từ dùng để khẳng định mạnh mẽ một sự thật, bản chất, hoặc mối quan hệ nhân quả, thường xuất hiện trong văn viết hoặc ngữ cảnh trang trọng.,7,2,hsk7-9
+介词,jiè cí,Giới từ,Giới từ là từ dùng để giới thiệu thời gian, địa điểm, phương thức hoặc đối tượng của hành động trong câu.,7,2,hsk7-9
+引出对象,yǐnchū duìxiàng,Dẫn dắt đối tượng,Điểm ngữ pháp này giới thiệu cách dùng các giới từ và liên từ để chỉ ra đối tượng trực tiếp, phạm vi thảo luận hoặc cơ sở, căn cứ của một hành động hay sự việc.,7,3,hsk7-9
+连接分句或句子,liánjiē fēnjù huò jùzi,Liên kết các phân câu hoặc câu,Ngữ pháp này trình bày cách sử dụng các từ hoặc cấu trúc để liên kết các phân câu (mệnh đề) hoặc các câu riêng lẻ, tạo thành một đoạn văn mạch lạc và có ý nghĩa.,7,3,hsk7-9
+鉴于,jiànyú,Xét thấy / Căn cứ vào,\"鉴于\" là một liên từ hoặc giới từ dùng để giới thiệu một tình huống, sự thật hoặc lý do mang tính khách quan, trang trọng, làm cơ sở cho một hành động hoặc quyết định tiếp theo.,7,1,hsk7-9
+连接词或词组以及,yǐ jí,Liên từ 以及 (yǐjí),以及 là một liên từ dùng để nối các từ, cụm từ hoặc mệnh đề, mang ý nghĩa 'và', 'cũng như', thường dùng để bổ sung thông tin hoặc liệt kê trong ngữ cảnh trang trọng.,7,1,hsk7-9
+分句或句子,fēnjù huò jùzǐ,Các từ nối mệnh đề và Trợ từ ngữ khí,Các từ này bao gồm các liên từ dùng để kết nối các mệnh đề hoặc câu, và các trợ từ ngữ khí dùng để biểu thị sắc thái, thái độ của người nói trong câu.,7,3,hsk7-9
+四字格,sì zì gé,Cấu trúc bốn chữ (Tứ tự cách),Cấu trúc bốn chữ (四字格) là một dạng thành ngữ hoặc cụm từ cố định trong tiếng Trung, bao gồm bốn ký tự, thường mang ý nghĩa súc tích và biểu cảm.,7,3,hsk7-9
+不瞒你说,bù mán nǐ shuō,Không giấu gì bạn mà nói,Một cụm từ dùng để mở đầu một lời nói thật lòng, thẳng thắn hoặc tiết lộ một thông tin mà người nói muốn chia sẻ một cách chân thành.,7,1,hsk7-9
+不是,bú shì,Không phải là,\"不是\" dùng để phủ định một danh từ, cụm danh từ, hoặc một phán đoán, có nghĩa là \"không phải là\" hoặc \"không đúng\" trong tiếng Việt.,7,3,hsk7-9
+不是我说你,bù shì wǒ shuō nǐ,Không phải tôi nói bạn đâu (nhưng...),Cụm từ này dùng để mở đầu một lời phê bình hoặc một ý kiến thẳng thắn, thường ngụ ý người nói cảm thấy buộc phải nói ra dù không muốn.,7,1,hsk7-9
+反过来（说）,fǎn guò lái (shuō),Ngược lại (mà nói) / Nói ngược lại,Dùng để giới thiệu một quan điểm, tình huống hoặc cách nhìn nhận ngược lại với điều vừa được đề cập.,7,1,hsk7-9
+概括来说,gàikuò láishuō,Nói tóm lại / Nói chung,Một cụm từ dùng để giới thiệu một lời tóm tắt hoặc khái quát về một vấn đề đã được thảo luận hoặc trình bày trước đó.,7,1,hsk7-9
+归根到底,guī gēn dào dǐ,Suy cho cùng / Xét đến cùng,Một thành ngữ dùng để nhấn mạnh bản chất, nguyên nhân sâu xa hoặc kết quả cuối cùng của một vấn đề, sự việc.,7,1,hsk7-9
+话是这么说,huà shì zhème shuō,Nói thì nói vậy,Cấu trúc này được dùng để thừa nhận một điều gì đó là đúng hoặc một quan điểm đã được nêu ra, sau đó thường giới thiệu một ý kiến trái ngược hoặc bổ sung.,7,1,hsk7-9
+话（又）说回来,Huà (yòu) shuō huílái,Nói đi nói lại thì / Quay lại vấn đề chính thì,Cụm từ này dùng để chuyển đổi chủ đề, quay lại một điểm đã nói trước đó, hoặc đưa ra một quan điểm đối lập/bổ sung sau khi đã phát biểu một điều gì đó.,7,1,hsk7-9
+换句话说,huàn jù huà shuō,Nói cách khác,Dùng để diễn đạt lại một ý tưởng đã nói bằng từ ngữ khác, thường là để làm rõ, đơn giản hóa hoặc nhấn mạnh điều gì đó.,7,1,hsk7-9
+简（而）言之,Jiǎn (ér) yán zhī,Nói tóm lại / Nói một cách đơn giản,Cụm từ dùng để tóm tắt hoặc đơn giản hóa một ý tưởng, một tình huống phức tạp đã được trình bày chi tiết trước đó.,7,1,hsk7-9
+可不（是嘛）,kě bù (shì ma),Chẳng phải là vậy sao! / Đúng thế còn gì!,Cụm từ này dùng để biểu thị sự đồng tình, xác nhận mạnh mẽ hoặc trả lời khẳng định cho một câu hỏi tu từ, thường mang sắc thái \"đúng vậy mà, còn gì nữa\".,7,1,hsk7-9
+老实说,lǎo shí shuō,Thành thật mà nói / Nói thật lòng,Cụm từ này dùng để mở đầu câu, biểu thị người nói đang bày tỏ một quan điểm, cảm xúc hoặc sự thật một cách chân thành, không che giấu.,7,1,hsk7-9
+（你）还别说,hái bié shuō,Không ngờ là... / Thật ra thì...,Cấu trúc này dùng để biểu thị sự ngạc nhiên hoặc đồng tình bất ngờ với một điều gì đó, thường là điều tốt hơn hoặc hiệu quả hơn dự kiến.,7,1,hsk7-9
+你看你,nǐ kàn nǐ,Bạn xem bạn kìa! / Nhìn bạn mà xem!,Cấu trúc này dùng để thể hiện sự trách móc, than phiền, hoặc đôi khi là sự trêu chọc nhẹ nhàng về hành động hay tình trạng của người nghe.,7,1,hsk7-9
+说到哪儿去了,shuō dào nǎr qù le,Nói đến đâu rồi nhỉ?,Cụm từ này dùng để hỏi lại chủ đề ban đầu khi người nói bị lạc đề, quên mất mạch nói chuyện hoặc muốn người nghe nhắc lại.,7,1,hsk7-9
+说真的,shuō zhēn de,Nói thật là / Thật lòng mà nói,Dùng để mở đầu một câu, biểu thị người nói muốn bày tỏ một ý kiến hoặc cảm xúc chân thật, thẳng thắn.,7,1,hsk7-9
+退一步说,tuì yī bù shuō,Lùi một bước mà nói,Cụm từ này dùng để nhượng bộ một phần, đưa ra một giả định hoặc quan điểm khác, thường là ít lý tưởng hơn, để tiếp tục lập luận hoặc làm dịu cuộc tranh luận.,7,1,hsk7-9
+无论如何,Wúlùn rúhé,Dù thế nào đi nữa / Bất kể thế nào,Là một cụm từ biểu thị sự quyết tâm hoặc sự chắc chắn rằng một điều gì đó sẽ xảy ra hoặc được thực hiện, bất kể khó khăn hay tình huống nào.,7,1,hsk7-9
+要（让）我说,yào (ràng) wǒ shuō,Nếu tôi phải nói / Theo ý kiến của tôi,Cụm từ này dùng để giới thiệu một ý kiến hoặc đánh giá cá nhân, tương tự như \"theo tôi thì\" hay \"nếu hỏi tôi\".,7,1,hsk7-9
+这不,zhè bù,Đây chẳng phải là...,“这不” là một cấu trúc ngữ pháp dùng để biểu thị sự hiển nhiên, xác nhận điều gì đó, hoặc giới thiệu một sự vật/người vừa được nhắc đến, thường mang sắc thái cảm thán hoặc chất vấn tu từ.,7,1,hsk7-9
+这样一来,zhèyàng yīlái,Như vậy thì, Kết quả là như vậy,Dùng để giới thiệu một kết quả hoặc hậu quả phát sinh trực tiếp từ tình huống hoặc hành động đã đề cập trước đó.,7,1,hsk7-9
+短语固定短语,duǎnyǔ gùdìng duǎnyǔ,Cụm từ cố định,Cụm từ cố định là những tổ hợp từ có cấu trúc và ý nghĩa đã được định sẵn, thường mang tính thành ngữ hoặc biểu đạt một khái niệm cụ thể.,7,3,hsk7-9
+其他,qítā,Khác, Những cái khác,“其他” là một đại từ hoặc tính từ chỉ “cái khác”, “những cái khác”, “phần còn lại” hoặc “người khác” trong tiếng Trung.,7,2,hsk7-9
+（话语标记）,Huàyǔ biāojì,Từ ngữ đánh dấu hội thoại,Các từ ngữ hoặc cụm từ được sử dụng để tổ chức lời nói, thể hiện thái độ của người nói, hoặc quản lý tương tác trong giao tiếp.,7,3,hsk7-9
+真是的,zhēn shì de,Thật là...,Một thán từ dùng để bày tỏ sự bực mình nhẹ, khó chịu, hoặc than phiền về một điều gì đó không như ý muốn hoặc gây phiền phức.,7,1,hsk7-9
+综上所述,zōng shàng suǒ shù,Tóm lại những điều đã nói trên,Một cụm từ cố định dùng để tổng kết, tóm tắt các thông tin hoặc luận điểm đã được trình bày trước đó, thường xuất hiện trong văn viết trang trọng.,7,1,hsk7-9
+总的来说,zǒng de lái shuō,Nói chung,Cụm từ này dùng để tổng kết hoặc đưa ra một nhận định chung về một vấn đề, thường đứng ở đầu câu hoặc mệnh đề.,7,1,hsk7-9
+总而言之,zǒng ér yán zhī,Tóm lại, Nói tóm lại,Một cụm từ dùng để tổng kết, tóm tắt hoặc đưa ra kết luận cuối cùng sau khi đã trình bày nhiều chi tiết.,7,1,hsk7-9
+固定格式,gùdìng géshì,Cấu trúc cố định,Các cấu trúc cố định này được dùng để nhấn mạnh mức độ, giới hạn hoặc sự phủ định một cách mạnh mẽ trong tiếng Trung.,7,3,hsk7-9
+X就X个Y,X jiù X gè Y,Cấu trúc X就X个Y,Cấu trúc này dùng để diễn tả một hành động hoặc sự việc nào đó là đơn giản, không đáng kể, hoặc chỉ mang tính chất tạm thời, thường mang ngữ khí thoải mái, có phần xuề xòa.,7,1,hsk7-9
+X了Y，Y了X,X le Y, Y le X,X rồi Y, Y rồi X,Cấu trúc này diễn tả hai hành động hoặc trạng thái đối ứng, luân phiên hoặc có tính chất qua lại, tương tác lẫn nhau giữa X và Y.,7,1,hsk7-9
+X也好，Y也罢,X yě hǎo, Y yě bà,Dù X hay Y, kết quả cũng vậy,Cấu trúc này dùng để diễn đạt rằng dù tình huống, lựa chọn hay điều kiện là X hay Y, kết quả hoặc kết luận cuối cùng vẫn không thay đổi.,7,1,hsk7-9
+仅次于X,Jǐn cì yú X,Chỉ đứng sau X,Cụm từ này dùng để diễn tả một sự vật, hiện tượng có vị trí, thứ hạng, mức độ quan trọng, hoặc số lượng đứng ngay sau một sự vật, hiện tượng khác được nhắc đến.,7,1,hsk7-9
+看在X的面子上,kàn zài X de miànzi shàng,Vì thể diện của X / Nể mặt X,Diễn tả việc làm gì đó vì nể nang, chiếu cố đến thể diện, danh dự, tình cảm hoặc mối quan hệ với một người (X).,7,1,hsk7-9
+有何X,Yǒu hé X,Có gì là X / X gì đâu?,Dùng để đặt câu hỏi tu từ trong văn viết hoặc ngữ cảnh trang trọng, thường mang ý phủ định hoặc xem nhẹ, hỏi \"có gì đáng X không?\".,7,2,hsk7-9
+特殊句型比较句5,Tèshū jùxíng bǐjiào jù wǔ,Kiểu câu so sánh đặc biệt 5,Cấu trúc này dùng để so sánh A và B, diễn tả A có đặc điểm được nêu bởi tính từ ở mức độ cao hơn B, mang sắc thái trang trọng.,7,1,hsk7-9
+并列复句,bìngliè fùjù,Câu phức song song (Đẳng lập),Là loại câu phức mà các mệnh đề có mối quan hệ song song, đẳng lập, thường dùng để liệt kê lý do, điều kiện hoặc giải thích.,7,3,hsk7-9
+选择复句,Xuǎnzé fùjù,Câu phức lựa chọn,Câu phức lựa chọn dùng để diễn tả sự lựa chọn, so sánh hoặc ưu tiên giữa hai hay nhiều hành động, trạng thái, hoặc khả năng.,7,3,hsk7-9
+转折复句,zhuǎnzhe fùjù,Câu phức chuyển ngoặt/nhượng bộ,Dùng để diễn đạt sự thừa nhận một điều gì đó ở vế trước, nhưng vế sau lại đưa ra một điều trái ngược, bổ sung hoặc nhượng bộ.,7,3,hsk7-9
+条件复句,tiáo jiàn fù jù,Câu phức điều kiện,Dùng để diễn tả một điều kiện hoặc giả định, và kết quả hoặc hành động sẽ xảy ra bất kể điều kiện đó có được đáp ứng hay không.,7,2,hsk7-9
+假设复句,jiǎ shè fù jù,Câu phức giả định,Câu phức giả định dùng để diễn tả một điều kiện hoặc giả thiết, và kết quả hoặc hệ quả của điều kiện đó.,7,3,hsk7-9
+因果复句,Yīnguǒ fùjù,Câu phức biểu thị quan hệ nhân quả,Dùng để diễn tả mối quan hệ nhân quả giữa hai hoặc nhiều mệnh đề, nơi một mệnh đề là nguyên nhân và mệnh đề kia là kết quả.,7,2,hsk7-9
+递进复句,Dìjìn fùjù,Câu phức tăng tiến,Cấu trúc câu biểu thị mối quan hệ tăng tiến, trong đó vế sau chỉ ra một sự phát triển hoặc mức độ cao hơn so với vế trước.,7,3,hsk7-9
+目的复句,Mùdì fùjù,Câu phức chỉ mục đích,Câu phức chỉ mục đích dùng để diễn tả mục đích của một hành động hoặc sự việc, thường bao gồm hai vế câu: một vế chỉ hành động và một vế chỉ mục đích.,7,2,hsk7-9
+紧缩复句,jǐn suō fù jù,Câu phức rút gọn,Là một dạng câu phức mà các mệnh đề có mối quan hệ logic rất chặt chẽ, thường biểu thị điều kiện cần thiết hoặc sự nhượng bộ mạnh mẽ.,7,2,hsk7-9
+多重并列复句,Duōchóng Bìngliè Fùjù,Câu phức đẳng lập đa thành phần,Là loại câu phức có từ ba phân câu trở lên hoặc có các phân câu đẳng lập được lồng ghép, diễn tả nhiều hành động, trạng thái hay sự việc có mối quan hệ song song hoặc liệt kê.,7,3,hsk7-9
+多重转折复句,Duōchóng zhuǎnzhe fùjù,Câu phức có nhiều tầng chuyển ý/nhượng bộ,Là loại câu phức chứa ít nhất hai mối quan hệ chuyển ý hoặc nhượng bộ, thể hiện sự phức tạp và đa chiều trong cách diễn đạt.,7,1,hsk7-9
+多重假设复句,Duōchóng jiǎshè fùjù,Câu phức giả định đa tầng,Là loại câu phức diễn tả nhiều lớp điều kiện giả định lồng vào nhau, trong đó kết quả của một điều kiện lại trở thành điều kiện cho điều kiện tiếp theo.,7,2,hsk7-9
+多重因果复句,duō chóng yīn guǒ fù jù,Câu phức đa tầng nhân quả,Đây là loại câu phức diễn tả mối quan hệ nhân quả phức tạp, trong đó có nhiều nguyên nhân dẫn đến một kết quả, hoặc một nguyên nhân dẫn đến nhiều kết quả, hoặc một chuỗi nhân quả liên tiếp.,7,2,hsk7-9
+多重递进复句,Duōchóng dìjìn fùjù,Câu phức tăng tiến đa tầng,Là loại câu phức mà các phân câu thể hiện mối quan hệ tăng tiến, bổ sung ý nghĩa cho nhau theo nhiều cấp độ, từ ý nghĩa chung đến ý nghĩa cụ thể, sâu sắc hoặc cực đoan hơn.,7,1,hsk7-9
+时间顺序,Shíjiān shùnxù,Trình tự thời gian,Cách diễn đạt các sự kiện, hành động theo đúng thứ tự thời gian chúng xảy ra, giúp người nghe/đọc dễ dàng nắm bắt mạch câu chuyện hoặc quá trình.,7,3,hsk7-9
+空间顺序,kōngjiān shùnxù,Trật tự không gian,Mô tả sự vật, hiện tượng theo trình tự vị trí hoặc sắp xếp trong không gian, giúp người nghe/đọc hình dung rõ ràng khung cảnh.,7,3,hsk7-9
+逻辑顺序,luó jí shùn xù,Trình tự logic,Nguyên tắc sắp xếp các từ, cụm từ, câu hoặc ý tưởng theo một thứ tự hợp lý, mạch lạc để thông tin được truyền đạt rõ ràng và dễ hiểu.,7,2,hsk7-9
+话题延伸,Huàtí yánshēn,Mở rộng chủ đề,Cách mở rộng hoặc đào sâu một chủ đề đang thảo luận, thêm thông tin chi tiết, ví dụ, hoặc chuyển sang một khía cạnh liên quan một cách tự nhiên.,7,3,hsk7-9
+话题转换,Huàtí zhuǎnhuàn,Chuyển đổi chủ đề,Chuyển đổi chủ đề là cách thức để người nói hoặc người viết thay đổi chủ đề của cuộc trò chuyện hoặc bài viết một cách tự nhiên và mạch lạc.,7,3,hsk7-9
+承前省略,chéng qián shěng lüè,Lược bỏ thành phần đã đề cập trước đó,Đây là một hiện tượng ngữ pháp trong tiếng Trung, trong đó một số thành phần câu (chủ ngữ, tân ngữ, động từ, v.v.) được lược bỏ vì chúng đã được đề cập hoặc ngụ ý rõ ràng trong ngữ cảnh trước đó.,7,3,hsk7-9
+蒙后省略,méng hòu shěng lüè,Hiện tượng lược bỏ sau động từ (蒙后省略),Là hiện tượng lược bỏ tân ngữ hoặc các thành phần khác đứng sau động từ khi chúng đã rõ ràng từ ngữ cảnh hoặc mang tính chung chung, giúp câu văn ngắn gọn và tự nhiên hơn.,7,1,hsk7-9

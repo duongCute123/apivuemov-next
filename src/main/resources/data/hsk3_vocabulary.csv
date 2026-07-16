@@ -1,0 +1,237 @@
+simplifiedChinese,pinyin,englishMeaning,vietnameseMeaning,partOfSpeech,hskLevel,exampleSentence,exampleTranslation
+兴趣,xìngqù,interest,hứng thú,noun,3,我对音乐有兴趣。,Tôi có hứng thú với âm nhạc.
+习惯,xíguàn,habit,thói quen,noun,3,好习惯。,Thói quen tốt.
+能力,nénglì,ability,năng lực,noun,3,学习能力。,Năng lực học tập.
+机会,jīhuì,opportunity,cơ hội,noun,3,好机会。,Cơ hội tốt.
+关系,guānxi,relationship,quan hệ,noun,3,有关系。,Có quan hệ.
+经验,jīngyàn,experience,kinh nghiệm,noun,3,有经验。,Có kinh nghiệm.
+方法,fāngfǎ,method,phương pháp,noun,3,学习方法。,Phương pháp học tập.
+结果,jiéguǒ,result,kết quả,noun,3,考试结果。,Kết quả thi.
+原因,yuányīn,reason,nguyên nhân,noun,3,什么原因？,Nguyên nhân gì?
+目的,mùdì,purpose,mục đích,noun,3,学习目的。,Mục đích học tập.
+条件,tiáojiàn,condition,điều kiện,noun,3,条件很好。,Điều kiện tốt.
+基础,jīchǔ,foundation,nền tảng,noun,3,基础很重要。,Nền tảng rất quan trọng.
+例子,lìzì,example,ví dụ,noun,3,举个例子。,Lấy ví dụ.
+部分,bùfen,part,phần,noun,3,一部分。,Một phần.
+方面,fāngmiàn,aspect,phương diện,noun,3,这方面。,Phương diện này.
+重点,zhòngdiǎn,key point,trọng điểm,noun,3,学习重点。,Trọng tâm học tập.
+特点,tèdiǎn,characteristic,đặc điểm,noun,3,有什么特点？,Có đặc điểm gì?
+优点,yōudiǎn,advantage,ưu điểm,noun,3,有很多优点。,Có nhiều ưu điểm.
+缺点,quēdiǎn,disadvantage,khuyết điểm,noun,3,缺点是什么？,Khuyết điểm là gì?
+想法,xiǎngfǎ,idea,suy nghĩ,noun,3,好想法。,Ý kiến hay.
+意见,yìjiàn,opinion,ý kiến,noun,3,你的意见？,Ý kiến của bạn?
+建议,jiànyì,suggestion,đề nghị,noun,3,提建议。,Đưa ra đề nghị.
+计划,jìhuà,plan,kế hoạch,noun,3,学习计划。,Kế hoạch học tập.
+任务,rènwu,task,nhiệm vụ,noun,3,完成任务。,Hoàn thành nhiệm vụ.
+问题,wèntí,problem/question,vấn đề,noun,3,有问题吗？,Có vấn đề gì?
+答案,dáàn,answer,câu trả lời,noun,3,找到答案。,Tìm câu trả lời.
+道理,dàolǐ,principle,lý lẽ,noun,3,有道理。,Có lý.
+区别,qūbié,difference,sự khác biệt,noun,3,有什么区别？,Có gì khác biệt?
+相同,xiāngtóng,same,giống nhau,adjective,3,相同的地方。,Chỗ giống nhau.
+不同,bùtóng,different,khác nhau,adjective,3,不同的意见。,Ý kiến khác nhau.
+重要,zhòngyào,important,quan trọng,adjective,3,非常重要。,Rất quan trọng.
+主要,zhǔyào,main,chủ yếu,adjective,3,主要问题。,Vấn đề chủ yếu.
+必要,bìyào,necessary,cần thiết,adjective,3,有必要。,Cần thiết.
+直接,zhíjiē,direct,trực tiếp,adjective,3,直接回答。,Trả lời trực tiếp.
+具体,jùtǐ,concrete,cụ thể,adjective,3,具体说说。,Nói cụ thể.
+清楚,qīngchu,clear,rõ ràng,adjective,3,说清楚。,Nói rõ ràng.
+简单,jiǎndān,simple,đơn giản,adjective,3,很简单。,Rất đơn giản.
+复杂,fùzá,complex,phức tạp,adjective,3,很复杂。,Rất phức tạp.
+容易,róngyì,easy,dễ,adjective,3,很容易。,Rất dễ.
+困难,kùnnan,difficult,khó khăn,adjective,3,很困难。,Rất khó khăn.
+安全,ānquán,safe,an toàn,adjective,3,注意安全。,Chú ý an toàn.
+危险,wēixiǎn,dangerous,nguy hiểm,adjective,3,很危险。,Rất nguy hiểm.
+奇怪,qíguài,strange,kỳ lạ,adjective,3,很奇怪。,Rất kỳ lạ.
+努力,nǔlì,hardworking,chăm chỉ,adjective,3,很努力。,Rất chăm chỉ.
+认真,rènzhēn,serious,nghiêm túc,adjective,3,认真学习。,Học nghiêm túc.
+热情,rèqíng,warmhearted,nhiệt tình,adjective,3,很热情。,Rất nhiệt tình.
+积极,jījí,positive,tích cực,adjective,3,积极态度。,Thái độ tích cực.
+主动,zhǔdòng,proactive,chủ động,adjective,3,主动学习。,Chủ động học tập.
+成功,chénggōng,successful,thành công,adjective,3,很成功。,Rất thành công.
+流行,liúxíng,popular,thịnh hành,adjective,3,流行音乐。,Nhạc thịnh hành.
+精彩,jīngcǎi,wonderful,tuyệt vời,adjective,3,很精彩！,Rất tuyệt vời！
+美丽,měilì,beautiful,xinh đẹp,adjective,3,很美丽。,Rất xinh đẹp.
+优秀,yōuxiù,excellent,xuất sắc,adjective,3,优秀学生。,Học sinh xuất sắc.
+聪明,cōngming,smart,thông minh,adjective,3,很聪明。,Rất thông minh.
+勇敢,yǒnggǎn,brave,dũng cảm,adjective,3,很勇敢。,Rất dũng cảm.
+善良,shànliáng,kind,lương thiện,adjective,3,很善良。,Rất lương thiện.
+幸福,xìngfú,happy/hạnh phúc,hạnh phúc,adjective,3,很幸福。,Rất hạnh phúc.
+健康,jiànkāng,healthy,khỏe mạnh,adjective,3,身体健康。,Sức khỏe tốt.
+舒服,shūfu,comfortable,thoải mái,adjective,3,很舒服。,Rất thoải mái.
+方便,fāngbiàn,convenient,thuận tiện,adjective,3,很方便。,Rất thuận tiện.
+麻烦,máfan,troublesome,phiền phức,adjective,3,很麻烦。,Rất phiền phức.
+顺利,shùnlì,smoothly,thuận lợi,adjective,3,很顺利。,Rất thuận lợi.
+充分,chōngfèn,sufficient,đầy đủ,adjective,3,充分的准备。,Chuẩn bị đầy đủ.
+一切,yíqiè,everything,mọi thứ,pronoun,3,一切顺利！,Mọi thứ suôn sẻ！
+大家,dàjiā,everyone,mọi người,pronoun,3,大家好！,Chào mọi người！
+自己,zìjǐ,self,bản thân,pronoun,3,自己做。,Tự làm.
+别人,biérén,others,người khác,pronoun,3,帮助别人。,Giúp đỡ người khác.
+每,měi,each,mỗi,determiner,3,每天。,Mỗi ngày.
+有的,yǒude,some,có,determiner,3,有的人。,Có người.
+许多,xǔduō,many,nhiều,adjective,3,许多人。,Nhiều người.
+所有,suǒyǒu,all,tất cả,adjective,3,所有的人。,Tất cả mọi người.
+平时,píngshí,usually,thường ngày,adverb,3,平时做什么？,Thường ngày làm gì?
+原来,yuánlái,originally,hóa ra,adverb,3,原来如此。,Hóa ra là vậy.
+其实,qíshí,actually,thực ra,adverb,3,其实不难。,Thực ra không khó.
+难道,nándào,could it be,lẽ nào,adverb,3,难道你不知道？,Lẽ nào bạn không biết?
+千万,qiānwàn,by all means,nhất định,adverb,3,千万别去。,Nhất định đừng đi.
+反正,fǎnzhèng,anyways,dù sao,adverb,3,反正我要去。,Dù sao tôi cũng đi.
+根本,gēnběn,at all,căn bản,adverb,3,根本不想。,Căn bản không muốn.
+甚至,shènzhì,even,thậm chí,adverb,3,甚至不知道。,Thậm chí không biết.
+尤其,yóuqí,especially,đặc biệt là,adverb,3,尤其是你。,Đặc biệt là bạn.
+终于,zhōngyú,finally,cuối cùng,adverb,3,终于到了。,Cuối cùng đã đến.
+顺便,shùnbiàn,in passing,tiện thể,adverb,3,顺便告诉你。,Tiện thể nói với bạn.
+故意,gùyì,intentionally,cố ý,adverb,3,故意这样做。,Cố ý làm vậy.
+几乎,jīhū,almost,suýt,adverb,3,几乎忘了。,Suýt quên.
+对于,duìyú,regarding,đối với,preposition,3,对于这个问题。,Đối với vấn đề này.
+关于,guānyú,about,về,preposition,3,关于学习。,Về học tập.
+根据,gēnjù,according to,căn cứ,preposition,3,根据情况。,Căn cứ tình hình.
+按照,ànzhào,according to,theo,preposition,3,按照计划。,Theo kế hoạch.
+为了,wèile,in order to,để,preposition,3,为了学习。,Để học tập.
+由于,yóuyú,due to,do,preposition,3,由于天气原因。,Do thời tiết.
+作为,zuòwéi,as,với tư cách,preposition,3,作为学生。,Với tư cách học sinh.
+而且,érqiě,moreover,hơn nữa,conjunction,3,而且很便宜。,Hơn nữa rất rẻ.
+或者,huòzhě,or,hoặc,conjunction,3,你去或者我去。,Bạn đi hoặc tôi đi.
+然后,ránhòu,then,sau đó,adverb,3,然后回家。,Sau đó về nhà.
+以前,yǐqián,before,trước đây,adverb,3,以前来过。,Trước đây từng đến.
+以后,yǐhòu,afterwards,sau này,adverb,3,以后再说。,Sau này nói sau.
+从来,cónglái,never,chưa bao giờ,adverb,3,从来没去过。,Chưa bao giờ đi.
+刚,gāng,just,vừa,adverb,3,刚来。,Vừa đến.
+经常,jīngcháng,often,thường xuyên,adverb,3,经常锻炼。,Thường xuyên tập thể dục.
+往往,wǎngwǎng,usually,thông thường,adverb,3,往往如此。,Thông thường là vậy.
+逐渐,zhújiàn,gradually,dần dần,adverb,3,逐渐变好。,Dần dần tốt lên.
+赶快,gǎnkuài,quickly,nhanh lên,adverb,3,赶快来！,Nhanh lên！
+赶紧,gǎnjǐn,hastily,vội vàng,adverb,3,赶紧走。,Vội vàng đi.
+到处,dàochù,everywhere,khắp nơi,adverb,3,到处都有。,Khắp nơi đều có.
+从来,cónglái,at all time,xưa nay,adverb,3,从来没想过。,Xưa nay chưa từng nghĩ.
+不过,búguò,however,tuy nhiên,conjunction,3,不过我很忙。,Tuy nhiên tôi rất bận.
+不仅,bùjǐn,not only,không chỉ,conjunction,3,不仅便宜而且好吃。,Không chỉ rẻ mà còn ngon.
+不管,bùguǎn,regardless,dù thế nào,conjunction,3,不管怎样。,Dù thế nào đi nữa.
+只要,zhǐyào,as long as,chỉ cần,conjunction,3,只要你努力。,Chỉ cần bạn cố gắng.
+不但,bùdàn,not only,không những,conjunction,3,不但好吃而且便宜。,Không những ngon mà còn rẻ.
+周围,zhōuwéi,surroundings,xung quanh,noun,3,周围的环境。,Môi trường xung quanh.
+著名,zhùmíng,famous,nổi tiếng,adjective,3,著名的城市。,Thành phố nổi tiếng.
+主要,zhǔyào,main,chủ yếu,adjective,3,主要原因。,Nguyên nhân chủ yếu.
+专业,zhuānyè,major/professional,chuyên ngành,noun,3,学什么专业？,Học chuyên ngành gì?
+准备,zhǔnbèi,to prepare,chuẩn bị,verb,3,准备考试。,Chuẩn bị thi.
+作用,zuòyòng,function,tác dụng,noun,3,有作用。,Có tác dụng.
+举办,jǔbàn,to hold,tổ chức,verb,3,举办活动。,Tổ chức hoạt động.
+决定,juédìng,to decide,quyết định,verb,3,决定了。,Quyết định rồi.
+可爱,kěài,cute,dễ thương,adjective,3,很可爱。,Rất dễ thương.
+科学,kēxué,science,khoa học,noun,3,科学家。,Nhà khoa học.
+可能,kěnéng,possibly,có thể,adverb,3,可能来。,Có thể đến.
+可是,kěshì,but,nhưng,conjunction,3,可是我很忙。,Nhưng tôi bận.
+空调,kōngtiáo,AC,máy lạnh,noun,3,开空调。,Mở máy lạnh.
+恐怕,kǒngpà,I'm afraid,e ngại,adverb,3,恐怕不行。,E là không được.
+苦,kǔ,bitter,đắng,adjective,3,很苦。,Rất đắng.
+快,kuài,fast,nhanh,adjective,3,快递。,Chuyển phát nhanh.
+筷子,kuàizi,chopsticks,đũa,noun,3,用筷子。,Dùng đũa.
+困难,kùnnan,difficult,khó khăn,adjective,3,很困难。,Rất khó khăn.
+老,lǎo,old/always,già/luôn,adjective,3,老朋友。,Bạn cũ.
+离开,líkāi,to leave,rời khỏi,verb,3,离开家。,Rời nhà.
+理解,lǐjiě,to understand,hiểu,verb,3,我理解。,Tôi hiểu.
+历史,lìshǐ,history,lịch sử,noun,3,学习历史。,Học lịch sử.
+联系,liánxì,to contact,liên hệ,verb,3,联系我们。,Liên hệ chúng tôi.
+凉快,liángkuai,cool,mát mẻ,adjective,3,凉快了。,Mát mẻ.
+了解,liǎojiě,to understand,hiểu rõ,verb,3,了解情况。,Hiểu tình hình.
+另外,lìngwài,besides,ngoài ra,adverb,3,另外一个人。,Người khác.
+留,liú,to stay,ở lại,verb,3,留下。,Ở lại.
+旅行,lǚxíng,to travel,du lịch,verb,3,去旅行。,Đi du lịch.
+满意,mǎnyì,satisfied,hài lòng,adjective,3,很满意。,Rất hài lòng.
+矛盾,máodùn,contradiction,mâu thuẫn,noun,3,有矛盾。,Có mâu thuẫn.
+美丽,měilì,beautiful,xinh đẹp,adjective,3,美丽的花。,Hoa đẹp.
+民族,mínzú,ethnicity/nation,dân tộc,noun,3,中华民族。,Dân tộc Trung Hoa.
+目的,mùdì,purpose,mục đích,noun,3,目的明确。,Mục đích rõ ràng.
+内容,nèiróng,content,nội dung,noun,3,学习内容。,Nội dung học tập.
+能力,nénglì,ability,năng lực,noun,3,有能力。,Có năng lực.
+年龄,niánlíng,age,tuổi tác,noun,3,年龄大了。,Lớn tuổi.
+努力,nǔlì,hardworking,chăm chỉ,adjective,3,很努力。,Rất chăm chỉ.
+偶尔,ǒuěr,occasionally,thỉnh thoảng,adverb,3,偶尔去。,Thỉnh thoảng đi.
+普遍,pǔbiàn,common,phổ biến,adjective,3,很普遍。,Rất phổ biến.
+气候,qìhòu,climate,khí hậu,noun,3,气候温暖。,Khí hậu ấm áp.
+千万,qiānwàn,by all means,nhất định,adverb,3,千万不要。,Nhất định đừng.
+前,qián,before/forward,trước,preposition,3,前面。,Phía trước.
+确实,quèshí,indeed,quả thực,adverb,3,确实很好。,Quả thực tốt.
+热闹,rènao,lively,náo nhiệt,adjective,3,很热闹。,Náo nhiệt.
+认为,rènwéi,to consider,cho rằng,verb,3,我认为。,Tôi cho rằng.
+任何,rènhé,any,bất kỳ,determiner,3,任何人。,Bất kỳ ai.
+如果,rúguǒ,if,nếu,conjunction,3,如果下雨。,Nếu mưa.
+商业,shāngyè,commerce,thương mại,noun,3,商业中心。,Trung tâm thương mại.
+社会,shèhuì,society,xã hội,noun,3,社会问题。,Vấn đề xã hội.
+甚至,shènzhì,even,thậm chí,adverb,3,甚至不知道。,Thậm chí không biết.
+生活,shēnghuó,life,cuộc sống,noun,3,生活快乐。,Cuộc sống vui vẻ.
+十分,shífēn,extremely,vô cùng,adverb,3,十分满意。,Vô cùng hài lòng.
+时代,shídài,era,thời đại,noun,3,新时代。,Thời đại mới.
+实际上,shíjìshàng,actually,thực tế,adverb,3,实际上不是。,Thực tế không phải.
+实现,shíxiàn,to realize,thực hiện,verb,3,实现梦想。,Thực hiện ước mơ.
+使用,shǐyòng,to use,sử dụng,verb,3,使用电脑。,Sử dụng máy tính.
+市场,shìchǎng,market,thị trường,noun,3,市场调查。,Khảo sát thị trường.
+舒服,shūfu,comfortable,thoải mái,adjective,3,很舒服。,Thoải mái.
+说明,shuōmíng,to explain,giải thích,verb,3,说明问题。,Giải thích vấn đề.
+思考,sīkǎo,to think,suy nghĩ,verb,3,思考问题。,Suy nghĩ vấn đề.
+似乎,sìhū,it seems,dường như,adverb,3,似乎是这样。,Dường như là vậy.
+速度,sùdù,speed,tốc độ,noun,3,提高速度。,Tăng tốc độ.
+虽然,suīrán,although,mặc dù,conjunction,3,虽然累但是开心。,Mặc dù mệt nhưng vui.
+所有,suǒyǒu,all,tất cả,determiner,3,所有的人。,Tất cả mọi người.
+态度,tàidu,attitude,thái độ,noun,3,学习态度。,Thái độ học tập.
+特别,tèbié,special,đặc biệt,adjective,3,特别重要。,Đặc biệt quan trọng.
+特点,tèdiǎn,characteristic,đặc điểm,noun,3,有什么特点？,Có đặc điểm gì?
+提高,tígāo,to improve,nâng cao,verb,3,提高水平。,Nâng cao trình độ.
+体育,tǐyù,physical education,thể dục,noun,3,上体育课。,Học thể dục.
+条件,tiáojiàn,condition,điều kiện,noun,3,条件很好。,Điều kiện tốt.
+同时,tóngshí,at the same time,cùng lúc,conjunction,3,同时进行。,Cùng lúc tiến hành.
+同学,tóngxué,classmate,bạn học,noun,3,我的同学。,Bạn học của tôi.
+同意,tóngyì,to agree,đồng ý,verb,3,我同意。,Tôi đồng ý.
+突然,tūrán,suddenly,đột nhiên,adverb,3,突然下雨。,Đột nhiên mưa.
+图书馆,túshūguǎn,library,thư viện,noun,3,在图书馆。,Ở thư viện.
+完成,wánchéng,to complete,hoàn thành,verb,3,完成任务。,Hoàn thành nhiệm vụ.
+完全,wánquán,completely,hoàn toàn,adverb,3,完全正确。,Hoàn toàn đúng.
+文化,wénhuà,culture,văn hóa,noun,3,中国文化。,Văn hóa Trung Quốc.
+文章,wénzhāng,article,bài văn,noun,3,看文章。,Đọc bài văn.
+污染,wūrǎn,pollution,ô nhiễm,noun,3,环境污染。,Ô nhiễm môi trường.
+希望,xīwàng,to hope,hy vọng,verb,3,希望成功。,Hy vọng thành công.
+习惯,xíguàn,habit,thói quen,noun,3,好习惯。,Thói quen tốt.
+羡慕,xiànmù,to envy,ghen tị,verb,3,真羡慕你。,Ghen tị với bạn.
+详细,xiángxì,detailed,chi tiết,adjective,3,详细说明。,Giải thích chi tiết.
+相信,xiāngxìn,to believe,tin,verb,3,我相信你。,Tôi tin bạn.
+效果,xiàoguǒ,effect,hiệu quả,noun,3,学习效果。,Hiệu quả học tập.
+心情,xīnqíng,mood,tâm trạng,noun,3,心情好。,Tâm trạng tốt.
+信心,xìnxīn,confidence,tự tin,noun,3,有信心。,Có tự tin.
+形式,xíngshì,form,hình thức,noun,3,组织形式。,Hình thức tổ chức.
+幸福,xìngfú,happiness,hạnh phúc,adjective,3,很幸福。,Hạnh phúc.
+性格,xìnggé,personality,tính cách,noun,3,性格开朗。,Tính cách hòa đồng.
+宣布,xuānbù,to announce,tuyên bố,verb,3,宣布结果。,Tuyên bố kết quả.
+选择,xuǎnzé,to choose,chọn,verb,3,选择这个。,Chọn cái này.
+研究,yánjiū,research,nghiên cứu,verb,3,研究问题。,Nghiên cứu vấn đề.
+颜色,yánsè,color,màu sắc,noun,3,什么颜色？,Màu gì?
+要求,yāoqiú,to demand,yêu cầu,verb,3,要求严格。,Yêu cầu nghiêm ngặt.
+也许,yěxǔ,maybe,có lẽ,adverb,3,也许明天。,Có lẽ ngày mai.
+业务,yèwù,business,nghiệp vụ,noun,3,业务范围。,Phạm vi nghiệp vụ.
+意见,yìjiàn,opinion,ý kiến,noun,3,有意见。,Có ý kiến.
+因此,yīncǐ,therefore,cho nên,conjunction,3,因此我们不去了。,Cho nên chúng tôi không đi.
+印象,yìnxiàng,impression,ấn tượng,noun,3,印象很好。,Ấn tượng tốt.
+影响,yǐngxiǎng,influence,ảnh hưởng,verb,3,影响学习。,Ảnh hưởng học tập.
+永远,yǒngyuǎn,forever,mãi mãi,adverb,3,永远记住。,Mãi mãi ghi nhớ.
+勇敢,yǒnggǎn,brave,dũng cảm,adjective,3,很勇敢。,Rất dũng cảm.
+优点,yōudiǎn,advantage,ưu điểm,noun,3,有很多优点。,Có nhiều ưu điểm.
+优秀,yōuxiù,excellent,xuất sắc,adjective,3,优秀学生。,Học sinh xuất sắc.
+有趣,yǒuqù,interesting,thú vị,adjective,3,很有趣。,Thú vị.
+于是,yúshì,thereupon,thế là,conjunction,3,于是他就走了。,Thế là anh ấy đi.
+原来,yuánlái,originally,hóa ra,adverb,3,原来如此。,Hóa ra là vậy.
+原因,yuányīn,reason,nguyên nhân,noun,3,什么原因？,Nguyên nhân gì?
+愿意,yuànyì,willing,sẵn lòng,verb,3,我愿意。,Tôi sẵn lòng.
+运动,yùndòng,sport,thể thao,noun,3,做运动。,Tập thể thao.
+杂志,zázhì,magazine,tạp chí,noun,3,看杂志。,Đọc tạp chí.
+咱们,zánmen,we (inclusive),chúng ta,pronoun,3,咱们去吧。,Chúng ta đi thôi.
+展览,zhǎnlǎn,exhibition,triển lãm,noun,3,看展览。,Xem triển lãm.
+掌握,zhǎngwò,to master,nắm vững,verb,3,掌握知识。,Nắm vững kiến thức.
+着急,zháojí,anxious,lo lắng,adjective,3,别着急。,Đừng lo.
+照顾,zhàogù,to take care of,chăm sóc,verb,3,照顾孩子。,Chăm sóc con.
+真正,zhēnzhèng,real,thực sự,adjective,3,真正的朋友。,Bạn thực sự.
+整理,zhěnglǐ,to organize,sắp xếp,verb,3,整理房间。,Sắp xếp phòng.
+正常,zhèngcháng,normal,bình thường,adjective,3,很正常。,Bình thường.
+正好,zhènghǎo,just right,vừa đúng,adverb,3,正好十点。,Vừa đúng 10 giờ.
+知识,zhīshi,knowledge,kiến thức,noun,3,学习知识。,Học kiến thức.
+直接,zhíjiē,direct,trực tiếp,adjective,3,直接回答。,Trả lời trực tiếp.
+职业,zhíyè,profession,nghề nghiệp,noun,3,你的职业？,Nghề nghiệp của bạn?
+植物,zhíwù,plant,thực vật,noun,3,植物很多。,Nhiều thực vật.

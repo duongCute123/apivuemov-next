@@ -1,0 +1,136 @@
+﻿simplifiedChinese,pinyin,englishMeaning,vietnameseMeaning,partOfSpeech,hskLevel,exampleSentence,exampleTranslation
+零,líng,zero,không,number,1,零度。,Không độ.
+百,bǎi,hundred,trăm,number,1,一百人。,Một trăm người.
+千,qiān,thousand,nghìn,number,1,一千元。,Một nghìn đồng.
+第一,dì-yī,first,thứ nhất,ordinal,1,第一次。,Lần đầu tiên.
+第二,dì-èr,second,thứ hai,ordinal,1,第二次。,Lần thứ hai.
+第三,dì-sān,third,thứ ba,ordinal,1,第三天。,Ngày thứ ba.
+第四,dì-sì,fourth,thứ tư,ordinal,1,第四个。,Cái thứ tư.
+第五,dì-wǔ,fifth,thứ năm,ordinal,1,第五个学生。,Học sinh thứ năm.
+第六,dì-liù,sixth,thứ sáu,ordinal,1,第六个。,Cái thứ sáu.
+第七,dì-qī,seventh,thứ bảy,ordinal,1,第七个。,Cái thứ bảy.
+第八,dì-bā,eighth,thứ tám,ordinal,1,第八个。,Cái thứ tám.
+第九,dì-jiǔ,ninth,thứ chín,ordinal,1,第九个。,Cái thứ chín.
+第十,dì-shí,tenth,thứ mười,ordinal,1,第十个。,Cái thứ mười.
+快,kuài,fast,nhanh,adjective,1,快走！,Đi nhanh！
+慢,màn,slow,chậm,adjective,1,慢走。,Đi chậm.
+早,zǎo,early,sớm,adjective,1,早上好！,Chào buổi sáng！
+晚,wǎn,late,muộn,adjective,1,晚上。,Buổi tối.
+忙,máng,busy,bận,adjective,1,你忙吗？,Bạn bận không?
+累,lèi,tired,mệt,adjective,1,我累了。,Tôi mệt rồi.
+高兴,gāoxìng,happy,vui vẻ,adjective,1,很高兴。,Rất vui.
+难过,nánguò,sad,buồn,adjective,1,别难过。,Đừng buồn.
+饿,è,hungry,đói,adjective,1,我饿了。,Tôi đói rồi.
+渴,kě,thirsty,khát,adjective,1,我渴了。,Tôi khát rồi.
+饱,bǎo,full,no,adjective,1,我吃饱了。,Tôi no rồi.
+甜,tián,sweet,ngọt,adjective,1,很甜。,Rất ngọt.
+酸,suān,sour,chua,adjective,1,很酸。,Rất chua.
+苦,kǔ,bitter,đắng,adjective,1,很苦。,Rất đắng.
+辣,là,spicy,cay,adjective,1,很辣。,Rất cay.
+咸,xián,salty,mặn,adjective,1,很咸。,Rất mặn.
+漂亮,piàoliang,beautiful,đẹp,adjective,1,真漂亮！,Đẹp quá！
+干净,gānjìng,clean,sạch sẽ,adjective,1,很干净。,Rất sạch.
+脏,zāng,dirty,bẩn,adjective,1,很脏。,Rất bẩn.
+便宜,piányi,cheap,rẻ,adjective,1,很便宜。,Rất rẻ.
+贵,guì,expensive,đắt,adjective,1,很贵。,Rất đắt.
+新鲜,xīnxiān,fresh,tươi,adjective,1,新鲜的鱼。,Cá tươi.
+努力,nǔlì,hardworking,chăm chỉ,adjective,1,很努力。,Rất chăm chỉ.
+马虎,mǎhu,careless,cẩu thả,adjective,1,别马虎。,Đừng cẩu thả.
+认真,rènzhēn,serious,nghiêm túc,adjective,1,很认真。,Rất nghiêm túc.
+简单,jiǎndān,simple,đơn giản,adjective,1,很简单。,Rất đơn giản.
+难,nán,difficult,khó,adjective,1,很难。,Rất khó.
+出生,chūshēng,to be born,sinh ra,verb,1,我出生在北京。,Tôi sinh ra ở Bắc Kinh.
+住,zhù,to live,ở,verb,1,你住在哪儿？,Bạn sống ở đâu?
+用,yòng,to use,dùng,verb,1,用电脑。,Dùng máy tính.
+开,kāi,to open/drive,mở/lái,verb,1,开车。,Lái xe.
+关,guān,to close,đóng,verb,1,关门。,Đóng cửa.
+坐,zuò,to sit,ngồi,verb,1,请坐。,Mời ngồi.
+站,zhàn,to stand,đứng,verb,1,请站起来。,Mời đứng dậy.
+走,zǒu,to walk,đi,verb,1,往前走。,Đi thẳng.
+跑,pǎo,to run,chạy,verb,1,跑步。,Chạy bộ.
+跳,tiào,to jump,nhảy,verb,1,跳绳。,Nhảy dây.
+拿,ná,to take,cầm,verb,1,拿书。,Cầm sách.
+放,fàng,to put,đặt,verb,1,放这里。,Đặt ở đây.
+洗,xǐ,to wash,giặt/rửa,verb,1,洗手。,Rửa tay.
+穿,chuān,to wear,mặc,verb,1,穿衣服。,Mặc quần áo.
+脱,tuō,to take off,cởi,verb,1,脱鞋。,Cởi giày.
+睡,shuì,to sleep,ngủ,verb,1,睡觉。,Đi ngủ.
+起床,qǐchuáng,get up,thức dậy,verb,1,六点起床。,Dậy lúc 6 giờ.
+洗澡,xǐzǎo,to shower,tắm,verb,1,洗澡。,Tắm rửa.
+休息,xiūxi,to rest,nghỉ ngơi,verb,1,休息一下。,Nghỉ một chút.
+等,děng,to wait,chờ,verb,1,等一下。,Chờ một chút.
+送,sòng,to send/see off,gửi/tiễn,verb,1,送礼物。,Tặng quà.
+接,jiē,to pick up,đón,verb,1,接孩子。,Đón con.
+踢,tī,to kick,đá,verb,1,踢足球。,Đá bóng.
+打,dǎ,to hit/play,đánh/chơi,verb,1,打篮球。,Chơi bóng rổ.
+画,huà,to draw,vẽ,verb,1,画画。,Vẽ tranh.
+唱歌,chànggē,to sing,hát,verb,1,唱歌。,Ca hát.
+跳舞,tiàowǔ,to dance,nhảy múa,verb,1,跳舞。,Khiêu vũ.
+玩,wán,to play,chơi,verb,1,一起玩。,Chơi cùng nhau.
+旅游,lǚyóu,to travel,du lịch,verb,1,去旅游。,Đi du lịch.
+照相,zhàoxiàng,to take photo,chụp ảnh,verb,1,照相。,Chụp ảnh.
+游泳,yóuyǒng,to swim,bơi,verb,1,去游泳。,Đi bơi.
+跑步,pǎobù,to jog,chạy bộ,verb,1,早上跑步。,Chạy bộ buổi sáng.
+锻炼,duànliàn,to exercise,tập thể dục,verb,1,每天锻炼。,Tập thể dục hàng ngày.
+发烧,fāshāo,to have fever,sốt,verb,1,他发烧了。,Anh ấy bị sốt.
+咳嗽,késou,to cough,ho,verb,1,咳嗽了。,Bị ho.
+感冒,gǎnmào,to catch cold,cảm,verb,1,我感冒了。,Tôi bị cảm.
+吃药,chīyào,take medicine,uống thuốc,verb,1,吃药。,Uống thuốc.
+打针,dǎzhēn,to get injection,tiêm,verb,1,打针。,Tiêm.
+住院,zhùyuàn,to hospitalize,nhập viện,verb,1,住院了。,Nhập viện.
+借,jiè,to borrow/lend,mượn/cho mượn,verb,1,借书。,Mượn sách.
+还,hái/huán,to return,trả,verb,1,还书。,Trả sách.
+问,wèn,to ask,hỏi,verb,1,问题。,Câu hỏi.
+回答,huídá,to answer,trả lời,verb,1,回答。,Trả lời.
+教,jiāo,to teach,dạy,verb,1,我教你。,Tôi dạy bạn.
+请,qǐng,to invite,mời,verb,1,请吃饭。,Mời ăn cơm.
+叫,jiào,to call,gọi,verb,1,你叫什么？,Bạn tên gì?
+认识,rènshi,to know,quen biết,verb,1,认识你很高兴。,Rất vui được quen bạn.
+觉得,juéde,to feel,cảm thấy,verb,1,觉得很好。,Cảm thấy tốt.
+可以,kěyǐ,can,có thể,verb,1,可以进来吗？,Có thể vào không?
+需要,xūyào,need,cần,verb,1,需要帮助。,Cần giúp đỡ.
+应该,yīnggāi,should,nên,verb,1,应该去。,Nên đi.
+能,néng,can,có thể,verb,1,我能做。,Tôi có thể làm.
+必须,bìxū,must,phải,verb,1,必须去。,Phải đi.
+可能,kěnéng,maybe,có thể,adverb,1,可能来。,Có thể đến.
+喜欢,xǐhuān,to like,thích,verb,1,你喜欢什么？,Bạn thích gì?
+爱,ài,to love,yêu,verb,1,我爱你。,Anh yêu em.
+想,xiǎng,to want/miss,muốn/nhớ,verb,1,我想你。,Tôi nhớ bạn.
+希望,xīwàng,to hope,hy vọng,verb,1,希望你成功。,Hy vọng bạn thành công.
+祝,zhù,to wish,chúc,verb,1,生日快乐！,Chúc mừng sinh nhật！
+给,gěi,to give,cho,verb,1,给我。,Cho tôi.
+介绍,jièshào,to introduce,giới thiệu,verb,1,介绍一下。,Giới thiệu một chút.
+告诉,gàosu,to tell,nói cho,verb,1,告诉我。,Nói cho tôi.
+聊天,liáotiān,to chat,trò chuyện,verb,1,聊天。,Nói chuyện.
+说话,shuōhuà,to speak,nói chuyện,verb,1,说话。,Nói chuyện.
+看书,kànshū,to read,đọc sách,verb,1,看书。,Đọc sách.
+写字,xiězì,to write,viết chữ,verb,1,写字。,Viết chữ.
+上班,shàngbān,to go to work,đi làm,verb,1,去上班。,Đi làm.
+下班,xiàbān,to get off work,tan làm,verb,1,下班了。,Tan làm rồi.
+回家,huíjiā,to go home,về nhà,verb,1,回家。,Về nhà.
+出门,chūmén,to go out,ra ngoài,verb,1,出门。,Ra ngoài.
+进来,jìnlái,to come in,vào,verb,1,请进来。,Mời vào.
+出去,chūqù,to go out,đi ra,verb,1,出去。,Đi ra.
+起来,qǐlái,to get up,đứng dậy,verb,1,站起来。,Đứng dậy.
+坐下,zuòxià,to sit down,ngồi xuống,verb,1,请坐下。,Mời ngồi xuống.
+上来,shànglái,to come up,lên,verb,1,快上来。,Lên nhanh.
+下去,xiàqù,to go down,xuống,verb,1,下去。,Đi xuống.
+开始,kāishǐ,to start,bắt đầu,verb,1,开始上课。,Bắt đầu học.
+结束,jiéshù,to end,kết thúc,verb,1,结束了。,Kết thúc rồi.
+完成,wánchéng,to complete,hoàn thành,verb,1,完成了。,Hoàn thành rồi.
+准备,zhǔnbèi,to prepare,chuẩn bị,verb,1,准备考试。,Chuẩn bị thi.
+放心,fàngxīn,to rest assured,yên tâm,verb,1,你放心。,Bạn yên tâm.
+小心,xiǎoxīn,to be careful,cẩn thận,verb,1,小心！,Cẩn thận！
+注意,zhùyì,to pay attention,chú ý,verb,1,注意安全。,Chú ý an toàn.
+帮忙,bāngmáng,to help,giúp đỡ,verb,1,帮忙一下。,Giúp một chút.
+对不起,duìbuqǐ,sorry,xin lỗi,verb,1,对不起！,Xin lỗi！
+没关系,méiguānxi,it's ok,không sao,phrase,1,没关系！,Không sao！
+不用谢,búyòngxiè,you're welcome,không có gì,phrase,1,不用谢！,Không có gì！
+再见,zàijiàn,goodbye,tạm biệt,phrase,1,明天见！,Hẹn gặp lại！
+明天见,míngtiānjiàn,see you tomorrow,hẹn mai gặp,phrase,1,明天见！,Hẹn mai gặp！
+一会儿见,yīhuìrjiàn,see you later,hẹn lát gặp,phrase,1,一会儿见！,Hẹn lát gặp！
+好久不见,hǎojiǔbújiàn,long time no see,lâu quá không gặp,phrase,1,好久不见！,Lâu quá không gặp！
+没问题,méiwèntí,no problem,không vấn đề,phrase,1,没问题！,Không vấn đề！
+太好了,tài hǎo le,great,tuyệt vời,phrase,1,太好了！,Tuyệt vời！
+真的吗？,zhēndema?,really?,Thật không?,phrase,1,真的吗？,Thật không?
+当然,dāngrán,of course,tất nhiên,adverb,1,当然可以。,Tất nhiên là được。

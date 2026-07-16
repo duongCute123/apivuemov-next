@@ -1,0 +1,159 @@
+simplifiedChinese,pinyin,englishMeaning,vietnameseMeaning,partOfSpeech,hskLevel,exampleSentence,exampleTranslation
+哲学,zhéxué,philosophy,triết học,noun,6,哲学思想。,Tư tưởng triết học.
+美学,měixué,aesthetics,mỹ học,noun,6,美学理论。,Lý thuyết mỹ học.
+伦理,lúnlǐ,ethics,luân lý,noun,6,伦理道德。,Đạo đức luân lý.
+逻辑,luóji,logic,logic,noun,6,逻辑思维。,Tư duy logic.
+辩证,biànzhèng,dialectical,biện chứng,adjective,6,辩证关系。,Quan hệ biện chứng.
+范畴,fànchóu,category,phạm trù,noun,6,基本范畴。,Phạm trù cơ bản.
+本质,běnzhì,essence,bản chất,noun,6,本质问题。,Vấn đề bản chất.
+现象,xiànxiàng,phenomenon,hiện tượng,noun,6,社会现象。,Hiện tượng xã hội.
+矛盾,máodùn,contradiction,mâu thuẫn,noun,6,主要矛盾。,Mâu thuẫn chủ yếu.
+统一,tǒngyī,unity,thống nhất,verb,6,统一认识。,Thống nhất nhận thức.
+对立,duìlì,opposition,đối lập,noun,6,对立统一。,Thống nhất đối lập.
+转化,zhuǎnhuà,transformation,chuyển hóa,verb,6,能量转化。,Chuyển hóa năng lượng.
+演变,yǎnbiàn,evolution,diễn biến,verb,6,历史演变。,Diễn biến lịch sử.
+变革,biàngé,reform,biến cách,verb,6,社会变革。,Biến cách xã hội.
+创新,chuàngxīn,innovation,sáng tạo,verb,6,技术创新。,Sáng tạo kỹ thuật.
+发明,fāmíng,invention,phát minh,verb,6,发明创造。,Phát minh sáng tạo.
+突破,tūpò,breakthrough,đột phá,verb,6,技术突破。,Đột phá kỹ thuật.
+飞跃,fēiyuè,leap,nhảy vọt,verb,6,飞跃发展。,Phát triển nhảy vọt.
+跨越,kuàyuè,to stride across,vượt qua,verb,6,跨越发展。,Phát triển vượt bậc.
+领先,lǐngxiān,to lead,dẫn đầu,verb,6,技术领先。,Dẫn đầu kỹ thuật.
+占据,zhànjù,to occupy,chiếm giữ,verb,6,占据优势。,Chiếm giữ ưu thế.
+垄断,lǒngduàn,monopoly,độc quyền,verb,6,市场垄断。,Độc quyền thị trường.
+竞争,jìngzhēng,competition,cạnh tranh,noun,6,自由竞争。,Cạnh tranh tự do.
+制裁,zhìcái,sanctions,chế tài,noun,6,经济制裁。,Chế tài kinh tế.
+干预,gānyù,intervention,can thiệp,verb,6,政府干预。,Can thiệp của chính phủ.
+调节,tiáojié,regulation,điều tiết,verb,6,市场调节。,Điều tiết thị trường.
+均衡,jūnhéng,balance,cân bằng,adjective,6,均衡发展。,Phát triển cân bằng.
+协调,xiétiáo,coordination,phối hợp,verb,6,协调发展。,Phối hợp phát triển.
+统筹,tǒngchóu,overall planning,hoạch định tổng thể,verb,6,统筹安排。,Sắp xếp tổng thể.
+布局,bùjú,layout,bố cục,noun,6,战略布局。,Bố cục chiến lược.
+格局,géjú,pattern/configuration,cách cục,noun,6,世界格局。,Cách cục thế giới.
+体制,tǐzhì,system,thể chế,noun,6,经济体制。,Thể chế kinh tế.
+机制,jīzhì,mechanism,cơ chế,noun,6,运行机制。,Cơ chế vận hành.
+法规,fǎguī,regulations,pháp quy,noun,6,法律法规。,Pháp luật quy định.
+条例,tiáolì,regulations,điều lệ,noun,6,管理条例。,Điều lệ quản lý.
+章程,zhāngchéng,charter,điều lệ,noun,6,公司章程。,Điều lệ công ty.
+细则,xìzé,detailed rules,quy tắc chi tiết,noun,6,实施细则。,Quy tắc thực hiện chi tiết.
+权限,quánxiàn,authority,quyền hạn,noun,6,管理权限。,Quyền hạn quản lý.
+监督,jiāndū,supervision,giám sát,verb,6,监督执行。,Giám sát thực hiện.
+审查,shěnchá,examination,thẩm tra,verb,6,审查结果。,Kết quả thẩm tra.
+鉴定,jiàndìng,appraisal,giám định,verb,6,质量鉴定。,Giám định chất lượng.
+评估,pínggū,assessment,đánh giá,verb,6,风险评估。,Đánh giá rủi ro.
+反馈,fǎnkuì,feedback,phản hồi,noun,6,用户反馈。,Phản hồi người dùng.
+投诉,tóusù,complaint,khiếu nại,verb,6,投诉处理。,Xử lý khiếu nại.
+纠纷,jiūfēn,dispute,tranh chấp,noun,6,劳动纠纷。,Tranh chấp lao động.
+诉讼,sùsòng,litigation,kiện tụng,noun,6,提起诉讼。,Đệ đơn kiện.
+仲裁,zhòngcái,arbitration,trọng tài,noun,6,仲裁结果。,Kết quả trọng tài.
+调解,tiáojiě,mediation,hòa giải,verb,6,调解纠纷。,Hòa giải tranh chấp.
+妥协,tuǒxié,compromise,thỏa hiệp,verb,6,妥协方案。,Phương án thỏa hiệp.
+协商,xiéshāng,consultation,hiệp thương,verb,6,协商解决。,Giải quyết bằng hiệp thương.
+共识,gòngshí,consensus,đồng thuận,noun,6,达成共识。,Đạt đồng thuận.
+分歧,fēnqí,difference/phân kỳ,phân kỳ,noun,6,意见分歧。,Phân kỳ ý kiến.
+哀愁,āichóu,sadness,sầu não,adjective,6,心中哀愁。,Trong lòng sầu não.
+癌症,áizhèng,cancer,ung thư,noun,6,癌症治疗。,Chữa bệnh ung thư.
+爱戴,àidài,to love and respect,kính yêu,verb,6,深受爱戴。,Được kính yêu.
+暧昧,àimèi,ambiguous,mập mờ,adjective,6,关系暧昧。,Quan hệ mờ ám.
+安宁,ānníng,peaceful,bình yên,adjective,6,社会安宁。,Xã hội bình yên.
+安置,ānzhì,to arrange,sắp xếp,verb,6,安置灾民。,Sắp xếp dân vùng thiên tai.
+按摩,ànmó,massage,xoa bóp,verb,6,按摩治疗。,Chữa bệnh bằng xoa bóp.
+案件,ànjiàn,legal case,vụ án,noun,6,刑事案件。,Vụ án hình sự.
+案例,ànlì,case,án lệ,noun,6,典型案例。,Án lệ điển hình.
+昂贵,ángguì,expensive,đắt đỏ,adjective,6,价格昂贵。,Giá đắt đỏ.
+翱翔,áoxiáng,to soar, bay lượn, bay bổng,verb,6,翱翔天空。,Bay lượn trên trời.
+傲慢,àomàn,arrogant,kiêu ngạo,adjective,6,态度傲慢。,Thái độ kiêu ngạo.
+奥秘,àomì,mystery,bí ẩn,noun,6,宇宙奥秘。,Bí ẩn vũ trụ.
+巴结,bājie,to fawn,nịnh bợ,verb,6,巴结领导。,Nịnh bợ lãnh đạo.
+拔苗助长,bámiáozhùzhǎng,to spoil things by excessive enthusiasm,kéo cây non,idiom,6,拔苗助长不可取。,Kéo cây non là không nên.
+把关,bǎguān,to check,kiểm soát,verb,6,严格把关。,Kiểm soát nghiêm ngặt.
+霸权,bàquán,hegemony,bá quyền,noun,6,霸权主义。,Chủ nghĩa bá quyền.
+白菜,báicài,Chinese cabbage,bắp cải,noun,6,买白菜。,Mua bắp cải.
+百姓,bǎixìng,common people,dân thường,noun,6,老百姓。,Dân thường.
+败坏,bàihuài,to corrupt,làm hỏng,verb,6,道德败坏。,Đạo đức hỏng.
+拜访,bàifǎng,to pay a visit,thăm viếng,verb,6,拜访朋友。,Thăm viếng bạn bè.
+拜年,bàinián,New Year visit,chúc tết,verb,6,给大家拜年。,Chúc mừng năm mới mọi người.
+颁布,bānbù,to promulgate,ban hành,verb,6,颁布法令。,Ban hành pháp lệnh.
+颁发,bānfā,to award,trao,verb,6,颁发证书。,Trao chứng chỉ.
+版本,bǎnběn,version,phiên bản,noun,6,软件版本。,Phiên bản phần mềm.
+半途而废,bàntúérfèi,to give up halfway,bỏ dở nửa chừng,idiom,6,不要半途而废。,Đừng bỏ dở nửa chừng.
+扮演,bànyǎn,to play the role,đóng vai,verb,6,扮演角色。,Đóng vai trò.
+榜样,bǎngyàng,example,tấm gương,noun,6,树立榜样。,Nêu gương.
+傍晚,bàngwǎn,evening,chiều tối,noun,6,傍晚时分。,Lúc chiều tối.
+包庇,bāobì,to harbor,che chở,verb,6,包庇犯罪。,Che chở tội phạm.
+包装,bāozhuāng,packaging,bao bì,noun,6,产品包装。,Bao bì sản phẩm.
+饱满,bǎomǎn,full,đầy đặn,adjective,6,精神饱满。,Tinh thần đầy đặn.
+宝物,bǎowù,treasure,bảo vật,noun,6,珍贵宝物。,Bảo vật quý giá.
+宝贵,bǎoguì,precious,quý báu,adjective,6,宝贵经验。,Kinh nghiệm quý báu.
+保持,bǎochí,to maintain,duy trì,verb,6,保持联系。,Duy trì liên lạc.
+保存,bǎocún,to preserve,bảo tồn,verb,6,保存文件。,Bảo tồn tài liệu.
+保密,bǎomì,to keep secret,bảo mật,verb,6,保密协议。,Thỏa thuận bảo mật.
+保守,bǎoshǒu,conservative,bảo thủ,adjective,6,保守派。,Phe bảo thủ.
+保险,bǎoxiǎn,insurance,bảo hiểm,noun,6,人寿保险。,Bảo hiểm nhân thọ.
+保养,bǎoyǎng,to maintain,bảo dưỡng,verb,6,保养汽车。,Bảo dưỡng xe hơi.
+保障,bǎozhàng,to ensure,bảo đảm,verb,6,保障安全。,Bảo đảm an toàn.
+保证,bǎozhèng,to guarantee,bảo đảm,verb,6,保证质量。,Bảo đảm chất lượng.
+报酬,bàochou,reward,thù lao,noun,6,获得报酬。,Nhận thù lao.
+报道,bàodào,to report,đưa tin,verb,6,新闻报道。,Tin tức báo chí.
+报复,bàofù,to retaliate,trả thù,verb,6,报复行动。,Hành động trả thù.
+报告,bàogào,report,báo cáo,noun,6,提交报告。,Nộp báo cáo.
+报考,bàokǎo,to register for exam,đăng ký thi,verb,6,报考大学。,Đăng ký thi đại học.
+报社,bàoshè,newspaper office,tòa báo,noun,6,在报社工作。,Làm việc ở tòa báo.
+报销,bàoxiāo,to reimburse,thanh toán,verb,6,报销费用。,Thanh toán chi phí.
+抱怨,bàoyuàn,to complain,phàn nàn,verb,6,抱怨天气。,Phàn nàn thời tiết.
+暴露,bàolù,to expose,bộc lộ,verb,6,暴露问题。,Bộc lộ vấn đề.
+爆发,bàofā,to erupt,nổ ra,verb,6,战争爆发。,Chiến tranh nổ ra.
+悲剧,bēijù,tragedy,bi kịch,noun,6,人间悲剧。,Bi kịch nhân gian.
+备忘录,bèiwànglù,memo,sổ ghi nhớ,noun,6,写备忘录。,Viết sổ ghi nhớ.
+背叛,bèipàn,to betray,phản bội,verb,6,背叛祖国。,Phản bội tổ quốc.
+被动,bèidòng,passive,bị động,adjective,6,被动局面。,Cục diện bị động.
+被告,bèigào,the accused,bị cáo,noun,6,被告律师。,Luật sư bị cáo.
+奔波,bēnbō,to rush about,chạy vạy,verb,6,四处奔波。,Chạy vạy khắp nơi.
+奔驰,bēnchí,to speed,phóng nhanh,verb,6,奔驰的火车。,Tàu hỏa phóng nhanh.
+本能,běnnéng,instinct,bản năng,noun,6,本能反应。,Phản ứng bản năng.
+崩溃,bēngkuì,to collapse,sụp đổ,verb,6,精神崩溃。,Tinh thần sụp đổ.
+逼迫,bīpò,to compel,ép buộc,verb,6,逼迫投降。,Ép buộc đầu hàng.
+鼻涕,bítì,nasal mucus,nước mũi,noun,6,流鼻涕。,Chảy nước mũi.
+比方,bǐfang,for example,ví dụ,verb,6,比方说。,Ví dụ như.
+鄙视,bǐshì,to despise,khinh bỉ,verb,6,鄙视行为。,Hành vi khinh bỉ.
+毕竟,bìjìng,after all,rốt cuộc,adverb,6,毕竟是孩子。,Rốt cuộc là trẻ con.
+闭幕,bìmù,to close,bế mạc,verb,6,闭幕式。,Lễ bế mạc.
+弊端,bìduān,drawback,tệ nạn,noun,6,社会弊端。,Tệ nạn xã hội.
+边缘,biānyuán,edge,rìa,noun,6,城市边缘。,Rìa thành phố.
+辩论,biànlùn,to debate,tranh luận,verb,6,辩论赛。,Cuộc thi tranh luận.
+变迁,biànqiān,changes,biến thiên,noun,6,时代变迁。,Biến thiên thời đại.
+辨别,biànbié,to distinguish,phân biệt,verb,6,辨别真假。,Phân biệt thật giả.
+辩护,biànhù,to defend,biện hộ,verb,6,辩护律师。,Luật sư biện hộ.
+标签,biāoqiān,label,nhãn,noun,6,价格标签。,Nhãn giá.
+标本,biāoběn,specimen,mẫu vật,noun,6,植物标本。,Mẫu vật thực vật.
+标记,biāojì,mark,đánh dấu,verb,6,做标记。,Đánh dấu.
+标准,biāozhǔn,standard,tiêu chuẩn,noun,6,质量标准。,Tiêu chuẩn chất lượng.
+表达,biǎodá,to express,biểu đạt,verb,6,表达方式。,Cách biểu đạt.
+表格,biǎogé,form,biểu mẫu,noun,6,填写表格。,Điền biểu mẫu.
+表决,biǎojué,to vote,biểu quyết,verb,6,举手表决。,Giơ tay biểu quyết.
+表面,biǎomiàn,surface,bề mặt,noun,6,表面现象。,Hiện tượng bề mặt.
+表明,biǎomíng,to indicate,chỉ rõ,verb,6,表明态度。,Chỉ rõ thái độ.
+病人,bìngrén,patient,bệnh nhân,noun,6,病人需要休息。,Bệnh nhân cần nghỉ ngơi.
+并非,bìngfēi,not at all,không phải,verb,6,并非如此。,Không phải như vậy.
+拨款,bōkuǎn,to allocate funds,cấp vốn,verb,6,政府拨款。,Chính phủ cấp vốn.
+波浪,bōlàng,wave,sóng,noun,6,波浪起伏。,Sóng nhấp nhô.
+剥削,bōxuē,exploitation,bóc lột,noun,6,反对剥削。,Chống bóc lột.
+播种,bōzhǒng,to sow,gieo hạt,verb,6,春天播种。,Mùa xuân gieo hạt.
+薄弱,bóruò,weak,yếu ớt,adjective,6,意志薄弱。,Ý chí yếu ớt.
+博物馆,bówùguǎn,museum,bảo tàng,noun,6,参观博物馆。,Tham quan bảo tàng.
+补偿,bǔcháng,to compensate,đền bù,verb,6,经济补偿。,Đền bù kinh tế.
+补充,bǔchōng,to supplement,bổ sung,verb,6,补充营养。,Bổ sung dinh dưỡng.
+补贴,bǔtiē,subsidy,trợ cấp,noun,6,生活补贴。,Trợ cấp sinh hoạt.
+不安,bù'ān,uneasy,bất an,adjective,6,忐忑不安。,Bất an.
+不错,bùcuò,not bad,không tồi,adjective,6,很不错。,Không tồi.
+不得了,bùdéliǎo,terrible,không thể chịu nổi,adjective,6,热得不得了。,Nóng không chịu nổi.
+不敢当,bùgǎndāng,I don't deserve that,không dám nhận,phrase,6,您过奖了，不敢当。,Anh quá khen rồi.
+不忍心,bùrěnxīn,cannot bear to,không nỡ,verb,6,不忍心拒绝。,Không nỡ từ chối.
+不同,bùtóng,different,khác nhau,adjective,6,不同意见。,Ý kiến khác nhau.
+不知不觉,bùzhībùjué,unconsciously,vô thức,idiom,6,不知不觉天黑了。,Vô thức trời tối.
+布局,bùjú,layout,bố cục,noun,6,城市布局。,Bố cục thành phố.
+布置,bùzhì,to arrange,bố trí,verb,6,布置房间。,Bố trí phòng.
+裁判,cáipàn,referee,trọng tài,noun,6,足球裁判。,Trọng tài bóng đá.
+才干,cáigàn,ability,tài năng,noun,6,有才干。,Có tài năng.
+材料,cáiliào,material,tài liệu,noun,6,准备材料。,Chuẩn bị tài liệu.
+财产,cáichǎn,property,tài sản,noun,6,保护财产。,Bảo vệ tài sản.
