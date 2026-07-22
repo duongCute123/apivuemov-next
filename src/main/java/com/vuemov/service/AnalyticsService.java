@@ -70,6 +70,14 @@ public class AnalyticsService {
         return aggregateByField("os");
     }
 
+    public List<Map<String, Object>> getCountryStats() {
+        return aggregateByField("country");
+    }
+
+    public List<Map<String, Object>> getCityStats() {
+        return aggregateByField("city");
+    }
+
     public List<Map<String, Object>> getTopMovies(int limit) {
         Aggregation aggregation = Aggregation.newAggregation(
                 Aggregation.match(Criteria.where("eventType").is("movie_view")),

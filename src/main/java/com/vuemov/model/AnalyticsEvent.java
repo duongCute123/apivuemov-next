@@ -43,4 +43,10 @@ public class AnalyticsEvent {
     private String userId;
 
     private String referrer;
+
+    private String country;
+
+    private String city;
+
+    private String region;
 }

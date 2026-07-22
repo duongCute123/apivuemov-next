@@ -4,6 +4,7 @@ import com.vuemov.dto.ApiResponse;
 import com.vuemov.model.AnalyticsEvent;
 import com.vuemov.model.User;
 import com.vuemov.service.AnalyticsService;
+import com.vuemov.service.GeolocationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
@@ -17,12 +18,25 @@ import java.util.Map;
 public class AnalyticsController {
 
     private final AnalyticsService analyticsService;
+    private final GeolocationService geolocationService;
 
     @PostMapping("/track")
-    public ResponseEntity<ApiResponse<Void>> trackEvent(@RequestBody AnalyticsEvent event) {
+    public ResponseEntity<ApiResponse<Void>> trackEvent(
+            @RequestBody AnalyticsEvent event,
+            jakarta.servlet.http.HttpServletRequest request) {
         if (event.getUserAgent() != null && event.getUserAgent().length() > 500) {
             event.setUserAgent(event.getUserAgent().substring(0, 500));
         }
+
+        if (event.getIp() == null || event.getIp().isEmpty()) {
+            event.setIp(request.getRemoteAddr());
+        }
+
+        GeolocationService.GeoResult geo = geolocationService.getLocation(event.getIp());
+        event.setCountry(geo.getCountry());
+        event.setRegion(geo.getRegion());
+        event.setCity(geo.getCity());
+
         analyticsService.logEvent(event);
         return ResponseEntity.ok(ApiResponse.success("Event tracked", null));
     }
@@ -46,6 +60,16 @@ public class AnalyticsController {
     @GetMapping("/os")
     public ResponseEntity<ApiResponse<?>> getOsStats(@AuthenticationPrincipal User user) {
         return ResponseEntity.ok(ApiResponse.success(analyticsService.getOsStats()));
+    }
+
+    @GetMapping("/countries")
+    public ResponseEntity<ApiResponse<?>> getCountryStats(@AuthenticationPrincipal User user) {
+        return ResponseEntity.ok(ApiResponse.success(analyticsService.getCountryStats()));
+    }
+
+    @GetMapping("/cities")
+    public ResponseEntity<ApiResponse<?>> getCityStats(@AuthenticationPrincipal User user) {
+        return ResponseEntity.ok(ApiResponse.success(analyticsService.getCityStats()));
     }
 
     @GetMapping("/top-movies")
