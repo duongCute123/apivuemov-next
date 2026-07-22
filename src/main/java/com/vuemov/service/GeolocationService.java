@@ -3,6 +3,7 @@ package com.vuemov.service;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import java.net.URI;
@@ -21,6 +22,9 @@ public class GeolocationService {
     private final ObjectMapper objectMapper;
     private final Map<String, GeoResult> cache = new ConcurrentHashMap<>();
 
+    @Value("${IPINFO_TOKEN:}")
+    private String ipinfoToken;
+
     public GeolocationService() {
         this.httpClient = HttpClient.newBuilder()
                 .connectTimeout(Duration.ofSeconds(3))
@@ -38,6 +42,62 @@ public class GeolocationService {
             return cached;
         }
 
+        GeoResult result = fetchFromIpinfo(ip);
+        if (result == null) {
+            result = fetchFromIpApi(ip);
+        }
+
+        if (result != null) {
+            cache.put(ip, result);
+            return result;
+        }
+
+        return new GeoResult("", "", "", 0, 0, "");
+    }
+
+    private GeoResult fetchFromIpinfo(String ip) {
+        if (ipinfoToken == null || ipinfoToken.isEmpty()) {
+            return null;
+        }
+
+        try {
+            String url = "https://ipinfo.io/" + ip + "?token=" + ipinfoToken;
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(URI.create(url))
+                    .timeout(Duration.ofSeconds(3))
+                    .GET()
+                    .build();
+
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+
+            if (response.statusCode() == 200) {
+                JsonNode json = objectMapper.readTree(response.body());
+
+                String country = json.path("country").asText("");
+                String region = json.path("region").asText("");
+                String city = json.path("city").asText("");
+
+                double lat = 0;
+                double lon = 0;
+                String loc = json.path("loc").asText("");
+                if (!loc.isEmpty() && loc.contains(",")) {
+                    String[] parts = loc.split(",");
+                    lat = Double.parseDouble(parts[0].trim());
+                    lon = Double.parseDouble(parts[1].trim());
+                }
+
+                String address = reverseGeocode(lat, lon);
+
+                return new GeoResult(country, region, city, lat, lon, address);
+            }
+        } catch (Exception e) {
+            log.warn("Failed to geolocate IP {} with ipinfo: {}", ip, e.getMessage());
+        }
+
+        return null;
+    }
+
+    private GeoResult fetchFromIpApi(String ip) {
         try {
             String url = "http://ip-api.com/json/" + ip + "?fields=country,regionName,city,lat,lon,status";
             HttpRequest request = HttpRequest.newBuilder()
@@ -59,16 +119,14 @@ public class GeolocationService {
 
                     String address = reverseGeocode(lat, lon);
 
-                    GeoResult result = new GeoResult(country, region, city, lat, lon, address);
-                    cache.put(ip, result);
-                    return result;
+                    return new GeoResult(country, region, city, lat, lon, address);
                 }
             }
         } catch (Exception e) {
-            log.warn("Failed to geolocate IP {}: {}", ip, e.getMessage());
+            log.warn("Failed to geolocate IP {} with ip-api: {}", ip, e.getMessage());
         }
 
-        return new GeoResult("", "", "", 0, 0, "");
+        return null;
     }
 
     private String reverseGeocode(double lat, double lon) {
