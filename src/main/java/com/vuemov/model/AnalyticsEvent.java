@@ -49,4 +49,10 @@ public class AnalyticsEvent {
     private String city;
 
     private String region;
+
+    private String address;
+
+    private double latitude;
+
+    private double longitude;
 }

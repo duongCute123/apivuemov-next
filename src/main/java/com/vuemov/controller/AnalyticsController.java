@@ -29,13 +29,25 @@ public class AnalyticsController {
         }
 
         if (event.getIp() == null || event.getIp().isEmpty()) {
-            event.setIp(request.getRemoteAddr());
+            String ip = request.getHeader("X-Forwarded-For");
+            if (ip == null || ip.isEmpty() || ip.equals("unknown")) {
+                ip = request.getHeader("X-Real-IP");
+            }
+            if (ip == null || ip.isEmpty() || ip.equals("unknown")) {
+                ip = request.getRemoteAddr();
+            } else if (ip.contains(",")) {
+                ip = ip.split(",")[0].trim();
+            }
+            event.setIp(ip);
         }
 
         GeolocationService.GeoResult geo = geolocationService.getLocation(event.getIp());
         event.setCountry(geo.getCountry());
         event.setRegion(geo.getRegion());
         event.setCity(geo.getCity());
+        event.setAddress(geo.getAddress());
+        event.setLatitude(geo.getLatitude());
+        event.setLongitude(geo.getLongitude());
 
         analyticsService.logEvent(event);
         return ResponseEntity.ok(ApiResponse.success("Event tracked", null));

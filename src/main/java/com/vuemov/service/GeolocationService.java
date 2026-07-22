@@ -30,7 +30,7 @@ public class GeolocationService {
 
     public GeoResult getLocation(String ip) {
         if (ip == null || ip.isEmpty() || ip.equals("127.0.0.1") || ip.equals("::1") || ip.startsWith("192.168.") || ip.startsWith("10.")) {
-            return new GeoResult("Localhost", "", "");
+            return new GeoResult("Localhost", "", "", 0, 0, "");
         }
 
         GeoResult cached = cache.get(ip);
@@ -39,7 +39,7 @@ public class GeolocationService {
         }
 
         try {
-            String url = "http://ip-api.com/json/" + ip + "?fields=country,regionName,city,status";
+            String url = "http://ip-api.com/json/" + ip + "?fields=country,regionName,city,lat,lon,status";
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create(url))
                     .timeout(Duration.ofSeconds(3))
@@ -54,8 +54,12 @@ public class GeolocationService {
                     String country = json.path("country").asText("");
                     String region = json.path("regionName").asText("");
                     String city = json.path("city").asText("");
+                    double lat = json.path("lat").asDouble(0);
+                    double lon = json.path("lon").asDouble(0);
 
-                    GeoResult result = new GeoResult(country, region, city);
+                    String address = reverseGeocode(lat, lon);
+
+                    GeoResult result = new GeoResult(country, region, city, lat, lon, address);
                     cache.put(ip, result);
                     return result;
                 }
@@ -64,22 +68,83 @@ public class GeolocationService {
             log.warn("Failed to geolocate IP {}: {}", ip, e.getMessage());
         }
 
-        return new GeoResult("", "", "");
+        return new GeoResult("", "", "", 0, 0, "");
+    }
+
+    private String reverseGeocode(double lat, double lon) {
+        if (lat == 0 && lon == 0) {
+            return "";
+        }
+
+        try {
+            String url = String.format(
+                    "https://nominatim.openstreetmap.org/reverse?format=json&lat=%f&lon=%f&accept-language=vi",
+                    lat, lon
+            );
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(URI.create(url))
+                    .timeout(Duration.ofSeconds(3))
+                    .header("User-Agent", "VueMov-Backend/1.0")
+                    .GET()
+                    .build();
+
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+
+            if (response.statusCode() == 200) {
+                JsonNode json = objectMapper.readTree(response.body());
+                JsonNode address = json.path("address");
+
+                String ward = address.path("suburb").asText("");
+                if (ward.isEmpty()) ward = address.path("township").asText("");
+                if (ward.isEmpty()) ward = address.path("village").asText("");
+
+                String district = address.path("county").asText("");
+                if (district.isEmpty()) district = address.path("district").asText("");
+
+                String province = address.path("state").asText("");
+
+                StringBuilder sb = new StringBuilder();
+                if (!ward.isEmpty()) sb.append(ward);
+                if (!district.isEmpty()) {
+                    if (sb.length() > 0) sb.append(", ");
+                    sb.append(district);
+                }
+                if (!province.isEmpty()) {
+                    if (sb.length() > 0) sb.append(", ");
+                    sb.append(province);
+                }
+
+                return sb.toString();
+            }
+        } catch (Exception e) {
+            log.warn("Failed to reverse geocode ({}, {}): {}", lat, lon, e.getMessage());
+        }
+
+        return "";
     }
 
     public static class GeoResult {
         private final String country;
         private final String region;
         private final String city;
+        private final double latitude;
+        private final double longitude;
+        private final String address;
 
-        public GeoResult(String country, String region, String city) {
+        public GeoResult(String country, String region, String city, double latitude, double longitude, String address) {
             this.country = country;
             this.region = region;
             this.city = city;
+            this.latitude = latitude;
+            this.longitude = longitude;
+            this.address = address;
         }
 
         public String getCountry() { return country; }
         public String getRegion() { return region; }
         public String getCity() { return city; }
+        public double getLatitude() { return latitude; }
+        public double getLongitude() { return longitude; }
+        public String getAddress() { return address; }
     }
 }
