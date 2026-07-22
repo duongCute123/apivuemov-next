@@ -123,6 +123,33 @@ public class GeolocationService {
         return "";
     }
 
+    public GeoResult getLocationFromCoords(double lat, double lon) {
+        if (lat == 0 && lon == 0) {
+            return new GeoResult("", "", "", 0, 0, "");
+        }
+
+        String address = reverseGeocode(lat, lon);
+        String country = "";
+        String region = "";
+        String city = "";
+
+        if (!address.isEmpty()) {
+            String[] parts = address.split(", ");
+            if (parts.length >= 3) {
+                city = parts[parts.length - 3].trim();
+                region = parts[parts.length - 2].trim();
+                country = parts[parts.length - 1].trim();
+            } else if (parts.length == 2) {
+                region = parts[0].trim();
+                country = parts[1].trim();
+            } else if (parts.length == 1) {
+                country = parts[0].trim();
+            }
+        }
+
+        return new GeoResult(country, region, city, lat, lon, address);
+    }
+
     public static class GeoResult {
         private final String country;
         private final String region;

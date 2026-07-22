@@ -41,7 +41,12 @@ public class AnalyticsController {
             event.setIp(ip);
         }
 
-        GeolocationService.GeoResult geo = geolocationService.getLocation(event.getIp());
+        GeolocationService.GeoResult geo;
+        if (event.getLatitude() != 0 && event.getLongitude() != 0) {
+            geo = geolocationService.getLocationFromCoords(event.getLatitude(), event.getLongitude());
+        } else {
+            geo = geolocationService.getLocation(event.getIp());
+        }
         event.setCountry(geo.getCountry());
         event.setRegion(geo.getRegion());
         event.setCity(geo.getCity());
